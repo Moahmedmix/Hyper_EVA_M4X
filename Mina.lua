@@ -138,7 +138,7 @@ local TweenService = Services.TweenService
 local UserInputService = Services.UserInputService
 local CoreGui = Services.CoreGui
 
-local REPO_URL = "https://raw.githubusercontent.com/Moahmedmix/Hyper_M4X/main/"
+local REPO_URL = "https://raw.githubusercontent.com/Moahmedmix/Hyper_M4X_EVADE/main/"
 
 
 -- =============================================
