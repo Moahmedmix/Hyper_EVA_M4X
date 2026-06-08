@@ -1,10 +1,14 @@
 -- =============================================
 -- Event.lua
 -- تبويب الـ Event + Battlepass Modifications
+-- (نفس الكود الأصلي)
 -- =============================================
 
-return function(EventTab, SafeCall)
-    
+return function(Tabs, SafeCall)
+
+    local EventTab = Tabs.Event
+    local RunService = game:GetService("RunService")
+
     EventTab:AddSection("Battlepass Modifications")
 
     -- Unlocked Time Pass
@@ -15,7 +19,7 @@ return function(EventTab, SafeCall)
             SafeCall(function()
                 if state then
                     if not featureStates.UnlockedPassLoop then
-                        featureStates.UnlockedPassLoop = game:GetService("RunService").Heartbeat:Connect(function()
+                        featureStates.UnlockedPassLoop = RunService.Heartbeat:Connect(function()
                             pcall(function()
                                 local menu = game:GetService("Players").LocalPlayer.PlayerGui.Menu
                                 if menu and menu.Views and menu.Views.Battlepass and menu.Views.Battlepass.ViewPass then
@@ -55,7 +59,7 @@ return function(EventTab, SafeCall)
             SafeCall(function()
                 if state then
                     if not featureStates.ExchangeOpenLoop then
-                        featureStates.ExchangeOpenLoop = game:GetService("RunService").Heartbeat:Connect(function()
+                        featureStates.ExchangeOpenLoop = RunService.Heartbeat:Connect(function()
                             pcall(function()
                                 local menu = game:GetService("Players").LocalPlayer.PlayerGui.Menu
                                 if menu and menu.Views and menu.Views.Battlepass then
