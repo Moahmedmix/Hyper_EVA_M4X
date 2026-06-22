@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Hyper UI | Ultimate Roblox Evade Script
+# Neo Hyper UI |  Roblox Evade Script
 
 🔀 **Languages:** [🇺🇸 English](./README.md) | [🇷🇺 Русский](./README_R.md)
 
@@ -15,7 +15,7 @@
 
 </div>
 
-# ⚡ Hyper UI | Ultimate Roblox Evade Script
+# Neo Hyper UI | Ultimate Roblox Evade Script
 Welcome to **Hyper UI**, the most advanced, multi-featured, and highly optimized Luau script designed for Roblox. Built with premium performance and comprehensive protections using the premium **WindUI Library**.
 ## ✨ Features
 ### 🏠 Home & Dashboard
