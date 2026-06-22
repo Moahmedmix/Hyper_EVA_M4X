@@ -48,9 +48,6 @@ Welcome to **Hyper UI**, the most advanced, multi-featured, and highly optimized
 ### ⚙️ Settings & Localization
  * **Themes:** 5 premium theme setups (Ocean Deep, Crimson, Dark, Amethyst, Blood Red).
  * **Languages:** Full translation support for **English, Arabic, French, Spanish, and German**.
-
-
-```
 ## 🛠️ Supported Executors
 ### 📱 Mobile (Android)
  * Delta, Codex, Arceus X, Fluxus, Hydrogen.
