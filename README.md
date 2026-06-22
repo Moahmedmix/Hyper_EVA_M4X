@@ -48,11 +48,7 @@ Welcome to **Hyper UI**, the most advanced, multi-featured, and highly optimized
 ### ⚙️ Settings & Localization
  * **Themes:** 5 premium theme setups (Ocean Deep, Crimson, Dark, Amethyst, Blood Red).
  * **Languages:** Full translation support for **English, Arabic, French, Spanish, and German**.
-## 🚀 How to Use
-Copy the direct loadstring below and execute it using any supported Roblox exploit.
-```lua
--- Hyper UI Launch Script
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Moahmedmix/Hyper_M4X/main/Main.lua"))()
+
 
 ```
 ## 🛠️ Supported Executors
