@@ -2,8 +2,10 @@
 
 # ⚡ Hyper UI | Ultimate Roblox Evade Script
 
-<!-- زرار التبديل بين اللغات -->
-<a href="./README.md"><b>🇺🇸 English</b></a> | <a href="./README_R.md"><b>🇷🇺 Русский (Russian)</b></a>
+🔀 **Languages:** [🇺🇸 English](./README.md) | [🇷🇺 Русский](./README_R.md)
+
+---
+</div>
 
 ---
 
