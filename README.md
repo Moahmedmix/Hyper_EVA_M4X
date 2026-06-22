@@ -1,3 +1,18 @@
+<div align="center">
+
+# ⚡ Hyper UI | Ultimate Roblox Evade Script
+
+<!-- زرار التبديل بين اللغات -->
+<a href="./README.md"><b>🇺🇸 English</b></a> | <a href="./README_R.md"><b>🇷🇺 Русский (Russian)</b></a>
+
+---
+
+![License](https://img.shields.io/github/license/Moahmedmix/Hyper_M4X?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Undetected-brightgreen?style=for-the-badge)
+![Supported Executors](https://img.shields.io/badge/Executors-Delta%20%7C%20Wave%20%7C%20Codex-blue?style=for-the-badge)
+
+</div>
+
 # ⚡ Hyper UI | Ultimate Roblox Evade Script
 Welcome to **Hyper UI**, the most advanced, multi-featured, and highly optimized Luau script designed for Roblox. Built with premium performance and comprehensive protections using the premium **WindUI Library**.
 ## ✨ Features
