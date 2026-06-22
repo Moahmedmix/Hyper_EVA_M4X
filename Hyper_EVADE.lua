@@ -1,1 +1,2552 @@
---[[ v1.0.0 https://wearedevs.net/obfuscator ]] return(function(...)local Q={"\043\107\083\083\118\115\061\061","\043\107\099\098\043\107\072\047";"\052\120\116\057\043\086\075\107\086\056\068\069\057\087\080\089\078\113\061\061","\118\107\082\047\070\120\082\047\043\100\114\083\043\056\116\111","\118\048\114\088\065\120\090\066","\070\085\068\120\052\047\103\108\110\109\052\107\120\117\082\078\082\117\087\061","\070\109\051\061","\100\089\099\066\043\067\061\061";"\118\104\097\083\070\104\067\061","\120\056\067\088\057\086\068\100\082\100\072\105\102\109\075\088";"\043\066\111\047\068\075\061\061";"\068\048\097\089\043\115\061\061";"\052\104\099\098\052\120\089\105\068\100\051\061","\082\055\086\073\070\089\113\061","\057\104\067\088\110\110\083\117\052\085\083\055\070\072\097\109\082\075\061\061","\102\104\111\088\097\048\103\048\070\056\068\069\057\100\114\100";"\086\087\079\073\110\104\079\111","\052\104\099\073\052\085\103\080\070\056\118\061";"\068\085\077\053\114\086\082\057\043\086\068\100\082\047\106\081\110\113\061\061","\107\103\074\054\113\103\086\121\047\109\119\055\082\055\054\072\122\081\080\121\050\116\070\070\051\121\087\082\116\081\069\098\121\084\110\073\054\076\088\112\097\117\084\109\049\049\068\056\047\108\047\054\099\106\105\074\104\069\114\088\051\067\072\102\106\085\119\054\068\082\097\112\099\083\043\100\068\072\116\050\073\071\066\067\121\111\098\116\051\116\056\074\121\081\080\054\079\054\118\066\078\057\055\113\074\120\075\061","\118\056\082\079\070\048\068\111","";"\078\085\114\047\118\087\052\111\052\113\061\061";"\078\072\057\090\078\109\082\047\075\115\061\061","\118\087\052\100\057\082\083\080\070\047\089\100\043\073\111\077\110\115\061\061";"\100\089\099\079\068\100\114\083\052\104\072\105\070\104\086\061";"\100\089\099\084\068\120\081\061","\118\056\072\098\068\104\099\079";"\068\100\103\088\070\048\051\061","\070\104\099\083\068\085\097\047\118\056\111\098\068\067\061\061";"\082\104\072\079\118\104\082\088\051\087\114\111\052\104\082\117\052\104\082\055\051\075\061\061","\065\089\077\084\052\100\087\090\057\117\077\056\118\120\082\067","\052\104\072\105\070\104\086\061";"\078\087\111\106\120\120\089\088\075\120\082\117\120\072\111\108";"\068\107\072\079\068\075\061\061";"\068\107\089\083\052\104\097\106";"\065\104\099\111\097\056\103\112\075\110\068\103\052\100\083\077\078\056\051\061";"\100\089\099\080\070\056\114\111\101\113\061\061","\068\056\116\053\070\048\051\061";"\070\120\072\047\065\113\061\061","\086\066\111\097\068\117\077\076\057\109\087\088\075\066\114\104\070\113\061\061";"\102\115\061\061";"\070\109\087\061";"\070\104\082\098","\052\120\090\067\043\120\097\112";"\068\066\097\068\070\086\068\080\057\066\114\089\057\087\103\100\097\115\061\061","\102\105\115\111\068\074\106\080\102\115\061\061"}local function B(B)return Q[B+(955328+-920301)]end for B,G in ipairs({{34282+-34281,-395683-(-395730)};{836119-836118,-1046578-(-1046615)},{-973417+973455;43009-42962}})do while G[906350-906349]<G[-117663-(-117665)]do Q[G[-845930+845931]],Q[G[150562+-150560]],G[390981-390980],G[583691+-583689]=Q[G[399790+-399788]],Q[G[413449-413448]],G[-338655-(-338656)]+(-852893+852894),G[-436379-(-436381)]-(346076-346075)end end do local B=math.floor local G=type local m=Q local D={X=408366+-408316,n=-997348+997367,["\051"]=285187-285179;["\056"]=340475+-340437;c=-409481-(-409542);q=1003779+-1003779,J=901244-901242,B=383598-383559;m=-194015-(-194018),["\049"]=-463846-(-463877),k=265521+-265467;["\054"]=714270-714210;F=-874461+874488,["\050"]=20492+-20429,v=886527+-886499,["\053"]=159661-159614;U=754747-754740;["\048"]=788952-788897;M=-790960+790961,C=301160+-301112;Z=-734701+734758;a=641223-641210;["\055"]=-580761+580797;i=733411-733377;O=-867535+867580;h=439791-439785;["\043"]=440213+-440189;W=-510639+510643;V=-142793-(-142813),K=-356451+356467;e=-172430-(-172460),u=1026215+-1026180;I=-1039893-(-1039944);d=-313263-(-313286),T=-566184-(-566228),b=433599-433553,y=497626-497584,["\057"]=-542036+542048;z=-991992+992003,S=295705-295672,t=678365+-678316;p=138805-138762;A=-457782+457808,P=60835-60794;L=438214+-438156;o=-141081-(-141118),Y=1034054+-1034001;j=888793-888753;x=964486+-964464,D=279122-279097;["\047"]=-663396-(-663448),w=816676+-816614;H=-653144+653149;G=393504-393445;["\052"]=74098+-74069;N=-414386-(-414404),s=716777-716745,R=955160-955139;E=295005+-294995,f=390407-390393;l=728167-728152,r=-427836+427853,g=36857+-36848,Q=-458117-(-458173)}local U=table.insert local x=string.char local w=string.sub local I=string.len local Y=table.concat for Q=-414049-(-414050),#m,-67972+67973 do local z=m[Q]if G(z)=="\115\116\114\105\110\103"then local G=I(z)local b={}local y=271904-271903 local g=-739740-(-739740)local j=-89845+89845 while y<=G do local Q=w(z,y,y)local m=D[Q]if m then g=g+m*(-324118+324182)^((-726966-(-726969))-j)j=j+(821259-821258)if j==744939-744935 then j=-1029581+1029581 local Q=B(g/(-946187+1011723))local G=B((g%(879998-814462))/(-765061+765317))local m=g%(-456987-(-457243))U(b,x(Q,G,m))g=874239-874239 end elseif Q=="\061"then U(b,x(B(g/(422347+-356811))))if y>=G or w(z,y+(896405-896404),y+(-143457-(-143458)))~="\061"then U(b,x(B((g%(195917-130381))/(-367850+368106))))end break end y=y+(-517607+517608)end m[Q]=Y(b)end end end return(function(Q,m,D,U,x,w,I,j,l,s,q,y,G,g,N,c,M,Y,b,p,z,L)s,z,g,N,G,Y,p,c,L,j,l,y,M,b,q=function(Q,B)local m=g(B)local D=function(D,U,x,w)return G(Q,{D,U;x,w},B,m)end return D end,{},function(Q)for B=594362+-594361,#Q,-510387-(-510388)do z[Q[B]]=(725666+-725665)+z[Q[B]]end if D then local G=D(true)local m=x(G)m[B(631646-666645)],m[B(484905+-519887)],m[B(495316-530326)]=Q,j,function()return 917641-781013 end return G else return U({},{[B(594362-629344)]=j,[B(680979+-715978)]=Q,[B(199339+-234349)]=function()return-610726-(-747354)end})end end,function(Q,B)local m=g(B)local D=function(D,U,x,w,I)return G(Q,{D,U;x,w,I},B,m)end return D end,function(G,D,U,x)local O,y,X,E,i,z,g,J,a,n,K,R,v,V,q,S,f,j,e,r,F,I,T,d,h,P,t,Z,H,u,A,o,k,C while G do if G<-1038748+8897844 then if G<3555690-(-740845)then if G<3363207-990619 then if G<-824047+1973070 then if G<1186865-467205 then if G<-338266+950076 then if G<691253-272702 then f=h r=f G=14746982-(-921577)C[f]=r f=nil else v=489209-489208 e=o[v]F=e G=-182413+942028 end else G=910841+5761600 end else if G<-253664+987929 then G=O I=K G=K and 14761434-(-991826)or 16580388-142892 else Y[y]=F A=973698+-973697 T=Y[a]V=T+A v=o[V]e=i+v v=-798530-(-798786)G=e%v V=Y[r]i=G G=12931818-(-626184)v=X+V V=-617690+617946 e=v%V X=e end end else if G<647659+673640 then if G<1306276-(-23)then Y[y]=I G=-153151+13711153 else G=true Y[U[152040+-152039]]=G G=Q[B(-560815+525797)]I={}end else if G<2331219-25189 then R=Y[y]G=R and-616563+3870784 or-738032+8162114 P=R else G=true G=G and 14987023-(-483926)or 12393851-(-361728)end end end else if G<4143898-426144 then if G<3048316-490424 then if G<338427+2125372 then if G<1997112-(-394091)then h=b()n=nil f={}Y[h]=f t=N(-187624+10878144,{h;K;O,q})f=b()v=nil Y[f]=t C=nil i=nil q=c(q)H=B(18862+-53848)Z=B(233165-268164)d=nil t={}E=b()r={}Y[E]=t t=Q[H]u=Y[E]S=nil o=B(874736-909747)a={[Z]=u;[o]=v}H=t(r,a)y=H t=s(8059621-888682,{E;h,X;K,O,f})K=c(K)O=c(O)S=B(923743-958745)q=B(-961276+926269)X=c(X)I={}O=B(98520-133537)E=c(E)h=c(h)f=c(f)j=nil j=Q[q]i=3148807976128-(-921850)n=Q[S]g=t K=g(O,i)d=y[K]K=B(-971138+936124)K=n[K]y=nil S={K(n,d)}q=j(m(S))j=q()G=Q[B(527082+-562062)]g=nil else G=-915685+7588126 end else I=B(596134+-631158)d=B(113504+-148485)G=Q[I]K=N(913494+12570330,{})z=Y[U[929880-929876]]j=B(483878+-518897)g=Q[j]S=Q[d]d={S(K)}n={m(d)}S=100297+-100295 q=n[S]j=g(q)g=B(1018953+-1053943)y=z(j,g)z={y()}I=G(m(z))y=Y[U[383118-383113]]G=y and 754962+2757987 or-437861+5001452 z=I I=y end else if G<-928495+4203758 then R=i==X G=83154+7340928 P=R else g=Y[U[-189190-(-189196)]]y=g==z I=y G=5584748-1021157 end end else if G<4137001-140828 then if G<3356426-(-620054)then E=B(463589-498583)k=B(-339236+304217)G=Q[k]t=Q[E]k=G(t)G=B(87748+-122731)Q[G]=k G=578612+77503 else e=Y[y]G=e and-399368+979521 or-200682+960297 F=e end else if G<3093924-(-1045385)then g=B(86603+-121607)y=Q[g]G=Q[B(521023+-556023)]g=B(594058+-629074)z=y[g]g=Y[U[521784+-521783]]y={z(g)}I={m(y)}else S=not n g=g+q y=g<=j y=S and y S=g>=j S=n and S y=S or y S=50644+16618526 G=y and S y=6047362-(-231310)G=G or y end end end end else if G<-607356+7170117 then if G<-448111+5965304 then if G<5441906-188002 then if G<-238557+5167231 then if G<390257+4167318 then j=b()G=true y=b()z=D g=B(-422342+387357)Y[y]=G I=Q[g]g=B(479499-514500)q=b()S=B(815598+-850579)G=I[g]g=b()Y[g]=G G=M(-883628+6571006,{})Y[j]=G G=false d=l(1896485-578772,{q})Y[q]=G n=Q[S]S=n(d)G=S and 5313715-(-123396)or 884675+12699366 I=S else G=-603564+12155595 Y[U[54157-54152]]=I z=nil end else E=not t P=P+k I=P<=R I=E and I E=P>=R E=t and E I=E or I E=16556863-(-21155)G=I and E I=1612144-192708 G=G or I end else if G<-173064+5594366 then C=B(-1073953-(-1038949))X=Q[C]G=-262453-(-988823)C=B(-856460+821468)i=X[C]K=i else n=Y[q]I=n G=12644431-(-939610)end end else if G<685289+5091753 then if G<6199717-483679 then I=B(254845+-289853)z=B(52232+-87238)G=Q[I]I=G(z)I={}G=Q[B(-302251+267264)]else G=1611997-(-751758)end else if G<-596056+6753367 then G=-369248+15240380 else G=Y[U[811432+-811422]]y=Y[U[-457979-(-457990)]]z[G]=y G=Y[U[596402-596390]]y={G(z)}I={m(y)}G=Q[B(-512092+477108)]end end end else if G<860741+6470565 then if G<6200984-(-1023092)then if G<364853+6657112 then if G<7735806-914964 then G=true G=G and 663997+8731017 or 10248137-524974 else y=303070+-303069 G={}z=G g=Y[U[944909+-944900]]j=g g=-286682-(-286683)q=g g=-919130+919130 n=q<g g=y-q G=5193474-924234 end else y=D[-15795-(-15797)]z=D[867814+-867813]G=Y[U[705485-705484]]g=G G=g[y]G=G and-643242+6705523 or 7315168-(-962363)end else if G<-287663+7611428 then G=10518703-370362 else g=101184+-100968 y=Y[U[785415-785412]]z=y*g y=480724-480467 I=z%y Y[U[-695690-(-695693)]]=I G=12889434-365821 end end else if G<8484127-1036147 then if G<180975+7205249 then y=Y[U[717765-717763]]g=Y[U[-542637-(-542640)]]G=654683+12341866 z=y==g I=z else Y[y]=P G=Y[y]G=G and 996025+6320010 or 7903311-379850 end else if G<677775+6949092 then G=true G=203385+16223628 else d=O k=B(1007981-1042966)R=Q[k]k=B(-341280-(-306254))P=R[k]R=P(z,d)P=Y[U[169568+-169562]]k=P()h=R+k f=h+n h=-530554+530810 C=f%h n=C h=g[y]k=942388+-942387 R=n+k P=j[R]d=nil f=h..P G=15398272-131035 g[y]=f end end end end end else if G<13584586-52011 then if G<8008+11316031 then if G<360113+9302005 then if G<-817786+10210867 then if G<7995954-(-406430)then if G<915455+7318170 then e=G T=373681-373680 V=o[T]T=false v=V==T G=v and 13601331-(-422552)or-269546+15737393 F=v else O=-74682+74683 d=B(109196-144181)G={}q=-593928+35184372682760 Y[U[382334-382332]]=G I=Y[U[219103-219100]]j=I I=y%q Y[U[-429756+429760]]=I S=-612620+612875 n=y%S S=-1035680-(-1035682)q=n+S Y[U[491397-491392]]=q S=Q[d]d=B(125450-160443)n=S[d]S=n(z)d=466170-466169 i=O O=-103602+103602 n=B(-179351-(-144336))g[y]=n n=-627592+627669 K=S X=i<O G=-719445+15986682 O=d-i end else z=B(-783976-(-748968))G=Q[z]g=-458888+458888 y=Y[U[-176560+176568]]z=G(y,g)G=651243+6192685 end else if G<672332+8754679 then k=108618+-108617 G=Y[S]t=-947296-(-947302)R=G(k,t)t=B(-1057075-(-1022092))G=B(-283773-(-248790))Q[G]=R k=Q[t]t=-253907-(-253909)G=k>t G=G and 3579741-(-298630)or 511608+10709822 else t=#C h=-622597+622598 f=j(h,t)h=n(C,f)t=Y[X]G=19035+13823702 r=398141+-398140 f=nil H=h-r E=S(H)t[h]=E h=nil end end else if G<10705490-454631 then if G<10749386-908041 then G=Q[B(-511292+476289)]I={}else h=c(h)O=c(O)S=c(S)C=nil y=c(y)X=nil h=-40524-(-40780)K=c(K)K=B(160483+-195468)S=B(886553-921550)d=nil G=15097825-(-570734)j=c(j)t=h q=c(q)O=b()X=b()n=nil i=nil g=c(g)f=nil y=nil n=B(-779553+744556)g=nil q=Q[n]n=B(-382706+347708)j=q[n]q=b()d=B(-321130+286126)i={}Y[q]=j n=Q[S]S=B(-1080681-(-1045672))j=n[S]S=Q[d]d=B(1023314+-1058330)n=S[d]d=Q[K]K=B(-777340+742351)S=d[K]K=b()d=448011-448011 Y[K]=d d=1033679+-1033677 f=-610971-(-610972)Y[O]=d h=727345+-727344 C={}E=h d={}Y[X]=i i=820133+-820133 h=-359569-(-359569)H=E<h h=f-E end else if G<11669803-495757 then z=Y[U[1048039-1048038]]I=#z z=-973001-(-973001)G=I==z G=G and 13801781-(-34528)or-917241+4923823 else t=B(191469+-226452)G=Q[t]t=B(939110-974104)Q[t]=G G=274915+381200 end end end else if G<1010225+11576114 then if G<11733792-(-608893)then if G<12280966-114246 then if G<11603814-93506 then i=801721+-801708 g=-784465+784497 y=Y[U[255740-255737]]z=y%g K=416240+-416238 j=Y[U[-988382+988386]]S=Y[U[886654+-886652]]f=Y[U[325505+-325502]]C=f-z f=424389+-424357 X=C/f O=i-X d=K^O n=S/d q=j(n)j=4295611541-644245 d=84598-84597 K=758925-758669 g=q%j q=-922891-(-922893)j=q^z y=g/j j=Y[U[75762+-75758]]S=y%d d=211366+4294755930 n=S*d q=j(n)j=Y[U[961715+-961711]]n=j(y)S=-214770-(-280306)g=q+n q=998253+-932717 j=g%q n=g-j y=nil q=n/S S=408653+-408397 G=246703+3759879 n=j%S g=nil d=j-n S=d/K K=-444356+444612 d=q%K j=nil i=811977-811721 z=nil O=q-d K=O/i q=nil O={n,S,d;K}d=nil S=nil K=nil Y[U[406028-406027]]=O n=nil else G=Y[U[-490200-(-490207)]]G=G and-859435+10248161 or-74282+6918210 end else G=true G=G and 2159124-(-239755)or 17084261-657248 end else if G<12835831-377008 then q=759853-759851 y=Y[U[452855+-452854]]j=-985829-(-985830)g=y(j,q)y=-453513+453514 z=g==y I=z G=z and 13217477-220928 or-1015991+8348219 else y=Y[U[36219-36216]]g=-284872+284873 z=y~=g G=z and 11787308-421318 or 6438808-(-891147)end end else if G<-745524+13663499 then if G<13845168-1035661 then I={}G=Q[B(-962603+927607)]else F=Y[y]G=F and-218982+8375849 or 710999-(-587609)I=F end else if G<13284291-99684 then G=I and 879987+1620039 or 11720770-168739 else y=B(448990+-484003)I=7768842-(-102412)g=3885460-(-417099)z=y^g G=I-z I=B(623773-658793)z=G G=I/z I={G}G=Q[B(-635533-(-600512))]end end end end else if G<15800557-311153 then if G<-891284+14919541 then if G<182844+13656868 then if G<-446819+14244696 then if G<14396784-827212 then u=c(u)r=c(r)a=c(a)G=-595408+5635073 H=c(H)E=c(E)o=nil Z=c(Z)else S=B(529294-564291)n=I I=Q[S]S=B(58920-93929)G=I[S]S=b()d=B(819431+-854435)X=B(-840609-(-805605))Y[S]=G I=Q[d]d=B(-1049590-(-1014602))G=I[d]O=G d=G i=Q[X]K=i G=i and 5772028-377212 or 226616-(-499754)end else g=-306104-(-306137)y=Y[U[-172959+172961]]z=y*g y=-449339+34917619620540 I=z+y z=929663+35184371159169 G=I%z Y[U[92507-92505]]=G y=192277+-192276 z=Y[U[-667194+667197]]G=7576460-246505 I=z~=y end else if G<-605964+14471107 then h=#C t=-904740-(-904740)f=h==t G=f and 366520+2009925 or 8989886-(-531636)else T=373483+-373481 V=o[T]T=Y[u]v=V==T F=v G=-802362+16270209 end end else if G<15718211-408069 then if G<-9209+15271991 then I={y}G=Q[B(426349+-461354)]else O=O+i C=not X d=O<=K d=C and d C=O>=K C=X and C d=C or d C=989266+6759092 G=d and C d=-49797+15633601 G=G or d end else if G<16351867-880951 then G=e I=F G=327779-(-970829)else I=B(-198214+163231)G=Q[I]z=B(273383+-308377)I=Q[z]z=B(-863251-(-828257))Q[z]=G z=B(853234-888217)Q[z]=I z=Y[U[-158976+158977]]y=z()G=973260+1390495 end end end else if G<-812326+17198029 then if G<15021740-(-830886)then if G<-654584+16372008 then if G<15361492-(-241718)then j=nil n=nil G=14586724-(-284408)S=nil else r=not H h=h+E f=h<=t f=r and f r=h>=t r=H and r f=r or f r=1074364-678259 G=f and r f=17247997-999953 G=G or f end else K=b()i=-722334-(-722399)Y[K]=I O=-875373+875376 C=B(201573-236554)G=Y[S]I=G(O,i)O=b()G=827147+-827147 i=G Y[O]=I G=513394-513394 f=L(-70880+16257625,{})I=Q[C]X=G C={I(f)}G={m(C)}C=G I=300651-300649 G=C[I]f=G I=B(676676+-711700)G=Q[I]k=B(-182414-(-147395))h=Y[g]R=Q[k]k=R(f)R=B(331561+-366551)P=h(k,R)h={P()}I=G(m(h))h=b()Y[h]=I P=Y[O]R=P I=683624+-683623 P=447668-447667 k=P P=549053-549053 G=5328976-289311 t=k<P P=I-k end else if G<-388110+16629193 then y=B(-212498-(-177475))I=5121800-(-673859)g=-279893+14685448 z=y^g G=I-z I=B(-457698+422676)z=G G=I/z I={G}G=Q[B(160365-195377)]else t=-222388+222388 h=#C f=h==t G=9613045-91523 end end else if G<17280016-802231 then if G<135884+16300839 then G=l(4926084-(-803186),{j})R={G()}I={m(R)}G=Q[B(233578-268569)]else O=B(-312059+277067)G=-959997+16713257 K=Q[O]I=K end else if G<-966578+17597364 then r=600247+-600147 H=B(-529079-(-494082))E=b()Y[E]=P I=Q[H]J=-152314+162314 v=B(-168445+133426)H=B(1021953+-1056962)G=I[H]H=620731-620730 I=G(H,r)H=b()Y[H]=I r=604698+-604698 a=-56664+56919 u=955262-955261 G=Y[S]A=-894771-(-894771)I=G(r,a)r=b()Y[r]=I G=Y[S]Z=Y[H]a=619807-619806 I=G(a,Z)a=b()Y[a]=I I=Y[S]o=887499-887497 Z=I(u,o)I=-982845-(-982846)G=Z==I Z=b()o=B(-167675+132680)Y[Z]=G e=Q[v]V=Y[S]T={V(A,J)}v=e(m(T))G=B(941053+-976078)I=B(-724837-(-689847))e=B(232567+-267562)F=v..e G=f[G]u=o..F G=G(f,I,u)u=b()Y[u]=G o=B(350914+-385895)I=Q[o]F=p(11949616-(-403908),{S;E,O,g;y,h;Z,u,H;a;r,K})o={I(F)}G={m(o)}o=G G=Y[Z]G=G and 12971497-73615 or-61447+4040659 else d=583674+-583674 G=Y[U[-965938-(-965939)]]y=g K=728449+-728194 S=G(d,K)z[y]=S y=nil G=-353810+4623050 end end end end end end end G=#x return m(I)end,{},function(Q,B)local m=g(B)local D=function(D,U,x)return G(Q,{D,U,x},B,m)end return D end,function(Q)z[Q]=z[Q]-(-843982-(-843983))if 213082-213082==z[Q]then z[Q],Y[Q]=nil,nil end end,function(Q,B)local m=g(B)local D=function(D,U)return G(Q,{D,U},B,m)end return D end,function(Q)local B,G=-254786+254787,Q[330369+-330368]while G do z[G],B=z[G]-(188560+-188559),(946392+-946391)+B if z[G]==-592406-(-592406)then z[G],Y[G]=nil,nil end G=Q[B]end end,function(Q,B)local m=g(B)local D=function()return G(Q,{},B,m)end return D end,-657921+657921,function(Q,B)local m=g(B)local D=function(D)return G(Q,{D},B,m)end return D end,function()y=y+(-587345+587346)z[y]=77196+-77195 return y end,function(Q,B)local m=g(B)local D=function(...)return G(Q,{...},B,m)end return D end return(q(3916879-(-496710),{}))(m(I))end)(getfenv and getfenv()or _ENV,unpack or table[B(84593+-119585)],newproxy,setmetatable,getmetatable,select,{...})end)(...)
+local Tabs = {
+    Misc = Window:Tab({ Title = "Misc", Icon = "solar:box-minimalistic-outline", Locked = false })
+}
+
+if not Tabs.Misc then
+    Tabs.Misc = Window:Tab({ Title = "Misc", Icon = "shapes", Locked = false })
+end
+
+-- ============================================
+-- INFINITE SLIDE MODULE
+-- مع حماية Errors
+-- ============================================
+
+local function LoadInfiniteSlide()
+    -- حماية: لو حصل أي خطأ، يكتب في الكونسول ويخرج
+    local success, err = pcall(function()
+        print("[Infinite Slide] Loading module...")
+        
+        -- البحث عن تبويب Misc
+        local MiscTab = nil
+        if Tabs and Tabs.Misc then
+            MiscTab = Tabs.Misc
+        elseif Window and Window.Tabs then
+            for _, tab in pairs(Window.Tabs) do
+                if tab and (tab.Title == "Misc" or tab.Title == "Miscellaneous") then
+                    MiscTab = tab
+                    break
+                end
+            end
+        end
+        
+        -- لو مش لاقي تبويب Misc، اخرج
+        if not MiscTab then
+            print("[Infinite Slide] Error: Misc tab not found, skipping...")
+            return
+        end
+        
+        -- إنشاء القسم
+        local SlideSection = MiscTab:Section({
+            Title = "Infinite Slide",
+            Side = "Left",
+            Collapsed = true,
+        })
+        
+        if not SlideSection then
+            print("[Infinite Slide] Error: Failed to create section, skipping...")
+            return
+        end
+        
+        -- متغيرات Infinite Slide
+        local infiniteSlideEnabled = false
+        local slideFrictionValue = -8
+        local movementTables = {}
+        local infiniteSlideHeartbeat = nil
+        local infiniteSlideCharacterConn = nil
+        local slideLastAppliedFriction = nil
+        local slideRefreshScheduled = false
+        
+        -- الكيز المطلوبة للجداول
+        local requiredKeys = {
+            "Friction", "AirStrafeAcceleration", "JumpHeight", "RunDeaccel",
+            "JumpSpeedMultiplier", "JumpCap", "SprintCap", "WalkSpeedMultiplier",
+            "BhopEnabled", "Speed", "AirAcceleration", "RunAccel", "SprintAcceleration"
+        }
+        
+        -- التحقق من وجود الحقول
+        local function hasRequiredFields(tbl)
+            if type(tbl) ~= "table" then return false end
+            for _, key in ipairs(requiredKeys) do
+                if rawget(tbl, key) == nil then return false end
+            end
+            return true
+        end
+        
+        -- البحث عن جداول الحركة
+        local function findMovementTables()
+            movementTables = {}
+            for _, obj in pairs(getgc(true)) do
+                if hasRequiredFields(obj) then
+                    table.insert(movementTables, obj)
+                end
+            end
+            return #movementTables > 0
+        end
+        
+        -- تطبيق الاحتكاك
+        local function setSlideFriction(value)
+            pcall(function()
+                if #movementTables > 0 and slideLastAppliedFriction == value then
+                    return
+                end
+                local appliedCount = 0
+                for _, tbl in ipairs(movementTables) do
+                    pcall(function()
+                        tbl.Friction = value
+                        appliedCount = appliedCount + 1
+                    end)
+                end
+                if appliedCount == 0 then
+                    slideLastAppliedFriction = nil
+                    if slideRefreshScheduled then return end
+                    slideRefreshScheduled = true
+                    task.defer(function()
+                        slideRefreshScheduled = false
+                        findMovementTables()
+                        slideLastAppliedFriction = nil
+                        if infiniteSlideEnabled then
+                            setSlideFriction(value)
+                        end
+                    end)
+                    return
+                end
+                slideLastAppliedFriction = value
+            end)
+        end
+        
+        -- الحصول على موديل اللاعب
+        local function getPlayerModel()
+            local gameFolder = workspace:FindFirstChild("Game")
+            if not gameFolder then return nil end
+            local playersFolder = gameFolder:FindFirstChild("Players")
+            if not playersFolder then return nil end
+            return playersFolder:FindFirstChild(LP.Name)
+        end
+        
+        -- Heartbeat للتحكم
+        local function infiniteSlideHeartbeatFunc()
+            if not infiniteSlideEnabled then return end
+            
+            local playerModel = getPlayerModel()
+            if not playerModel then return end
+            
+            local state = playerModel:GetAttribute("State")
+            
+            if state == "Slide" then
+                pcall(function()
+                    playerModel:SetAttribute("State", "EmotingSlide")
+                end)
+            elseif state == "EmotingSlide" then
+                setSlideFriction(slideFrictionValue)
+            else
+                setSlideFriction(5)
+            end
+        end
+        
+        -- عند إضافة شخصية
+        local function onCharacterAdded()
+            if not infiniteSlideEnabled then return end
+            
+            for i = 1, 5 do
+                task.wait(0.5)
+                if getPlayerModel() then break end
+            end
+            
+            task.wait(0.5)
+            movementTables = {}
+            slideLastAppliedFriction = nil
+            slideRefreshScheduled = false
+            task.defer(function()
+                if not infiniteSlideEnabled then return end
+                findMovementTables()
+                slideLastAppliedFriction = nil
+            end)
+        end
+        
+        -- تشغيل/إيقاف
+        local function setInfiniteSlide(enabled)
+            pcall(function()
+                infiniteSlideEnabled = enabled
+        
+                if enabled then
+                    movementTables = {}
+                    slideLastAppliedFriction = nil
+                    slideRefreshScheduled = false
+                    task.defer(function()
+                        if not infiniteSlideEnabled then return end
+                        findMovementTables()
+                        slideLastAppliedFriction = nil
+                    end)
+                    getPlayerModel()
+                    
+                    if not infiniteSlideCharacterConn then
+                        infiniteSlideCharacterConn = LP.CharacterAdded:Connect(onCharacterAdded)
+                    end
+                    
+                    if LP.Character then
+                        task.spawn(onCharacterAdded)
+                    end
+                    
+                    if infiniteSlideHeartbeat then infiniteSlideHeartbeat:Disconnect() end
+                    infiniteSlideHeartbeat = RunService.Heartbeat:Connect(infiniteSlideHeartbeatFunc)
+                    
+                    if WindUI and WindUI.Notify then
+                        WindUI:Notify({
+                            Title = "Infinite Slide",
+                            Content = "Enabled | Friction: " .. slideFrictionValue,
+                            Duration = 2
+                        })
+                    end
+                else
+                    if infiniteSlideHeartbeat then
+                        infiniteSlideHeartbeat:Disconnect()
+                        infiniteSlideHeartbeat = nil
+                    end
+                    
+                    if infiniteSlideCharacterConn then
+                        infiniteSlideCharacterConn:Disconnect()
+                        infiniteSlideCharacterConn = nil
+                    end
+                    
+                    local savedTables = movementTables
+                    movementTables = {}
+                    slideLastAppliedFriction = nil
+                    slideRefreshScheduled = false
+                    task.defer(function()
+                        for _, tbl in ipairs(savedTables) do
+                            pcall(function() tbl.Friction = 5 end)
+                        end
+                    end)
+                    
+                    if WindUI and WindUI.Notify then
+                        WindUI:Notify({
+                            Title = "Infinite Slide",
+                            Content = "Disabled",
+                            Duration = 2
+                        })
+                    end
+                end
+            end)
+        end
+        
+        -- تحديث قيمة الاحتكاك
+        local function updateSlideFriction(newValue)
+            slideFrictionValue = newValue
+            if infiniteSlideEnabled then
+                setSlideFriction(slideFrictionValue)
+            end
+        end
+        
+        -- إعادة تشغيل بعد الموت
+        pcall(function()
+            LP.CharacterAdded:Connect(function()
+                task.wait(1)
+                if infiniteSlideEnabled then
+                    movementTables = {}
+                    slideLastAppliedFriction = nil
+                    slideRefreshScheduled = false
+                    task.defer(function()
+                        findMovementTables()
+                        slideLastAppliedFriction = nil
+                    end)
+                end
+            end)
+        end)
+        
+        -- إضافة عناصر الواجهة
+        local slideToggle = false
+        SlideSection:Toggle({
+            Title = "Infinite Slide",
+            Value = false,
+            Callback = function(state)
+                pcall(function()
+                    slideToggle = state
+                    setInfiniteSlide(state)
+                end)
+            end
+        })
+        
+        SlideSection:Slider({
+            Title = "Slide Friction",
+            Desc = "Negative = faster slide | Positive = slower",
+            Value = { Min = -20, Max = 20, Default = -8 },
+            Step = 0.5,
+            Callback = function(value)
+                pcall(function()
+                    updateSlideFriction(value)
+                end)
+            end
+        })
+        
+        SlideSection:Button({
+            Title = "Reset Settings",
+            Desc = "Disable slide and reset friction",
+            Callback = function()
+                pcall(function()
+                    if infiniteSlideEnabled then
+                        setInfiniteSlide(false)
+                        slideToggle = false
+                    end
+                    updateSlideFriction(-8)
+                    if WindUI and WindUI.Notify then
+                        WindUI:Notify({ Title = "Reset", Content = "Slide reset to default", Duration = 2 })
+                    end
+                end)
+            end
+        })
+        
+        print("[Infinite Slide] Module loaded successfully in Misc tab")
+    end)
+    
+    if not success then
+        print("[Infinite Slide] Error: " .. tostring(err))
+        print("[Infinite Slide] Skipping module...")
+    end
+end
+
+-- تشغيل الموديول
+LoadInfiniteSlide()
+
+-- ============================================
+-- AutoTrimp (Air Acceleration) - Hyper v1.0
+-- مع زر عائم بدون حدود
+-- ============================================
+pcall(function()
+    local Players = game:GetService("Players")
+    local RunService = game:GetService("RunService")
+    local TweenService = game:GetService("TweenService")
+    local Debris = game:GetService("Debris")
+    local CoreGui = game:GetService("CoreGui")
+    local LP = Players.LocalPlayer
+    local camera = workspace.CurrentCamera
+    
+    local autoTrimpEnabled = false
+    local baseSpeed = 40
+    local maxExtraSpeed = 40
+    local accelerationRate = 1.2
+    local decelerationRate = 8
+    local currentSpeed = 40
+    local airAccumulator = 0
+    local activeBV = nil
+    local lastTick = tick()
+    local floatingButton = nil
+    
+   -- ============================================
+-- إنشاء الزر العائم (Blood Moon Theme)
+-- ============================================
+local function CreateFloatingButton()
+    local oldGui = CoreGui:FindFirstChild("AutoTrimpFloatingButton")
+    if oldGui then oldGui:Destroy() end
+    
+    local screenGui = Instance.new("ScreenGui")
+    screenGui.Name = "AutoTrimpFloatingButton"
+    screenGui.ResetOnSpawn = false
+    screenGui.Parent = CoreGui
+    
+    local button = Instance.new("TextButton")
+    button.Size = UDim2.new(0, 170, 0, 50)
+    button.Position = UDim2.new(0.5, -85, 0, 100)
+    button.Text = "AUTO TRIMP: OFF"
+    
+    -- 🩸 Blood Moon Colors
+    button.BackgroundColor3 = Color3.fromHex("#1a0000")      -- خلفية حمراء داكنة
+    button.TextColor3 = Color3.fromHex("#ffcccc")            -- نص أحمر فاتح
+    button.Font = Enum.Font.GothamBold
+    button.TextSize = 14
+    button.AutoButtonColor = false
+    button.Parent = screenGui
+    
+    local corner = Instance.new("UICorner")
+    corner.CornerRadius = UDim.new(0.2, 0)
+    corner.Parent = button
+    
+    local stroke = Instance.new("UIStroke")
+    stroke.Color = Color3.fromHex("#660000")                 -- إطار أحمر داكن
+    stroke.Thickness = 2
+    stroke.Parent = button
+    
+    -- تأثيرات التمرير (Blood Moon)
+    button.MouseEnter:Connect(function()
+        TweenService:Create(button, TweenInfo.new(0.2), {
+            BackgroundTransparency = 0.3,
+            TextColor3 = Color3.fromRGB(255, 255, 255)
+        }):Play()
+        stroke.Color = Color3.fromHex("#ff4444")             -- أحمر ناري عند التمرير
+    end)
+    
+    button.MouseLeave:Connect(function()
+        TweenService:Create(button, TweenInfo.new(0.2), {
+            BackgroundTransparency = 0,
+            TextColor3 = Color3.fromHex("#ffcccc")
+        }):Play()
+        stroke.Color = autoTrimpEnabled and Color3.fromHex("#ff4444") or Color3.fromHex("#660000")
+    end)
+    
+    -- نظام السحب (بدون حدود)
+    local dragging = false
+    local dragStart, startPos
+    
+    button.InputBegan:Connect(function(input)
+        if input.UserInputType == Enum.UserInputType.Touch or input.UserInputType == Enum.UserInputType.MouseButton1 then
+            dragging = true
+            dragStart = input.Position
+            startPos = button.Position
+            stroke.Color = Color3.fromHex("#ff4444")
+            button.Text = "DRAG..."
+        end
+    end)
+    
+    button.InputChanged:Connect(function(input)
+        if dragging and (input.UserInputType == Enum.UserInputType.Touch or input.UserInputType == Enum.UserInputType.MouseMovement) then
+            local delta = input.Position - dragStart
+            button.Position = UDim2.new(0, startPos.X.Offset + delta.X, 0, startPos.Y.Offset + delta.Y)
+        end
+    end)
+    
+    button.InputEnded:Connect(function(input)
+        if input.UserInputType == Enum.UserInputType.Touch or input.UserInputType == Enum.UserInputType.MouseButton1 then
+            dragging = false
+            stroke.Color = autoTrimpEnabled and Color3.fromHex("#ff4444") or Color3.fromHex("#660000")
+            button.Text = autoTrimpEnabled and "AUTO TRIMP: ON" or "AUTO TRIMP: OFF"
+        end
+    end)
+    
+    -- الضغط على الزر
+    local function handleTap()
+        if not dragging then
+            autoTrimpEnabled = not autoTrimpEnabled
+            
+            button.Text = autoTrimpEnabled and "AUTO TRIMP: ON" or "AUTO TRIMP: OFF"
+            button.BackgroundColor3 = autoTrimpEnabled and Color3.fromHex("#3d0000") or Color3.fromHex("#1a0000")
+            stroke.Color = autoTrimpEnabled and Color3.fromHex("#ff4444") or Color3.fromHex("#660000")
+            
+            pcall(function()
+                if AutoTrimpToggle then AutoTrimpToggle:SetValue(autoTrimpEnabled) end
+            end)
+            
+            if WindUI and WindUI.Notify then
+                WindUI:Notify({ Title = "Auto Trimp", Content = autoTrimpEnabled and "Enabled ✅" or "Disabled ❌", Duration = 2 })
+            end
+        end
+    end
+    
+    button.MouseButton1Click:Connect(handleTap)
+    button.TouchTap:Connect(handleTap)
+    
+    return screenGui
+end
+
+-- ============================================
+-- تحديث الزر العائم (Blood Moon)
+-- ============================================
+local function UpdateFloatingButton()
+    pcall(function()
+        if floatingButton then
+            local btn = floatingButton:FindFirstChildOfClass("TextButton")
+            if btn then
+                btn.Text = autoTrimpEnabled and "AUTO TRIMP: ON" or "AUTO TRIMP: OFF"
+                btn.BackgroundColor3 = autoTrimpEnabled and Color3.fromHex("#3d0000") or Color3.fromHex("#1a0000")
+            end
+        end
+    end)
+end
+    
+    -- ============================================
+    -- حلقة التشغيل الرئيسية
+    -- ============================================
+    local function OnRenderStep()
+        if not autoTrimpEnabled then
+            if activeBV then activeBV:Destroy() end
+            currentSpeed = baseSpeed
+            return
+        end
+        
+        local char = LP.Character
+        if not char then return end
+        
+        local hrp = char:FindFirstChild("HumanoidRootPart")
+        local humanoid = char:FindFirstChildOfClass("Humanoid")
+        if not (hrp and humanoid) then return end
+        
+        local isAir = humanoid.FloorMaterial == Enum.Material.Air
+        local deltaTime = math.min(0.05, tick() - lastTick)
+        lastTick = tick()
+        
+        if isAir then
+            airAccumulator = airAccumulator + deltaTime
+            while airAccumulator >= 0.1 do
+                airAccumulator = airAccumulator - 0.1
+                currentSpeed = math.min(baseSpeed + maxExtraSpeed, currentSpeed + accelerationRate)
+            end
+        else
+            airAccumulator = 0
+            currentSpeed = math.max(baseSpeed, currentSpeed - decelerationRate * deltaTime)
+        end
+        
+        if activeBV then activeBV:Destroy() end
+        
+        local lookDir = camera.CFrame.LookVector
+        lookDir = Vector3.new(lookDir.X, 0, lookDir.Z)
+        if lookDir.Magnitude > 0 then lookDir = lookDir.Unit end
+        
+        local bv = Instance.new("BodyVelocity")
+        bv.Velocity = lookDir * currentSpeed
+        bv.MaxForce = Vector3.new(400000, 0, 400000)
+        bv.Parent = hrp
+        Debris:AddItem(bv, 0.1)
+        activeBV = bv
+    end
+    
+    RunService.RenderStepped:Connect(OnRenderStep)
+    
+    -- ============================================
+    -- التأكد من وجود تبويب Misc
+    -- ============================================
+    local MiscTab = nil
+    if Tabs and Tabs.Misc then
+        MiscTab = Tabs.Misc
+    elseif Window and Window.Tabs then
+        for _, tab in pairs(Window.Tabs) do
+            if tab and (tab.Title == "Misc" or tab.Title == "Miscellaneous") then
+                MiscTab = tab
+                break
+            end
+        end
+    end
+      if MiscTab then
+        local AutoTrimpSection = MiscTab:Section({
+            Title = "AutoTrimp",
+            Side = "Left",
+            Collapsed = false,
+        })
+        
+        -- زر تفعيل السكربت نفسه من المنيو
+        local AutoTrimpToggle = AutoTrimpSection:Toggle({
+            Title = "Enable AutoTrimp",
+            Value = autoTrimpEnabled,
+            Callback = function(value)
+                autoTrimpEnabled = value
+                UpdateFloatingButton()
+            end
+        })
+
+        -- زر إظهار/إخفاء الزر العائم
+        AutoTrimpSection:Toggle({
+            Title = "Show AutoTrimp GUI",
+            Value = false,
+            Callback = function(state)
+                if state then
+                    if floatingButton then
+                        floatingButton:Destroy()
+                    end
+                    floatingButton = CreateFloatingButton()
+                    if WindUI and WindUI.Notify then
+                        WindUI:Notify({ Title = "Auto Trimp", Content = "Floating button shown", Duration = 2 })
+                    end
+                else
+                    if floatingButton then
+                        floatingButton:Destroy()
+                        floatingButton = nil
+                    end
+                end
+            end
+        })
+        
+        AutoTrimpSection:Slider({
+            Title = "Base Speed",
+            Desc = "Normal speed on ground",
+            Value = { Min = 20, Max = 80, Default = 40 },
+            Callback = function(value)
+                baseSpeed = value
+                currentSpeed = value
+            end
+        })
+        
+        AutoTrimpSection:Slider({
+            Title = "Max Extra Speed",
+            Desc = "Maximum additional speed in air",
+            Value = { Min = 0, Max = 60, Default = 0 },
+            Callback = function(value)
+                maxExtraSpeed = value
+            end
+        })
+        
+        AutoTrimpSection:Slider({
+            Title = "Acceleration Rate",
+            Desc = "How fast speed increases in air",
+            Value = { Min = 0.5, Max = 3, Default = 1.2, Step = 0.1 },
+            Callback = function(value)
+                accelerationRate = value
+            end
+        })
+        
+        AutoTrimpSection:Button({
+            Title = "Reset Speed",
+            Callback = function()
+                currentSpeed = baseSpeed
+                if WindUI and WindUI.Notify then
+                    WindUI:Notify({ Title = "AutoTrimp", Content = "Speed reset to " .. baseSpeed, Duration = 2 })
+                end
+            end
+        })
+    else
+        warn("[AutoTrimp] Misc tab not found, UI not created")
+    end
+    
+    print("[AutoTrimp] Loaded successfully!")
+end)
+  
+-- ============================================
+-- Emote Speed Module - Misc Tab
+-- مستخرج من Draconic Hub Remake
+-- ============================================
+
+-- ========== إعدادات المتغيرات ==========
+local Players = game:GetService("Players")
+local LP = Players.LocalPlayer
+local ReplicatedStorage = game:GetService("ReplicatedStorage")
+
+-- تخزين السرعات الأصلية للإيموشنات
+local originalEmoteSpeeds = {}
+
+-- جلب مجلد الإيموشنات
+local itemsFolder = ReplicatedStorage:FindFirstChild("Items")
+if itemsFolder then
+    local emotesFolder = itemsFolder:FindFirstChild("Emotes")
+    if emotesFolder then
+        for _, emoteModule in ipairs(emotesFolder:GetChildren()) do
+            if emoteModule:IsA("ModuleScript") then
+                local success, emoteData = pcall(require, emoteModule)
+                if success and emoteData and emoteData.EmoteInfo then
+                    originalEmoteSpeeds[emoteModule.Name] = emoteData.EmoteInfo.SpeedMult
+                end
+            end
+        end
+    end
+end
+
+-- ========== دالة تطبيق سرعة الإيموشنات ==========
+local function applyEmoteSpeed(speedValue)
+    if not itemsFolder then return end
+    local emotesFolder = itemsFolder:FindFirstChild("Emotes")
+    if not emotesFolder then return end
+    
+    for _, emoteModule in ipairs(emotesFolder:GetChildren()) do
+        if emoteModule:IsA("ModuleScript") then
+            local success, emoteData = pcall(require, emoteModule)
+            if success and emoteData and emoteData.EmoteInfo and emoteData.EmoteInfo.SpeedMult ~= 0 then
+                emoteData.EmoteInfo.SpeedMult = speedValue
+            end
+        end
+    end
+end
+
+-- ========== دالة استعادة السرعات الأصلية ==========
+local function restoreOriginalEmoteSpeeds()
+    if not itemsFolder then return end
+    local emotesFolder = itemsFolder:FindFirstChild("Emotes")
+    if not emotesFolder then return end
+    
+    for _, emoteModule in ipairs(emotesFolder:GetChildren()) do
+        if emoteModule:IsA("ModuleScript") then
+            local originalSpeed = originalEmoteSpeeds[emoteModule.Name]
+            if originalSpeed then
+                local success, emoteData = pcall(require, emoteModule)
+                if success and emoteData and emoteData.EmoteInfo then
+                    emoteData.EmoteInfo.SpeedMult = originalSpeed
+                end
+            end
+        end
+    end
+end
+
+-- ========== جداول الحركة لـ Multiplier Speed ==========
+local requiredFields = {
+    Friction = true, AirStrafeAcceleration = true, JumpHeight = true,
+    RunDeaccel = true, JumpSpeedMultiplier = true, JumpCap = true,
+    SprintCap = true, WalkSpeedMultiplier = true, BhopEnabled = true,
+    Speed = true, AirAcceleration = true, RunAccel = true, SprintAcceleration = true
+}
+
+local function getMatchingTables()
+    local matched = {}
+    for _, obj in pairs(getgc(true)) do
+        if typeof(obj) == "table" then
+            local ok = true
+            for field in pairs(requiredFields) do
+                if rawget(obj, field) == nil then
+                    ok = false
+                    break
+                end
+            end
+            if ok then
+                table.insert(matched, obj)
+            end
+        end
+    end
+    return matched
+end
+
+local function applySpeedMultiplier(speedMultiplier)
+    local targets = getMatchingTables()
+    for _, tableObj in ipairs(targets) do
+        if tableObj and typeof(tableObj) == "table" then
+            pcall(function()
+                tableObj.WalkSpeedMultiplier = speedMultiplier
+            end)
+        end
+    end
+end
+
+-- ========== الحصول على موديل اللاعب ==========
+local function getPlayerObj()
+    local gamePlayers = workspace.Game and workspace.Game.Players
+    if not gamePlayers then return nil end
+    return gamePlayers:FindFirstChild(LP.Name)
+end
+
+-- ========== متغيرات Multiplier Speed ==========
+local playerObj = nil
+local connection = nil
+local emotingSpeed = 1.5
+
+local function setupConnection(obj)
+    if connection then 
+        connection:Disconnect() 
+        connection = nil
+    end
+    playerObj = obj
+    if not obj then return end
+    
+    local function onStateChanged()
+        local state = obj:GetAttribute("State")
+        local targetSpeed = (state == "Emoting") and emotingSpeed or 1.5
+        applySpeedMultiplier(targetSpeed)
+    end
+    
+    onStateChanged()
+    connection = obj:GetAttributeChangedSignal("State"):Connect(onStateChanged)
+end
+
+local function resetMultiplierSpeed()
+    emotingSpeed = 1.5
+    applySpeedMultiplier(1.5)
+    if connection then
+        connection:Disconnect()
+        connection = nil
+    end
+end
+
+-- ========== زر تطبيق على الإيموشنات غير القابلة للمشي ==========
+local function ApplyToUnwalkableEmotes(speedValue)
+    if not itemsFolder then return end
+    
+    local emotesFolder = itemsFolder:FindFirstChild("Emotes")
+    if not emotesFolder then return end
+    
+    for _, emoteModule in ipairs(emotesFolder:GetChildren()) do
+        if emoteModule:IsA("ModuleScript") then
+            local success, emoteData = pcall(require, emoteModule)
+            if success and emoteData and emoteData.EmoteInfo and emoteData.EmoteInfo.SpeedMult == 0 then
+                emoteData.EmoteInfo.SpeedMult = speedValue
+            end
+        end
+    end
+end
+
+-- ========== إعادة تعيين كل شيء ==========
+local function ResetAllEmoteSpeeds()
+    restoreOriginalEmoteSpeeds()
+    resetMultiplierSpeed()
+    if connection then 
+        connection:Disconnect() 
+        connection = nil
+    end
+end
+
+-- ============================================
+-- البحث عن تبويب Misc
+-- ============================================
+local MiscTab = nil
+
+if Tabs and Tabs.Misc then
+    MiscTab = Tabs.Misc
+elseif Window and Window.Tabs then
+    for _, tab in pairs(Window.Tabs) do
+        if tab and (tab.Title == "Misc" or tab.Title == "Miscellaneous") then
+            MiscTab = tab
+            break
+        end
+    end
+end
+
+-- ============================================
+-- إضافة القسم إلى تبويب Misc
+-- ============================================
+if MiscTab then
+    local EmoteSpeedSection = MiscTab:Section({
+        Title = "Emote Speed",
+        Side = "Left"
+    })
+    
+    if EmoteSpeedSection then
+        -- متغيرات الحالة
+        local currentMode = "Nah"
+        local emoteSpeedValue = 1.5
+        
+        -- دالة تبديل الوضع
+        local function SetMode(mode)
+            currentMode = mode
+            
+            if mode == "Nah" then
+                ResetAllEmoteSpeeds()
+            elseif mode == "Legit" then
+                resetMultiplierSpeed()
+                if connection then 
+                    connection:Disconnect() 
+                    connection = nil
+                end
+                applyEmoteSpeed(emoteSpeedValue)
+            elseif mode == "Multiplier speed" then
+                restoreOriginalEmoteSpeeds()
+                resetMultiplierSpeed()
+                setupConnection(getPlayerObj())
+                task.spawn(function()
+                    while currentMode == "Multiplier speed" do
+                        task.wait(2)
+                        local current = getPlayerObj()
+                        if current ~= playerObj then
+                            setupConnection(current)
+                        elseif playerObj then
+                            local state = playerObj:GetAttribute("State")
+                            local targetSpeed = (state == "Emoting") and emotingSpeed or 1.5
+                            applySpeedMultiplier(targetSpeed)
+                        end
+                    end
+                end)
+            end
+        end
+        
+        -- دالة تحديث السرعة
+        local function UpdateSpeedValue(newValue)
+            emoteSpeedValue = newValue
+            if currentMode == "Legit" then
+                applyEmoteSpeed(newValue)
+            elseif currentMode == "Multiplier speed" then
+                emotingSpeed = newValue
+            end
+        end
+        
+        -- ========== إضافة العناصر ==========
+        
+        -- Dropdown لاختيار الوضع
+        EmoteSpeedSection:Dropdown({
+            Title = "Emote Speed Mode",
+            Values = { "Nah", "Legit", "Multiplier speed" },
+            Default = "Nah",
+            Callback = function(value)
+                SetMode(value)
+                if WindUI and WindUI.Notify then
+                    WindUI:Notify({
+                        Title = "Emote Speed",
+                        Content = "Mode: " .. value,
+                        Duration = 2
+                    })
+                end
+            end
+        })
+        
+        -- Slider للسرعة
+        EmoteSpeedSection:Slider({
+            Title = "Speed Multiplier",
+            Desc = "1x = Normal | 1.5x = Faster | 20x = Max",
+            Value = { Min = 0.1, Max = 20, Default = 1.5 },
+            Step = 0.1,
+            Callback = function(value)
+                UpdateSpeedValue(value)
+                if WindUI and WindUI.Notify then
+                    WindUI:Notify({
+                        Title = "Speed",
+                        Content = string.format("%.1fx", value),
+                        Duration = 1
+                    })
+                end
+            end
+        })
+        
+        -- زر تطبيق على الإيموشنات غير القابلة للمشي
+        EmoteSpeedSection:Button({
+            Title = "Apply to Unwalkable Emotes",
+            Desc = "Applies speed to emotes that normally can't move",
+            Callback = function()
+                ApplyToUnwalkableEmotes(emoteSpeedValue)
+                if WindUI and WindUI.Notify then
+                    WindUI:Notify({
+                        Title = "Emote Speed",
+                        Content = "Applied to unwalkable emotes",
+                        Duration = 2
+                    })
+                end
+            end
+        })
+        
+        -- زر إعادة تعيين
+        EmoteSpeedSection:Button({
+            Title = "Reset All Emote Speeds",
+            Desc = "Restores all emote speeds to original values",
+            Callback = function()
+                ResetAllEmoteSpeeds()
+                currentMode = "Nah"
+                if WindUI and WindUI.Notify then
+                    WindUI:Notify({
+                        Title = "Emote Speed",
+                        Content = "All speeds reset to original",
+                        Duration = 2
+                    })
+                end
+            end
+        })
+    end
+else
+    -- لو مش لاقي تبويب Misc، نطبع رسالة في الكونسول
+    print("[Emote Speed] Misc tab not found, skipping UI creation")
+end
+
+-- ========== إشعار التحميل ==========
+if WindUI and WindUI.Notify then
+    WindUI:Notify({
+        Title = "Emote Speed",
+        Content = "Loaded in Misc tab | Speed: 0.1x to 20x",
+        Duration = 3
+    })
+end
+
+print("[Emote Speed] Module loaded successfully in Misc tab!")
+
+-- ============================================
+-- Auto Jump System v2 - WindUI Version
+-- ============================================
+pcall(function()
+    local Players = game:GetService("Players")
+    local RunService = game:GetService("RunService")
+    local UserInputService = game:GetService("UserInputService")
+    local LP = Players.LocalPlayer
+    
+    -- ============================================
+    -- المتغيرات الرئيسية
+    -- ============================================
+    local autoJumpEnabled = false
+    local autoJumpType = "Bounce"  -- Bounce / Realistic
+    local bhopMode = "Acceleration"  -- Acceleration / No Acceleration
+    local bhopAccelValue = -0.5
+    local bhopHoldEnabled = false
+    local bhopHoldActive = false
+    local rotationEnabled = false
+    local rotationSpeed = 100000
+    local jumpCooldown = 0.25
+    local jumpPower = 50
+    
+    -- متغيرات التشغيل
+    local bhopConnection = nil
+    local rotationConnection = nil
+    local bhopLoaded = false
+    local frictionTables = {}
+    
+    -- مراجع الشخصية
+    local Character = nil
+    local Humanoid = nil
+    local HumanoidRootPart = nil
+    local LastJump = 0
+    
+    -- اتصالات الموبايل
+    local mobileJumpConnections = { down = nil, up = nil }
+    local floatingButtonGui = nil
+    
+    -- ============================================
+    -- الدوال الأساسية
+    -- ============================================
+    
+    -- تحديث مراجع الشخصية
+    local function UpdateCharacterReferences()
+        pcall(function()
+            if LP and LP.Character then
+                Character = LP.Character
+                Humanoid = Character:FindFirstChildOfClass("Humanoid")
+                HumanoidRootPart = Character:FindFirstChild("HumanoidRootPart")
+            end
+        end)
+    end
+    
+    -- فحص是否存在 على الأرض
+    local function IsOnGround()
+        if not (Character and Humanoid and HumanoidRootPart) then return false end
+        
+        local success, result = pcall(function()
+            local state = Humanoid:GetState()
+            if state == Enum.HumanoidStateType.Jumping or state == Enum.HumanoidStateType.Freefall then
+                return false
+            end
+            
+            local rayParams = RaycastParams.new()
+            rayParams.FilterType = Enum.RaycastFilterType.Blacklist
+            rayParams.FilterDescendantsInstances = {Character}
+            return workspace:Raycast(HumanoidRootPart.Position, Vector3.new(0, -4, 0), rayParams) ~= nil
+        end)
+        
+        return success and result or false
+    end
+    
+    -- البحث عن جداول الاحتكاك
+    local function FindFrictionTables()
+        pcall(function()
+            frictionTables = {}
+            local success, gc = pcall(function() return getgc(true) end)
+            if not success then return end
+            
+            for _, obj in pairs(gc) do
+                if type(obj) == "table" and rawget(obj, "Friction") then
+                    table.insert(frictionTables, { obj = obj, original = obj.Friction })
+                end
+            end
+        end)
+    end
+    
+    -- تطبيق الاحتكاك
+    local function ApplyBhopFriction()
+        pcall(function()
+            local isActive = autoJumpEnabled or (bhopHoldEnabled and bhopHoldActive)
+            
+            if isActive and bhopMode == "Acceleration" then
+                if #frictionTables == 0 then FindFrictionTables() end
+                for _, t in ipairs(frictionTables) do
+                    if t.obj then
+                        pcall(function() t.obj.Friction = bhopAccelValue end)
+                    end
+                end
+            else
+                for _, t in ipairs(frictionTables) do
+                    if t.obj and t.original then
+                        pcall(function() t.obj.Friction = t.original end)
+                    end
+                end
+            end
+        end)
+    end
+    
+    -- تحديث القفز
+    local function UpdateBhop()
+        if not bhopLoaded then return end
+        
+        local isActive = autoJumpEnabled or (bhopHoldEnabled and bhopHoldActive)
+        if not isActive then return end
+        
+        if not Character or not Character.Parent then UpdateCharacterReferences() end
+        if not (Humanoid and HumanoidRootPart) then return end
+        
+        local now = tick()
+        
+        if autoJumpType == "Realistic" then
+            -- Realistic Mode (استخدام أحداث اللعبة)
+            pcall(function()
+                local ps = LP:FindFirstChild("PlayerScripts")
+                if ps then
+                    local ev = ps:FindFirstChild("Events")
+                    if ev then
+                        local temp = ev:FindFirstChild("temporary_events")
+                        if temp then
+                            if temp:FindFirstChild("JumpReact") then temp.JumpReact:Fire() end
+                            if temp:FindFirstChild("EndJump") then temp.EndJump:Fire() end
+                        end
+                    end
+                end
+            end)
+        else
+            -- Bounce Mode
+            if IsOnGround() and (now - LastJump) > jumpCooldown then
+                pcall(function()
+                    Humanoid:ChangeState(Enum.HumanoidStateType.Jumping)
+                    Humanoid.JumpPower = jumpPower
+                end)
+                LastJump = now
+            end
+        end
+    end
+    
+    -- تشغيل/إيقاف Bhop
+    local function StartBhop()
+        if bhopConnection then return end
+        bhopLoaded = true
+        FindFrictionTables()
+        ApplyBhopFriction()
+        bhopConnection = RunService.Heartbeat:Connect(UpdateBhop)
+    end
+    
+    local function StopBhop()
+        if bhopConnection then
+            bhopConnection:Disconnect()
+            bhopConnection = nil
+        end
+        bhopLoaded = false
+        bhopHoldActive = false
+        ApplyBhopFriction()
+    end
+    
+    -- Rotation 360
+    local function StartRotation()
+        if rotationConnection then rotationConnection:Disconnect() end
+        rotationConnection = RunService.Heartbeat:Connect(function(dt)
+            if not rotationEnabled or not autoJumpEnabled then return end
+            pcall(function()
+                local hrp = LP.Character and LP.Character:FindFirstChild("HumanoidRootPart")
+                if hrp then
+                    local rot = hrp.Orientation
+                    hrp.Orientation = Vector3.new(rot.X, rot.Y + (rotationSpeed * dt), rot.Z)
+                end
+            end)
+        end)
+    end
+    
+    local function StopRotation()
+        if rotationConnection then
+            rotationConnection:Disconnect()
+            rotationConnection = nil
+        end
+    end
+    
+    local function UpdateRotationState()
+        if rotationEnabled and autoJumpEnabled then
+            StartRotation()
+        else
+            StopRotation()
+        end
+    end
+    
+    -- تنظيف اتصالات الموبايل
+    local function CleanupMobileConnections()
+        pcall(function()
+            if mobileJumpConnections.down then
+                mobileJumpConnections.down:Disconnect()
+                mobileJumpConnections.down = nil
+            end
+            if mobileJumpConnections.up then
+                mobileJumpConnections.up:Disconnect()
+                mobileJumpConnections.up = nil
+            end
+        end)
+    end
+    
+    -- إعدادات زر النط في الموبايل
+    local function SetupMobileJumpButton()
+        pcall(function()
+            if not LP then return end
+            
+            CleanupMobileConnections()
+            
+            local playerGui = LP:FindFirstChild("PlayerGui")
+            if not playerGui then return end
+            
+            local touchGui = playerGui:FindFirstChild("TouchGui")
+            if not touchGui then return end
+            
+            local touchControlFrame = touchGui:FindFirstChild("TouchControlFrame")
+            if not touchControlFrame then return end
+            
+            local jumpButton = touchControlFrame:FindFirstChild("JumpButton")
+            if not jumpButton then return end
+            
+            mobileJumpConnections.down = jumpButton.MouseButton1Down:Connect(function()
+                if bhopHoldEnabled then
+                    bhopHoldActive = true
+                    if not autoJumpEnabled then StartBhop() end
+                end
+            end)
+            
+            mobileJumpConnections.up = jumpButton.MouseButton1Up:Connect(function()
+                if bhopHoldEnabled then
+                    bhopHoldActive = false
+                    if not autoJumpEnabled then StopBhop() end
+                end
+            end)
+        end)
+    end
+    
+-- ============================================
+-- Floating Button (Blood Moon Style)
+-- ============================================
+local function CreateBhopFloatingButton()
+    local CoreGui = game:GetService("CoreGui")
+    
+    local oldGui = CoreGui:FindFirstChild("BhopFloatingButton")
+    if oldGui then oldGui:Destroy() end
+    
+    local screenGui = Instance.new("ScreenGui")
+    screenGui.Name = "BhopFloatingButton"
+    screenGui.ResetOnSpawn = false
+    screenGui.Parent = CoreGui
+    
+    local button = Instance.new("TextButton")
+    button.Size = UDim2.new(0, 160, 0, 55)
+    local startX = (workspace.CurrentCamera.ViewportSize.X / 2) - 80
+    local startY = (workspace.CurrentCamera.ViewportSize.Y / 2) - 27
+    button.Position = UDim2.new(0, startX, 0, startY)
+    button.Text = "BHOP: OFF"
+    
+    -- 🩸 Blood Moon Colors
+    button.BackgroundColor3 = Color3.fromHex("#1a0000")      -- خلفية حمراء داكنة
+    button.TextColor3 = Color3.fromHex("#ffcccc")            -- نص أحمر فاتح
+    button.Font = Enum.Font.GothamBold
+    button.TextSize = 14
+    button.AutoButtonColor = false
+    button.Parent = screenGui
+    
+    local corner = Instance.new("UICorner")
+    corner.CornerRadius = UDim.new(0.2, 0)
+    corner.Parent = button
+    
+    local stroke = Instance.new("UIStroke")
+    stroke.Color = Color3.fromHex("#660000")                 -- إطار أحمر داكن
+    stroke.Thickness = 2
+    stroke.Parent = button
+    
+    -- نظام السحب
+    local dragging = false
+    local dragStart, startPos
+    
+    button.InputBegan:Connect(function(input)
+        if input.UserInputType == Enum.UserInputType.Touch or input.UserInputType == Enum.UserInputType.MouseButton1 then
+            dragging = true
+            dragStart = input.Position
+            startPos = button.Position
+            stroke.Color = Color3.fromHex("#ff4444")          -- أحمر ناري عند السحب
+            button.Text = "DRAG..."
+        end
+    end)
+    
+    button.InputChanged:Connect(function(input)
+        if dragging and (input.UserInputType == Enum.UserInputType.Touch or input.UserInputType == Enum.UserInputType.MouseMovement) then
+            local delta = input.Position - dragStart
+            button.Position = UDim2.new(0, startPos.X.Offset + delta.X, 0, startPos.Y.Offset + delta.Y)
+        end
+    end)
+    
+    button.InputEnded:Connect(function(input)
+        if input.UserInputType == Enum.UserInputType.Touch or input.UserInputType == Enum.UserInputType.MouseButton1 then
+            dragging = false
+            stroke.Color = autoJumpEnabled and Color3.fromHex("#ff4444") or Color3.fromHex("#660000")
+            button.Text = autoJumpEnabled and "BHOP: ON" or "BHOP: OFF"
+        end
+    end)
+    
+    -- الضغط على الزر
+    local function handleTap()
+        if not dragging then
+            button.Text = "BHOP: ACTIVE"
+            button.BackgroundColor3 = Color3.fromHex("#3d0000")      -- أحمر متوسط عند التفعيل
+            stroke.Color = Color3.fromHex("#ff4444")
+            
+            autoJumpEnabled = not autoJumpEnabled
+            
+            if autoJumpEnabled then
+                StartBhop()
+                SetupMobileJumpButton()
+                UpdateRotationState()
+            else
+                StopBhop()
+                StopRotation()
+                bhopHoldActive = false
+            end
+            
+            button.Text = autoJumpEnabled and "BHOP: ON" or "BHOP: OFF"
+            button.BackgroundColor3 = autoJumpEnabled and Color3.fromHex("#3d0000") or Color3.fromHex("#1a0000")
+            stroke.Color = autoJumpEnabled and Color3.fromHex("#ff4444") or Color3.fromHex("#660000")
+            
+            -- تحديث Toggle في الواجهة
+            pcall(function()
+                if BunnyHopToggle then BunnyHopToggle:SetValue(autoJumpEnabled) end
+            end)
+        end
+    end
+    
+    button.MouseButton1Click:Connect(handleTap)
+    button.TouchTap:Connect(handleTap)
+    
+    return screenGui
+end
+
+-- تحديث نص الزر العائم (Blood Moon)
+local function UpdateFloatingButtonText()
+    pcall(function()
+        if floatingButtonGui then
+            local btn = floatingButtonGui:FindFirstChildOfClass("TextButton")
+            if btn then
+                btn.Text = autoJumpEnabled and "BHOP: ON" or "BHOP: OFF"
+                btn.BackgroundColor3 = autoJumpEnabled and Color3.fromHex("#3d0000") or Color3.fromHex("#1a0000")
+            end
+        end
+    end)
+end
+    
+    -- ============================================
+    -- PC Space Bar (يدعم الضغط المستمر)
+    -- ============================================
+    UserInputService.InputBegan:Connect(function(input, gameProcessed)
+        if gameProcessed then return end
+        if input.KeyCode == Enum.KeyCode.Space then
+            if bhopHoldEnabled then
+                bhopHoldActive = true
+                if not autoJumpEnabled then StartBhop() end
+            end
+        end
+    end)
+    
+    UserInputService.InputEnded:Connect(function(input)
+        if input.KeyCode == Enum.KeyCode.Space then
+            if bhopHoldEnabled then
+                bhopHoldActive = false
+                if not autoJumpEnabled then StopBhop() end
+            end
+        end
+    end)
+    
+    -- ============================================
+    -- معالج إعادة الظهور
+    -- ============================================
+    local function OnCharacterAdded(char)
+        task.wait(0.6)
+        Character = char
+        if char then
+            pcall(function()
+                Humanoid = char:WaitForChild("Humanoid", 3)
+                HumanoidRootPart = char:WaitForChild("HumanoidRootPart", 3)
+            end)
+        end
+        if autoJumpEnabled then
+            ApplyBhopFriction()
+            UpdateRotationState()
+        end
+    end
+    
+    LP.CharacterAdded:Connect(OnCharacterAdded)
+    if LP.Character then OnCharacterAdded(LP.Character) end
+    
+    -- ============================================
+    -- إنشاء الـ Section في تبويب Misc
+    -- ============================================
+    local AutoJumpSection = Tabs.Misc:Section({
+        Title = "Auto Jump",
+        Side = "Left",
+        Collapsed = false,
+    })
+    
+    -- Auto Jump Type
+    AutoJumpSection:Dropdown({
+        Title = "Auto Jump Type",
+        Values = { "Bounce", "Realistic" },
+        Default = "Bounce",
+        Callback = function(value)
+            autoJumpType = value
+        end
+    })
+    
+    -- Rotation 360
+    AutoJumpSection:Toggle({
+        Title = "Rotation 360",
+        Value = false,
+        Callback = function(state)
+            rotationEnabled = state
+            UpdateRotationState()
+            WindUI:Notify({ Title = "Rotation", Content = state and "Enabled" or "Disabled", Duration = 2 })
+        end
+    })
+    
+    -- Bunny Hop
+    local BunnyHopToggle = AutoJumpSection:Toggle({
+        Title = "Bunny Hop",
+        Value = false,
+        Callback = function(state)
+            autoJumpEnabled = state
+            if state then
+                StartBhop()
+                SetupMobileJumpButton()
+                UpdateRotationState()
+                WindUI:Notify({ Title = "Bunny Hop", Content = "Enabled", Duration = 2 })
+            else
+                StopBhop()
+                StopRotation()
+                bhopHoldActive = false
+                WindUI:Notify({ Title = "Bunny Hop", Content = "Disabled", Duration = 2 })
+            end
+            UpdateFloatingButtonText()
+        end
+    })
+    
+    -- Bhop Hold (مستقل)
+    AutoJumpSection:Toggle({
+        Title = "Bhop Hold (Hold Space/Jump)",
+        Value = false,
+        Callback = function(state)
+            bhopHoldEnabled = state
+            if state then
+                SetupMobileJumpButton()
+                WindUI:Notify({ Title = "Bhop Hold", Content = "Enabled - Hold jump button", Duration = 2 })
+            else
+                bhopHoldActive = false
+                CleanupMobileConnections()
+                if not autoJumpEnabled then
+                    StopBhop()
+                end
+                WindUI:Notify({ Title = "Bhop Hold", Content = "Disabled", Duration = 2 })
+            end
+            UpdateFloatingButtonText()
+        end
+    })
+    
+    -- Jump Power
+    AutoJumpSection:Slider({
+        Title = "Jump Power",
+        Value = { Min = 30, Max = 150, Default = 50 },
+        Callback = function(value)
+            jumpPower = value
+        end
+    })
+    
+    -- Bhop Mode
+    AutoJumpSection:Dropdown({
+        Title = "Bhop Mode",
+        Values = { "Acceleration", "No Acceleration" },
+        Default = "Acceleration",
+        Callback = function(value)
+            bhopMode = value
+            if autoJumpEnabled or bhopHoldEnabled then ApplyBhopFriction() end
+        end
+    })
+    
+    -- Bhop Acceleration
+    AutoJumpSection:Slider({
+        Title = "Bhop Acceleration",
+        Value = { Min = -10, Max = -0.1, Default = -0.5 },
+        Step = 0.1,
+        Callback = function(value)
+            bhopAccelValue = value
+            if (autoJumpEnabled or bhopHoldEnabled) and bhopMode == "Acceleration" then
+                ApplyBhopFriction()
+            end
+        end
+    })
+    
+    -- Jump Cooldown
+    AutoJumpSection:Slider({
+        Title = "Jump Cooldown (Seconds)",
+        Value = { Min = 0.05, Max = 0.5, Default = 0.25 },
+        Step = 0.01,
+        Callback = function(value)
+            jumpCooldown = value
+        end
+    })
+    
+    -- Floating Button GUI
+    AutoJumpSection:Toggle({
+        Title = "Bhop Button GUI",
+        Value = false,
+        Callback = function(state)
+            if state then
+                floatingButtonGui = CreateBhopFloatingButton()
+            else
+                if floatingButtonGui then
+                    pcall(function() floatingButtonGui:Destroy() end)
+                    floatingButtonGui = nil
+                end
+            end
+        end
+    })
+    
+    print("[Auto Jump] Loaded successfully in Misc tab!")
+end)
+-- ====================================================================
+-- 🌐 HYPER V1.0 - PURE CLIENT LAG SWITCH (OCEAN DEEP STYLE)
+-- ====================================================================
+
+pcall(function()
+
+local Players = game:GetService("Players")
+local RunService = game:GetService("RunService")
+local UserInputService = game:GetService("UserInputService")
+local LP = Players.LocalPlayer
+
+if not Tabs or not Tabs.Misc then
+    warn("[Lag Switch] Misc Tab not found!")
+    return
+end
+
+local MiscTab = Tabs.Misc
+
+-- ====================================================================
+-- ⚙️ المتغيرات والتحكم
+-- ====================================================================
+local lagSwitchEnabled = false
+local lagKeybind = "F12"
+local isLagActive = false
+local floatingButtonGui = nil
+
+local lagDuration = 1.5
+local lagIntensity = 1000000
+
+-- ====================================================================
+-- 🛠️ دالة الـ Lag الصافي (أسلوب دراكونيك اكس)
+-- ====================================================================
+local function TriggerLagAction()
+    if not lagSwitchEnabled or isLagActive then return end
+    isLagActive = true
+    
+    local startTime = tick()
+    while tick() - startTime < lagDuration do
+        for i = 1, lagIntensity do
+            local a = math.random(1, 1000000) * math.random(1, 1000000)
+            local b = math.sqrt(math.random(1, 1000000))
+            local c = a / math.random(1, 10000)
+        end
+    end
+    
+    isLagActive = false
+end
+
+-- ====================================================================
+-- 🕹️ بناء الزرار العائم (Blood Moon)
+-- ====================================================================
+local function CreateLagFloatingButton()
+    local CoreGui = game:GetService("CoreGui")
+    
+    local oldGui = CoreGui:FindFirstChild("LagSwitchFloatingButtonGUI")
+    if oldGui then pcall(function() oldGui:Destroy() end) end
+    
+    local screenGui = Instance.new("ScreenGui")
+    screenGui.Name = "LagSwitchFloatingButtonGUI"
+    screenGui.ResetOnSpawn = false
+    screenGui.Parent = CoreGui
+    
+    local button = Instance.new("TextButton")
+    button.Size = UDim2.new(0, 160, 0, 55)
+    local startX = (workspace.CurrentCamera.ViewportSize.X / 2) - 80
+    local startY = (workspace.CurrentCamera.ViewportSize.Y / 2) - 27
+    button.Position = UDim2.new(0, startX, 0, startY)
+    button.Text = "LAG: OFF"
+    
+    -- 🩸 Blood Moon Colors
+    button.BackgroundColor3 = Color3.fromHex("#1a0000")      -- خلفية حمراء داكنة
+    button.TextColor3 = Color3.fromHex("#ffcccc")            -- نص أحمر فاتح
+    button.Font = Enum.Font.GothamBold
+    button.TextSize = 14
+    button.AutoButtonColor = false
+    button.Parent = screenGui
+    
+    local corner = Instance.new("UICorner")
+    corner.CornerRadius = UDim.new(0.2, 0)
+    corner.Parent = button
+    
+    local stroke = Instance.new("UIStroke")
+    stroke.Color = Color3.fromHex("#660000")                 -- إطار أحمر داكن
+    stroke.Thickness = 2
+    stroke.Parent = button
+    
+    local dragging = false
+    local dragStart, startPos
+    
+    button.InputBegan:Connect(function(input)
+        if input.UserInputType == Enum.UserInputType.Touch or input.UserInputType == Enum.UserInputType.MouseButton1 then
+            dragging = true
+            dragStart = input.Position
+            startPos = button.Position
+            stroke.Color = Color3.fromHex("#ff4444")          -- أحمر ناري عند السحب
+            button.Text = "DRAG..."
+        end
+    end)
+    
+    button.InputChanged:Connect(function(input)
+        if dragging and (input.UserInputType == Enum.UserInputType.Touch or input.UserInputType == Enum.UserInputType.MouseMovement) then
+            local delta = input.Position - dragStart
+            button.Position = UDim2.new(0, startPos.X.Offset + delta.X, 0, startPos.Y.Offset + delta.Y)
+        end
+    end)
+    
+    button.InputEnded:Connect(function(input)
+        if input.UserInputType == Enum.UserInputType.Touch or input.UserInputType == Enum.UserInputType.MouseButton1 then
+            dragging = false
+            stroke.Color = Color3.fromHex("#660000")
+            button.Text = "LAG: OFF"
+        end
+    end)
+    
+    local function handleTap()
+        if not dragging and lagSwitchEnabled then
+            button.Text = "LAG: ACTIVE"
+            button.BackgroundColor3 = Color3.fromHex("#3d0000")      -- أحمر متوسط عند التفعيل
+            stroke.Color = Color3.fromHex("#ff4444")
+            
+            TriggerLagAction()
+            
+            button.Text = "LAG: OFF"
+            button.BackgroundColor3 = Color3.fromHex("#1a0000")
+            stroke.Color = Color3.fromHex("#660000")
+        end
+    end
+    
+    button.MouseButton1Click:Connect(handleTap)
+    button.TouchTap:Connect(handleTap)
+    
+    return screenGui
+end
+
+-- ====================================================================
+-- ⚙️ دمج عناصر التحكم داخل لوحة WindUI
+-- ====================================================================
+local LagSection = MiscTab:Section({
+    Title = "Lag Switch",
+    Side = "Left",
+})
+
+LagSection:Toggle({
+    Title = "Enable Lag Switch",
+    Value = false,
+    Callback = function(state)
+        lagSwitchEnabled = state
+    end,
+})
+
+LagSection:Slider({
+    Title = "Lag Duration (seconds)",
+    Value = { Min = 0.1, Max = 5, Default = 1.5 },
+    Step = 0.1,
+    Callback = function(value) lagDuration = value end,
+})
+
+LagSection:Slider({
+    Title = "Lag Intensity",
+    Value = { Min = 100000, Max = 5000000, Default = 1000000 },
+    Callback = function(value) lagIntensity = value end,
+})
+
+LagSection:Toggle({
+    Title = "Show Floating Button",
+    Value = false,
+    Callback = function(state)
+        if state then
+            floatingButtonGui = CreateLagFloatingButton()
+        else
+            if floatingButtonGui then
+                pcall(function() floatingButtonGui:Destroy() end)
+                floatingButtonGui = nil
+            end
+        end
+    end,
+})
+
+LagSection:Keybind({
+    Title = "Lag Keybind",
+    Default = "F12",
+    Mode = "Press",
+    Callback = TriggerLagAction,
+    ChangedCallback = function(newKey) lagKeybind = newKey end,
+})
+
+LagSection:Button({
+    Title = "Trigger Lag Now",
+    Callback = TriggerLagAction,
+})
+
+UserInputService.InputBegan:Connect(function(input, gameProcessed)
+    if gameProcessed then return end
+    if input.KeyCode == Enum.KeyCode[lagKeybind] then
+        TriggerLagAction()
+    end
+end)
+
+print("[Hyper Pure Lag Switch] Loaded successfully without extras!")
+
+end)
+
+-- ================================
+-- المرحلة 6: نظام حمل اللاعبين (Carry System)
+-- ================================
+local MiscTab = Tabs.Misc
+-- ================================
+-- Carry System (Auto Carry + Floating Button)
+-- ================================
+
+local CarrySection = MiscTab:Section({
+    Title = "Carry System",
+    Side = "Left",
+    Collapsed = true,
+})
+
+-- ================================
+-- متغيرات النظام
+-- ================================
+local autoCarryEnabled = false
+local autoCarryConnection = nil
+local carryFloatingGui = nil
+
+-- ================================
+-- وظيفة حمل لاعب
+-- ================================
+local function CarryPlayer(targetName)
+    pcall(function()
+        local args = { "Carry", [3] = targetName }
+        local interactEvent = game:GetService("ReplicatedStorage"):FindFirstChild("Events") and
+                              game:GetService("ReplicatedStorage").Events:FindFirstChild("Character") and
+                              game:GetService("ReplicatedStorage").Events.Character:FindFirstChild("Interact")
+        if interactEvent then
+            interactEvent:FireServer(unpack(args))
+        end
+    end)
+end
+
+-- ================================
+-- Auto Carry
+-- ================================
+local function StartAutoCarry()
+    if autoCarryConnection then return end
+    
+    autoCarryConnection = RunService.Heartbeat:Connect(function()
+        if not autoCarryEnabled then return end
+        
+        local char = LP.Character
+        local hrp = char and char:FindFirstChild("HumanoidRootPart")
+        if not hrp then return end
+        
+        for _, other in pairs(Players:GetPlayers()) do
+            if other ~= LP and other.Character then
+                local otherHrp = other.Character:FindFirstChild("HumanoidRootPart")
+                if otherHrp then
+                    local dist = (hrp.Position - otherHrp.Position).Magnitude
+                    if dist <= 15 then
+                        CarryPlayer(other.Name)
+                        task.wait(0.1)
+                    end
+                end
+            end
+        end
+    end)
+end
+
+local function StopAutoCarry()
+    if autoCarryConnection then
+        autoCarryConnection:Disconnect()
+        autoCarryConnection = nil
+    end
+end
+
+-- ================================
+-- زر Auto Carry (في الواجهة)
+-- ================================
+CarrySection:Toggle({
+    Title = "Auto Carry",
+    Desc = "It automatically loads nearby players",
+    Icon = "users",
+    Value = false,
+    Type = "Toggle",
+    Locked = false,
+    Flag = "auto_carry",
+    Callback = function(state)
+        autoCarryEnabled = state
+        if state then
+            StartAutoCarry()
+            WindUI:Notify({ Title = "Carry", Content = "تم تشغيل Auto Carry", Duration = 2 })
+        else
+            StopAutoCarry()
+            WindUI:Notify({ Title = "Carry", Content = "تم إيقاف Auto Carry", Duration = 2 })
+        end
+    end,
+})
+
+-- ================================
+-- زر Carry المنفصل (Floating Button)
+-- متوافق مع ثيم Blood Moon
+-- ================================
+
+local function CreateCarryFloatingButton()
+    local CoreGui = game:GetService("CoreGui")
+    
+    local oldGui = CoreGui:FindFirstChild("CarryFloatingButton")
+    if oldGui then oldGui:Destroy() end
+    
+    local screenGui = Instance.new("ScreenGui")
+    screenGui.Name = "CarryFloatingButton"
+    screenGui.ResetOnSpawn = false
+    screenGui.Parent = CoreGui
+    
+    local button = Instance.new("TextButton")
+    button.Size = UDim2.new(0, 160, 0, 55)
+    local startX = (workspace.CurrentCamera.ViewportSize.X / 2) - 80
+    local startY = (workspace.CurrentCamera.ViewportSize.Y / 2) - 27
+    button.Position = UDim2.new(0, startX, 0, startY)
+    button.Text = "CARRY: OFF"
+    
+    -- 🩸 Blood Moon Colors
+    button.BackgroundColor3 = Color3.fromHex("#1a0000")      -- خلفية حمراء داكنة
+    button.TextColor3 = Color3.fromHex("#ffcccc")            -- نص أحمر فاتح
+    button.Font = Enum.Font.GothamBold
+    button.TextSize = 14
+    button.AutoButtonColor = false
+    button.Parent = screenGui
+    
+    -- زوايا دائرية
+    local corner = Instance.new("UICorner")
+    corner.CornerRadius = UDim.new(0.2, 0)
+    corner.Parent = button
+    
+    -- حدود باللون الأحمر الداكن
+    local stroke = Instance.new("UIStroke")
+    stroke.Color = Color3.fromHex("#660000")                 -- إطار أحمر داكن
+    stroke.Thickness = 2
+    stroke.Parent = button
+    
+    -- نظام السحب
+    local dragging = false
+    local dragStart = nil
+    local startPos = nil
+    
+    button.InputBegan:Connect(function(input)
+        if input.UserInputType == Enum.UserInputType.Touch or 
+           input.UserInputType == Enum.UserInputType.MouseButton1 then
+            dragging = true
+            dragStart = input.Position
+            startPos = button.Position
+            stroke.Color = Color3.fromHex("#ff4444")          -- أحمر ناري عند السحب
+            button.Text = "DRAG..."
+        end
+    end)
+    
+    button.InputChanged:Connect(function(input)
+        if dragging then
+            if input.UserInputType == Enum.UserInputType.Touch or 
+               input.UserInputType == Enum.UserInputType.MouseMovement then
+                local delta = input.Position - dragStart
+                local newX = startPos.X.Offset + delta.X
+                local newY = startPos.Y.Offset + delta.Y
+                button.Position = UDim2.new(0, newX, 0, newY)
+            end
+        end
+    end)
+    
+    button.InputEnded:Connect(function(input)
+        if input.UserInputType == Enum.UserInputType.Touch or 
+           input.UserInputType == Enum.UserInputType.MouseButton1 then
+            dragging = false
+            stroke.Color = autoCarryEnabled and Color3.fromHex("#ff4444") or Color3.fromHex("#660000")
+            button.Text = autoCarryEnabled and "CARRY: ON" or "CARRY: OFF"
+        end
+    end)
+    
+    -- حدث الضغط
+    button.MouseButton1Click:Connect(function()
+        if not dragging then
+            autoCarryEnabled = not autoCarryEnabled
+            if autoCarryEnabled then
+                button.Text = "CARRY: ON"
+                button.BackgroundColor3 = Color3.fromHex("#3d0000")      -- أحمر متوسط عند التفعيل
+                stroke.Color = Color3.fromHex("#ff4444")
+                StartAutoCarry()
+                if WindUI and WindUI.Notify then
+                    WindUI:Notify({ Title = "Carry", Content = "Enabled ✅", Duration = 1 })
+                end
+            else
+                button.Text = "CARRY: OFF"
+                button.BackgroundColor3 = Color3.fromHex("#1a0000")      -- نرجع للخلفية الأصلية
+                stroke.Color = Color3.fromHex("#660000")
+                StopAutoCarry()
+                if WindUI and WindUI.Notify then
+                    WindUI:Notify({ Title = "Carry", Content = "Disabled ❌", Duration = 1 })
+                end
+            end
+        end
+    end)
+    
+    -- للموبايل
+    button.TouchTap:Connect(function()
+        if not dragging then
+            autoCarryEnabled = not autoCarryEnabled
+            if autoCarryEnabled then
+                button.Text = "CARRY: ON"
+                button.BackgroundColor3 = Color3.fromHex("#3d0000")
+                stroke.Color = Color3.fromHex("#ff4444")
+                StartAutoCarry()
+                if WindUI and WindUI.Notify then
+                    WindUI:Notify({ Title = "Carry", Content = "Enabled ✅", Duration = 1 })
+                end
+            else
+                button.Text = "CARRY: OFF"
+                button.BackgroundColor3 = Color3.fromHex("#1a0000")
+                stroke.Color = Color3.fromHex("#660000")
+                StopAutoCarry()
+                if WindUI and WindUI.Notify then
+                    WindUI:Notify({ Title = "Carry", Content = "Disabled ❌", Duration = 1 })
+                end
+            end
+        end
+    end)
+    
+    return screenGui
+end
+-- ========== إضافة الـ Toggle في القسم ==========
+-- (افترض أن CarrySection موجود)
+
+if CarrySection then
+    CarrySection:Toggle({
+        Title = "Show Floating Carry Button",
+        Desc = "A floating button appears on the screen to turn the load on/off.",
+        Icon = "smartphone",
+        Value = false,
+        Type = "Toggle",
+        Locked = false,
+        Flag = "carry_floating",
+        Callback = function(state)
+            if state then
+                carryFloatingGui = CreateCarryFloatingButton()
+                if WindUI and WindUI.Notify then
+                    WindUI:Notify({ Title = "Carry Button", Content = "Button shown", Duration = 2 })
+                end
+            else
+                if carryFloatingGui then
+                    carryFloatingGui:Destroy()
+                    carryFloatingGui = nil
+                end
+                if WindUI and WindUI.Notify then
+                    WindUI:Notify({ Title = "Carry Button", Content = "Button hidden", Duration = 2 })
+                end
+            end
+        end,
+    })
+end
+-- ============================================
+-- Demon Mode (Lag Switch + Character Rise)
+-- For Misc Tab
+-- ============================================
+pcall(function()
+
+-- الخدمات
+local Players = game:GetService("Players")
+local RunService = game:GetService("RunService")
+local UserInputService = game:GetService("UserInputService")
+local LP = Players.LocalPlayer
+
+-- التأكد من وجود Tabs و MiscTab
+if not Tabs then
+    warn("[Demon Mode] Tabs not found!")
+    return
+end
+
+local MiscTab = Tabs.Misc
+if not MiscTab then
+    warn("[Demon Mode] MiscTab not found!")
+    return
+end
+
+-- دالة الإشعارات الآمنة
+local function SafeNotify(title, content, duration)
+    pcall(function()
+        if WindUI and WindUI.Notify then
+            WindUI:Notify({ Title = title, Content = content, Duration = duration or 2 })
+        else
+            print("[" .. title .. "] " .. content)
+        end
+    end)
+end
+
+-- ============================================
+-- المتغيرات
+-- ============================================
+local demonEnabled = false
+local demonKeybind = "K"
+local isActive = false
+local floatingButtonGui = nil
+
+-- إعدادات Demon Mode
+local riseHeight = 100
+local riseSpeed = 80
+local lagDuration = 0.3
+local lagIntensity = 1000000
+
+-- ============================================
+-- الدوال الأساسية
+-- ============================================
+
+-- 1. تنفيذ الـ Lag (عمليات حسابية ثقيلة)
+local function PerformLag()
+    local startTime = tick()
+    while tick() - startTime < lagDuration do
+        for i = 1, lagIntensity do
+            local a = math.random(1, 1000000) * math.random(1, 1000000)
+            local b = math.sqrt(math.random(1, 1000000))
+            local c = a / math.random(1, 10000)
+        end
+    end
+end
+
+-- 2. رفع الشخصية للأعلى
+local function RiseCharacter()
+    local char = LP.Character
+    if not char then return false end
+    
+    local hrp = char:FindFirstChild("HumanoidRootPart")
+    if not hrp then return false end
+    
+    local startHeight = hrp.Position.Y
+    local targetHeight = startHeight + riseHeight
+    
+    -- BodyVelocity للرفع
+    local bodyVelocity = Instance.new("BodyVelocity")
+    bodyVelocity.MaxForce = Vector3.new(0, 1000000000, 0)
+    bodyVelocity.Velocity = Vector3.new(0, riseSpeed, 0)
+    bodyVelocity.Parent = hrp
+    
+    -- الانتظار حتى الوصول للارتفاع المطلوب أو 3 ثواني
+    local startTime = tick()
+    while hrp and hrp.Position.Y < targetHeight and (tick() - startTime < 3) do
+        task.wait()
+    end
+    
+    bodyVelocity:Destroy()
+    
+    local finalHeight = hrp and hrp.Position.Y or startHeight
+    local heightGained = finalHeight - startHeight
+    
+    SafeNotify("Demon Mode", "Rose " .. math.floor(heightGained) .. " meters", 2)
+    return true
+end
+
+-- 3. تفعيل Demon Mode
+local function ActivateDemonMode()
+    if not demonEnabled then
+        SafeNotify("Demon Mode", "Enable Demon Mode first", 2)
+        return
+    end
+    if isActive then return end
+    isActive = true
+    
+    SafeNotify("Demon Mode", "Activating...", 1)
+    
+    -- تنفيذ الـ Lag أولاً
+    PerformLag()
+    
+    -- ثم رفع الشخصية
+    RiseCharacter()
+    
+    isActive = false
+end
+
+-- 4. تفعيل/إلغاء الميزة
+local function SetDemonEnabled(state)
+    demonEnabled = state
+    SafeNotify("Demon Mode", state and "Enabled" or "Disabled", 2)
+end
+
+-- ============================================
+-- زر عائم متحرك (Blood Moon Style)
+-- ============================================
+local function CreateDemonFloatingButton()
+    local CoreGui = game:GetService("CoreGui")
+    
+    local oldGui = CoreGui:FindFirstChild("DemonFloatingButton")
+    if oldGui then oldGui:Destroy() end
+    
+    local screenGui = Instance.new("ScreenGui")
+    screenGui.Name = "DemonFloatingButton"
+    screenGui.ResetOnSpawn = false
+    screenGui.Parent = CoreGui
+    
+    local button = Instance.new("TextButton")
+    button.Size = UDim2.new(0, 160, 0, 55)
+    local startX = (workspace.CurrentCamera.ViewportSize.X / 2) - 80
+    local startY = (workspace.CurrentCamera.ViewportSize.Y / 2) - 27
+    button.Position = UDim2.new(0, startX, 0, startY)
+    button.Text = "DEMON"
+    
+    -- 🩸 Blood Moon Colors
+    button.BackgroundColor3 = Color3.fromHex("#1a0000")      -- خلفية حمراء داكنة
+    button.TextColor3 = Color3.fromHex("#ffcccc")            -- نص أحمر فاتح
+    button.Font = Enum.Font.GothamBold
+    button.TextSize = 16
+    button.AutoButtonColor = false
+    button.Parent = screenGui
+    
+    local corner = Instance.new("UICorner")
+    corner.CornerRadius = UDim.new(0.2, 0)
+    corner.Parent = button
+    
+    local stroke = Instance.new("UIStroke")
+    stroke.Color = Color3.fromHex("#660000")                 -- إطار أحمر داكن
+    stroke.Thickness = 2
+    stroke.Parent = button
+    
+    -- نظام السحب
+    local dragging = false
+    local dragStart = nil
+    local startPos = nil
+    
+    button.InputBegan:Connect(function(input)
+        if input.UserInputType == Enum.UserInputType.Touch or 
+           input.UserInputType == Enum.UserInputType.MouseButton1 then
+            dragging = true
+            dragStart = input.Position
+            startPos = button.Position
+            stroke.Color = Color3.fromHex("#ff4444")          -- أحمر ناري عند السحب
+            button.Text = "DRAG..."
+        end
+    end)
+    
+    button.InputChanged:Connect(function(input)
+        if dragging then
+            if input.UserInputType == Enum.UserInputType.Touch or 
+               input.UserInputType == Enum.UserInputType.MouseMovement then
+                local delta = input.Position - dragStart
+                local newX = startPos.X.Offset + delta.X
+                local newY = startPos.Y.Offset + delta.Y
+                button.Position = UDim2.new(0, newX, 0, newY)
+            end
+        end
+    end)
+    
+    button.InputEnded:Connect(function(input)
+        if input.UserInputType == Enum.UserInputType.Touch or 
+           input.UserInputType == Enum.UserInputType.MouseButton1 then
+            dragging = false
+            stroke.Color = Color3.fromHex("#660000")
+            button.Text = "DEMON"
+        end
+    end)
+    
+    -- تأثير الضغط على الزر
+    local function DoDemon()
+        button.BackgroundColor3 = Color3.fromHex("#3d0000")      -- أحمر متوسط عند التفعيل
+        button.TextColor3 = Color3.fromRGB(255, 255, 255)        -- أبيض ناصع عند التفعيل
+        stroke.Color = Color3.fromHex("#ff4444")                 -- أحمر ناري عند التفعيل
+        
+        ActivateDemonMode()
+        
+        button.BackgroundColor3 = Color3.fromHex("#1a0000")
+        button.TextColor3 = Color3.fromHex("#ffcccc")
+        stroke.Color = Color3.fromHex("#660000")
+    end
+    
+    button.MouseButton1Click:Connect(function()
+        if not dragging then DoDemon() end
+    end)
+    
+    button.TouchTap:Connect(function()
+        if not dragging then DoDemon() end
+    end)
+    
+    return screenGui
+end
+
+-- تحديث واجهة الزر العائم (إن وجد)
+local function UpdateFloatingButton()
+    if floatingButtonGui then
+        local btn = floatingButtonGui:FindFirstChildOfClass("TextButton")
+        if btn then
+            btn.Text = "DEMON"
+            btn.BackgroundColor3 = Color3.fromHex("#1a0000")
+            btn.TextColor3 = Color3.fromHex("#ffcccc")
+        end
+    end
+end
+
+-- ============================================
+-- Keybind
+-- ============================================
+UserInputService.InputBegan:Connect(function(input, gameProcessed)
+    if gameProcessed then return end
+    if input.KeyCode == Enum.KeyCode[demonKeybind] then
+        ActivateDemonMode()
+    end
+end)
+
+-- ============================================
+-- إنشاء الـ Section والأزرار
+-- ============================================
+local DemonSection = MiscTab:Section({
+    Title = "Demon Mode",
+    Side = "Left",
+    Collapsed = false,
+})
+
+-- Toggle تمكين الميزة
+DemonSection:Toggle({
+    Title = "Enable Demon Mode",
+    Value = false,
+    Callback = SetDemonEnabled,
+})
+
+-- ارتفاع الصعود
+DemonSection:Slider({
+    Title = "Rise Height (meters)",
+    Value = { Min = 10, Max = 500, Default = 100 },
+    Callback = function(value) riseHeight = value end,
+})
+
+-- سرعة الصعود
+DemonSection:Slider({
+    Title = "Rise Speed",
+    Value = { Min = 20, Max = 200, Default = 80 },
+    Callback = function(value) riseSpeed = value end,
+})
+
+-- مدة الـ Lag
+DemonSection:Slider({
+    Title = "Lag Duration (seconds)",
+    Value = { Min = 0.1, Max = 2, Default = 0.3 },
+    Step = 0.1,
+    Callback = function(value) lagDuration = value end,
+})
+
+-- قوة الـ Lag
+DemonSection:Slider({
+    Title = "Lag Intensity",
+    Value = { Min = 100000, Max = 5000000, Default = 1000000 },
+    Callback = function(value) lagIntensity = value end,
+})
+
+-- زر عائم متحرك
+DemonSection:Toggle({
+    Title = "Show Floating Button",
+    Value = false,
+    Callback = function(state)
+        if state then
+            floatingButtonGui = CreateDemonFloatingButton()
+        else
+            if floatingButtonGui then
+                pcall(function() floatingButtonGui:Destroy() end)
+                floatingButtonGui = nil
+            end
+        end
+    end,
+})
+
+-- Keybind
+DemonSection:Keybind({
+    Title = "Demon Keybind",
+    Default = "K",
+    Mode = "Press",
+    Callback = ActivateDemonMode,
+    ChangedCallback = function(newKey) demonKeybind = newKey end,
+})
+
+-- زر تشغيل يدوي
+DemonSection:Button({
+    Title = "Activate Demon Mode Now",
+    Callback = ActivateDemonMode,
+})
+
+print("[Demon Mode] Loaded successfully!")
+SafeNotify("Demon Mode", "Section Loaded Successfully!", 3)
+
+end) -- نهاية pcall
+
+-- ============================================
+-- Gravity System (في تبويب Misc)
+-- ============================================
+pcall(function()
+    local Players = game:GetService("Players")
+    local RunService = game:GetService("RunService")
+    local UserInputService = game:GetService("UserInputService")
+    local LP = Players.LocalPlayer
+    
+    -- ============================================
+    -- المتغيرات
+    -- ============================================
+    local gravityEnabled = false
+    local originalGravity = workspace.Gravity
+    local gravityValue = 10
+    local gravityKeybind = "G"
+    local gravityFloatingGui = nil
+    
+    -- ============================================
+    -- دالة تبديل الجاذبية
+    -- ============================================
+    local function toggleGravity()
+        gravityEnabled = not gravityEnabled
+        if gravityEnabled then
+            workspace.Gravity = gravityValue
+        else
+            workspace.Gravity = originalGravity
+        end
+        
+        -- تحديث الزر العائم لو موجود
+        if gravityFloatingGui then
+            local btn = gravityFloatingGui:FindFirstChildOfClass("TextButton")
+            if btn then
+                btn.Text = gravityEnabled and "GRAVITY: ON" or "GRAVITY: OFF"
+            end
+        end
+    end
+    
+-- ============================================
+-- Gravity Floating Button (Blood Moon Style)
+-- ============================================
+local function CreateGravityFloatingButton()
+    local CoreGui = game:GetService("CoreGui")
+    
+    local oldGui = CoreGui:FindFirstChild("GravityFloatingButton")
+    if oldGui then oldGui:Destroy() end
+    
+    local screenGui = Instance.new("ScreenGui")
+    screenGui.Name = "GravityFloatingButton"
+    screenGui.ResetOnSpawn = false
+    screenGui.Parent = CoreGui
+    
+    local button = Instance.new("TextButton")
+    button.Size = UDim2.new(0, 160, 0, 55)
+    local startX = (workspace.CurrentCamera.ViewportSize.X / 2) - 80
+    local startY = (workspace.CurrentCamera.ViewportSize.Y / 2) - 27
+    button.Position = UDim2.new(0, startX, 0, startY)
+    button.Text = "GRAVITY: OFF"
+    
+    -- 🩸 Blood Moon Colors
+    button.BackgroundColor3 = Color3.fromHex("#1a0000")      -- خلفية حمراء داكنة
+    button.TextColor3 = Color3.fromHex("#ffcccc")            -- نص أحمر فاتح
+    button.Font = Enum.Font.GothamBold
+    button.TextSize = 14
+    button.AutoButtonColor = false
+    button.Parent = screenGui
+    
+    local corner = Instance.new("UICorner")
+    corner.CornerRadius = UDim.new(0.2, 0)
+    corner.Parent = button
+    
+    local stroke = Instance.new("UIStroke")
+    stroke.Color = Color3.fromHex("#660000")                 -- إطار أحمر داكن
+    stroke.Thickness = 2
+    stroke.Parent = button
+    
+    -- نظام السحب
+    local dragging = false
+    local dragStart, startPos
+    
+    button.InputBegan:Connect(function(input)
+        if input.UserInputType == Enum.UserInputType.Touch or input.UserInputType == Enum.UserInputType.MouseButton1 then
+            dragging = true
+            dragStart = input.Position
+            startPos = button.Position
+            stroke.Color = Color3.fromHex("#ff4444")          -- أحمر ناري عند السحب
+            button.Text = "DRAG..."
+        end
+    end)
+    
+    button.InputChanged:Connect(function(input)
+        if dragging and (input.UserInputType == Enum.UserInputType.Touch or input.UserInputType == Enum.UserInputType.MouseMovement) then
+            local delta = input.Position - dragStart
+            button.Position = UDim2.new(0, startPos.X.Offset + delta.X, 0, startPos.Y.Offset + delta.Y)
+        end
+    end)
+    
+    button.InputEnded:Connect(function(input)
+        if input.UserInputType == Enum.UserInputType.Touch or input.UserInputType == Enum.UserInputType.MouseButton1 then
+            dragging = false
+            stroke.Color = gravityEnabled and Color3.fromHex("#ff4444") or Color3.fromHex("#660000")
+            button.Text = gravityEnabled and "GRAVITY: ON" or "GRAVITY: OFF"
+        end
+    end)
+    
+    -- تأثير الضغط على الزر
+    local function handleTap()
+        if not dragging then
+            button.Text = "GRAVITY: ACTIVE"
+            button.BackgroundColor3 = Color3.fromHex("#3d0000")      -- أحمر متوسط عند التفعيل
+            stroke.Color = Color3.fromHex("#ff4444")
+            
+            toggleGravity()
+            
+            button.Text = gravityEnabled and "GRAVITY: ON" or "GRAVITY: OFF"
+            button.BackgroundColor3 = gravityEnabled and Color3.fromHex("#3d0000") or Color3.fromHex("#1a0000")
+            stroke.Color = gravityEnabled and Color3.fromHex("#ff4444") or Color3.fromHex("#660000")
+            
+            -- تحديث الـ Toggle في الواجهة
+            if GravityToggle then
+                GravityToggle:SetValue(gravityEnabled)
+            end
+        end
+    end
+    
+    button.MouseButton1Click:Connect(handleTap)
+    button.TouchTap:Connect(handleTap)
+    
+    return screenGui
+end
+    
+    -- ============================================
+    -- Keybind للجاذبية
+    -- ============================================
+    UserInputService.InputBegan:Connect(function(input, gameProcessed)
+        if gameProcessed then return end
+        if input.KeyCode == Enum.KeyCode[gravityKeybind] then
+            toggleGravity()
+            
+            -- تحديث الـ Toggle في الواجهة
+            if GravityToggle then
+                GravityToggle:SetValue(gravityEnabled)
+            end
+        end
+    end)
+    
+    -- ============================================
+    -- إنشاء القسم في تبويب Misc
+    -- ============================================
+    local GravitySection = Tabs.Misc:Section({
+        Title = "Gravity Control",
+        Side = "Left",
+        Collapsed = true,
+    })
+    
+    -- Toggle التفعيل
+    local GravityToggle = GravitySection:Toggle({
+        Title = "Gravity",
+        Desc = "Modify workspace gravity",
+        Value = false,
+        Callback = function(state)
+            gravityEnabled = state
+            if state then
+                workspace.Gravity = gravityValue
+            else
+                workspace.Gravity = originalGravity
+            end
+            
+            -- تحديث الزر العائم لو موجود
+            if gravityFloatingGui then
+                local btn = gravityFloatingGui:FindFirstChildOfClass("TextButton")
+                if btn then
+                    btn.Text = gravityEnabled and "GRAVITY: ON" or "GRAVITY: OFF"
+                end
+            end
+        end
+    })
+    
+    -- Input قيمة الجاذبية
+    GravitySection:Input({
+        Title = "Gravity Value",
+        Desc = "Default: 10 (Lower = less gravity)",
+        Default = "10",
+        Placeholder = "10",
+        Numeric = true,
+        Callback = function(value)
+            local num = tonumber(value)
+            if num and num > 0 then
+                gravityValue = num
+                if gravityEnabled then
+                    workspace.Gravity = gravityValue
+                end
+                WindUI:Notify({ Title = "Gravity", Content = "Set to: " .. num, Duration = 1 })
+            elseif num and num <= 0 then
+                WindUI:Notify({ Title = "Error", Content = "Gravity must be positive", Duration = 2 })
+            end
+        end
+    })
+    
+    -- زر عرض الزر العائم
+    GravitySection:Toggle({
+        Title = "Show Floating Button",
+        Desc = "Show/hide gravity floating button",
+        Value = false,
+        Callback = function(state)
+            if state then
+                gravityFloatingGui = CreateGravityFloatingButton()
+            else
+                if gravityFloatingGui then
+                    gravityFloatingGui:Destroy()
+                    gravityFloatingGui = nil
+                end
+            end
+        end
+    })
+    
+    -- Keybind للجاذبية
+    GravitySection:Keybind({
+        Title = "Gravity Keybind",
+        Default = "G",
+        Mode = "Toggle",
+        Callback = function()
+            toggleGravity()
+            if GravityToggle then
+                GravityToggle:SetValue(gravityEnabled)
+            end
+        end,
+        ChangedCallback = function(newKey)
+            gravityKeybind = newKey
+        end
+    })
+    
+    -- زر إعادة ضبط الجاذبية للأصل
+    GravitySection:Button({
+        Title = "Reset Gravity",
+        Desc = "Reset to original game gravity",
+        Callback = function()
+            originalGravity = workspace.Gravity
+            gravityValue = originalGravity
+            if gravityEnabled then
+                workspace.Gravity = gravityValue
+            end
+            WindUI:Notify({ Title = "Gravity", Content = "Reset to: " .. originalGravity, Duration = 2 })
+        end
+    })
+    
+    print("[Gravity System] Loaded successfully in Misc tab!")
+end)
+-- ============================================
+-- Emote on Ctrl - المتغيرات الكاملة
+-- ============================================
+
+-- تعريف الخدمات
+local Players = game:GetService("Players")
+local UserInputService = game:GetService("UserInputService")
+local LP = Players.LocalPlayer
+
+-- المتغيرات
+local emoteOnCrouchEnabled = false
+
+-- ============================================
+-- دالة تشغيل الإيموت
+-- ============================================
+local function PlayEmote()
+    pcall(function()
+        local character = LP.Character
+        if not character then 
+            print("❌ No character found")
+            return 
+        end
+        
+        local humanoid = character:FindFirstChild("Humanoid")
+        if not humanoid then 
+            print(" No humanoid found")
+            return 
+        end
+        
+        print("Emote played!")
+        
+        -- جرب تشغيل إيموت من ReplicatedStorage
+        local replicatedStorage = game:GetService("ReplicatedStorage")
+        local emotesFolder = replicatedStorage:FindFirstChild("Emotes")
+        if emotesFolder then
+            local emote = emotesFolder:GetChildren()[math.random(1, #emotesFolder:GetChildren())]
+            if emote then
+                local animTrack = humanoid:LoadAnimation(emote)
+                if animTrack then
+                    animTrack:Play()
+                    print(" Emote animation playing")
+                end
+            end
+        end
+    end)
+end
+
+-- ============================================
+-- التحكم في الضغط على Ctrl
+-- ============================================
+UserInputService.InputBegan:Connect(function(input, gameProcessed)
+    if gameProcessed then return end
+    if input.KeyCode == Enum.KeyCode.LeftControl or input.KeyCode == Enum.KeyCode.RightControl then
+        if emoteOnCrouchEnabled then
+            PlayEmote()
+        end
+    end
+end)
+
+print(" Emote on Ctrl loaded successfully!")
