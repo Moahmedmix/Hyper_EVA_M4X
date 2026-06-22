@@ -1,3 +1,20 @@
+<div align="center">
+
+# ⚡ Hyper UI | Лучший Скрипт для Roblox Evade
+
+🔀 **Языки:** [🇺🇸 English](./README.md) | [🇷🇺 Русский](./README_R.md)
+
+
+---
+</div>
+
+---
+
+![License](https://img.shields.io/github/license/Moahmedmix/Hyper_EVA_M4X?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Undetected-brightgreen?style=for-the-badge)
+![Supported Executors](https://img.shields.io/badge/Executors-Delta%20%7C%20Wave%20%7C%20Codex-blue?style=for-the-badge)
+
+</div>
 # ⚡ Hyper UI | Лучший Скрипт для Roblox Evade
 Добро пожаловать в **Hyper UI** — самый продвинутый, многофункциональный и оптимизированный скрипт на языке Luau для Roblox. Создан на базе премиального интерфейса **WindUI** с максимальным уровнем защиты системы.
 ## ✨ Основные Функции
