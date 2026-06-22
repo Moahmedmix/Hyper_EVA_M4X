@@ -49,19 +49,12 @@
 ### ⚙️ Настройки и Локализация
  * **Темы интерфейса:** 5 кастомных стилей (Ocean Deep, Crimson, Dark, Amethyst, Blood Red).
  * **Языки:** Полная локализация интерфейса на **Английский, Арабский, Французский, Испанский и Немецкий**.
-## 🚀 Как Запустить
-Скопируйте код (loadstring) ниже и вставьте его в свой эксплоит.
-```lua
--- Запуск скрипта Hyper UI
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Moahmedmix/Hyper_M4X/main/Main.lua"))()
-
-```
 ## 🛠️ Поддерживаемые Эксплоиты
 ### 📱 Мобильные (Android)
  * Delta, Codex, Arceus X, Fluxus, Hydrogen.
 ### 💻 На Компьютер (PC)
  * Wave, Solara, Synapse X, Script-Ware, Krnl, Oxygen U.
 ## 📜 Лицензия и Авторы
- * Разработчик: **Mohamed Shaban** (M4X / Mohamed Mix Pro).
+ * Разработчик: **Mohamed Shaban** (M4X) And **EVA Moahmed**
  * Дизайн интерфейса: библиотека **WindUI**.
  * Распространяется по лицензии **GNU GPLv3**. Подробности в файле LICENSE.
