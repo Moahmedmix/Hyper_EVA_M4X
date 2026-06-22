@@ -7,7 +7,7 @@
 
 ---
 
-![License](https://img.shields.io/github/license/Moahmedmix/Hyper_M4X?style=for-the-badge)
+![License](https://img.shields.io/github/license/Moahmedmix/Hyper_EVA_M4X?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Undetected-brightgreen?style=for-the-badge)
 ![Supported Executors](https://img.shields.io/badge/Executors-Delta%20%7C%20Wave%20%7C%20Codex-blue?style=for-the-badge)
 
