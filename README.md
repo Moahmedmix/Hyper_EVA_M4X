@@ -1,229 +1,104 @@
-```markdown
-# 🚀 Hyper UI - Advanced Roblox Script Hub
-
-**Version:** 1.0.0  
-**Authors:** M4X | EVA | AMAL | Jana  
-**Framework:** WindUI  
-**Repository:** [github.com/Moahmedmix/Hyper_M4X](https://github.com/Moahmedmix/Hyper_M4X)
-
----
-
-## 📖 English
-
-### ⚡ Overview
-**Hyper UI** is a premium, feature-packed script hub for Roblox, built on the powerful **WindUI** framework. It provides a sleek, modern interface with advanced features including ESP, Aimbot, Movement enhancements, and a comprehensive information display system.
-
-### 🎯 Key Features
-- **Modern UI** - Clean, responsive interface with customizable themes
-- **ESP System** - Player ESP with distance tracking and highlight system
-- **Aimbot** - Advanced targeting system with configurable settings
-- **Movement** - Speed, jump, and movement modification tools
-- **Player Info** - Detailed player statistics and system information
-- **Auto Farm** - Automated farming capabilities
-- **Griefing Tools** - Various gameplay modification tools
-- **Multi-language Support** - English & Russian translations
-- **Key System** - Secure access with customizable key verification
-- **Cross-platform** - Works on PC and mobile devices
-
-### 🛠️ Installation
+ملف اللغة الإنجليزية لـ README.md:
+[file-tag: code-generated-file-1-1782140272952202523]
+ملف اللغة الروسية لـ README_R.md:
+[file-tag: code-generated-file-0-1782140272952195433]
+There is a file you can reference named "README_R.md". Refer to this file by its name verbatim.
+There is a file you can reference named "README.md". Refer to this file by its name verbatim.
+[source: 1]# ⚡ Hyper UI | Ultimate Roblox Evade Script
+Welcome to **Hyper UI**, the most advanced, multi-featured, and highly optimized Luau script designed for Roblox. Built with premium performance and comprehensive protections using the premium **WindUI Library**.
+## ✨ Features
+### 🏠 Home & Dashboard
+ * **Profile:** Dynamic player profile with avatar display.
+ * **Game Info:** Displays Game ID, Name, and detailed server stats.
+ * **Performance:** Real-time FPS and Ping metrics.
+ * **Device & Executor:** Auto-detects device hardware and executor specs.
+ * **Quick Actions:** Instant Rejoin, Clean Workspace, and Copy Discord Link.
+### 🎯 Aimbot Control
+ * **Targeting:** Advanced target selection with target prediction.
+ * **Customization:** Fully adjustable Aim Smoothing and FOV size.
+ * **Silent Aim:** High-performance Silent Aim support.
+ * **Keybinds:** Customizable aim key binding.
+### 👁️ Visuals (ESP) & Environment
+ * **Player ESP:** Outlines distance, health bars, and names.
+ * **Chams & Highlights:** Premium highlight system with full color customization (Box & Tracers).
+ * **Game ESP:** Nextbot ESP, Nextbot Highlight, and Barriers visibility.
+ * **Environment:** No Fog, Full Bright, and **Anti Lag** (3 customizable levels).
+### 🏃 Movement Hacks
+ * **Core:** Speed modification, Jump power adjustment, and Gravity control.
+ * **Toggles:** Infinite Jump and No Clip mode.
+ * **Physics:** Bhop acceleration and Auto Trimp.
+### 🛡️ Security & Bypass
+ * **Protections:** Anti-Ban, Anti-Kick, Auto-Unban, and Anti-Fling.
+ * **Bypasses:** Zero Exit and advanced Metatable protection.
+### 📦 Automation & Utilities
+ * **Farming:** Auto Farm, Auto Carry, and Anti AFK.
+ * **Network:** Lag Switch.
+ * **Floating Widgets:** Quick toggles for BHOP, Auto Trimp, Carry, Lag Switch, Demon Mode, and Gravity.
+### ⚙️ Settings & Localization
+ * **Themes:** 5 premium theme setups (Ocean Deep, Crimson, Dark, Amethyst, Blood Red).
+ * **Languages:** Full translation support for **English, Arabic, French, Spanish, and German**.
+## 🚀 How to Use
+Copy the direct loadstring below and execute it using any supported Roblox exploit.
 ```lua
--- Load Hyper UI
+-- Hyper UI Launch Script
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Moahmedmix/Hyper_M4X/main/Main.lua"))()
+
 ```
-
-📋 Requirements
-
-· Roblox executor with UNC support
-· WindUI library (auto-loaded)
-· Active internet connection
-
-🔑 Key System
-
-The script includes a key verification system. Default keys:
-
-· MIX
-· M4X
-· MIX-M4X
-
-🎮 Features Breakdown
-
-Home Tab
-
-· Player profile with avatar display
-· Game information (ID, name, server stats)
-· System performance metrics (FPS, Ping)
-· Device and executor information
-· Quick actions (Rejoin, Clean workspace)
-
-Aimbot Tab
-
-· Target selection
-· Aim smoothing and FOV adjustment
-· Silent aim support
-· Target prediction
-
-Visuals Tab
-
-· Player ESP (distance, health, name)
-· Highlight system
-· Box and Tracer options
-· Customizable colors
-
-Movement Tab
-
-· Speed modification
-· Jump power adjustment
-· Infinite jump toggle
-· No clip mode
-· Bhop acceleration
-
-Settings Tab
-
-· Theme customization
-· Language selection
-· Reset all settings
-· Script information
-
-🌍 Language Support
-
-· English (Default)
-· Русский (Russian)
-
-📱 Device Support
-
-· PC - Full feature support
-· Mobile/Tablet - Optimized interface
-
-👥 Contributors
-
-· M4X - Lead Developer
-· EVA - UI/UX Designer
-· AMAL - Feature Development
-· Jana - Testing & Documentation
-
-📞 Contact & Support
-
-· Discord: discord.gg/hyper
-· GitHub: github.com/Moahmedmix/Hyper_M4X
-· TikTok: @m4x__4x1
-
----
-
-🇷🇺 Русский
-
-⚡ Обзор
-
-Hyper UI - это премиум-хаб скриптов для Roblox, построенный на мощном фреймворке WindUI. Предоставляет стильный, современный интерфейс с расширенными функциями, включая ESP, Aimbot, улучшения движения и комплексную систему отображения информации.
-
-🎯 Основные возможности
-
-· Современный интерфейс - Чистый, отзывчивый интерфейс с настраиваемыми темами
-· ESP Система - ESP игроков с отслеживанием расстояния и системой подсветки
-· Aimbot - Продвинутая система наведения с настраиваемыми параметрами
-· Движение - Инструменты изменения скорости, прыжка и движения
-· Информация об игроке - Детальная статистика игрока и информация о системе
-· Авто-ферма - Автоматизированные возможности фермерства
-· Инструменты гриферства - Различные инструменты изменения геймплея
-· Многоязычная поддержка - Переводы на английский и русский
-· Система ключей - Безопасный доступ с настраиваемой проверкой ключей
-· Кроссплатформенность - Работает на ПК и мобильных устройствах
-
-🛠️ Установка
-
+## 🛠️ Supported Executors
+### 📱 Mobile (Android)
+ * Delta, Codex, Arceus X, Fluxus, Hydrogen.
+### 💻 PC (Windows)
+ * Wave, Solara, Synapse X, Script-Ware, Krnl, Oxygen U.
+## 📜 License & Credits
+ * Developed by **Mohamed Shaban** (M4X / Mohamed Mix Pro).
+ * UI Interface powered by **WindUI**.
+ * Distributed under the **GNU GPLv3 License**. See LICENSE for more details.
+   [source: 2]# ⚡ Hyper UI | Лучший Скрипт для Roblox Evade
+Добро пожаловать в **Hyper UI** — самый продвинутый, многофункциональный и оптимизированный скрипт на языке Luau для Roblox. Создан на базе премиального интерфейса **WindUI** с максимальным уровнем защиты системы.
+## ✨ Основные Функции
+### 🏠 Главная Панель (Home)
+ * **Профиль:** Динамическое отображение аватара и профиля игрока.
+ * **Информация:** Данные игры (ID, название, статистика сервера).
+ * **Производительность:** Мониторинг FPS и Ping в реальном времени.
+ * **Система:** Отображение информации о девайсе и запущенном эксплоите.
+ * **Быстрые Действия:** Кнопки Перезахода (Rejoin), Очистки воркспейса и Копирования Discord.
+### 🎯 Аимбот (Aimbot)
+ * **Наведение:** Выбор целей и умное предсказание траектории движения (Prediction).
+ * **Настройка:** Регулировка плавности (Smoothing) и радиуса обзора (FOV).
+ * **Silent Aim:** Поддержка бесшумного аима без поворота камеры.
+ * **Горячие Клавиши:** Назначение кастомной кнопки активации (Keybind).
+### 👁️ Визуалы (ESP) и Окружение
+ * **ВХ на Игроков:** Отображение дистанции, здоровья и никнеймов.
+ * **Подсветка (Chams):** Премиальная система Highlight с кастомизацией цветов, боксов и трасеров.
+ * **Объекты:** ВХ на Некстботов, подсветка Некстботов и отображение барьеров.
+ * **Графика:** Отключение тумана (No Fog), Полная яркость (Full Bright) и **Anti Lag** (3 уровня оптимизации).
+### 🏃 Функции Движения (Movement)
+ * **Основные:** Изменение скорости (Speed), высоты прыжка (Jump Power) и управление гравитацией.
+ * **Режимы:** Бесконечный прыжок (Infinite Jump) и проход сквозь стены (No Clip).
+ * **Физика:** Разгон Бхопа (Bhop acceleration) и функция Auto Trimp.
+### 🛡️ Функции Защиты (Protection)
+ * **Безопасность:** Anti-Ban, Anti-Kick, Auto-Unban и Anti-Fling.
+ * **Обходы:** Функция Zero Exit и продвинутая защита метатаблиц (Metatable protection).
+### 📦 Автоматизация и Утилиты
+ * **Фарм:** Авто-фарм (Auto Farm), Авто-переноска (Auto Carry) и Anti AFK.
+ * **Сеть:** Встроенный Lag Switch.
+ * **Плавающие Кнопки:** Быстрые виджеты для BHOP, Auto Trimp, Carry, Lag Switch, Demon Mode и Gravity.
+### ⚙️ Настройки и Локализация
+ * **Темы интерфейса:** 5 кастомных стилей (Ocean Deep, Crimson, Dark, Amethyst, Blood Red).
+ * **Языки:** Полная локализация интерфейса на **Английский, Арабский, Французский, Испанский и Немецкий**.
+## 🚀 Как Запустить
+Скопируйте код (loadstring) ниже и вставьте его в свой эксплоит.
 ```lua
--- Загрузка Hyper UI
+-- Запуск скрипта Hyper UI
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Moahmedmix/Hyper_M4X/main/Main.lua"))()
-```
-
-📋 Требования
-
-· Исполнитель Roblox с поддержкой UNC
-· Библиотека WindUI (автозагрузка)
-· Активное интернет-соединение
-
-🔑 Система ключей
-
-Скрипт включает систему проверки ключей. Ключи по умолчанию:
-
-· MIX
-· M4X
-· MIX-M4X
-
-🎮 Описание функций
-
-Вкладка Home
-
-· Профиль игрока с отображением аватара
-· Информация об игре (ID, название, статистика сервера)
-· Показатели производительности системы (FPS, Ping)
-· Информация об устройстве и исполнителе
-· Быстрые действия (Переподключение, Очистка рабочей области)
-
-Вкладка Aimbot
-
-· Выбор цели
-· Сглаживание прицеливания и настройка FOV
-· Поддержка Silent Aim
-· Прогнозирование цели
-
-Вкладка Visuals
-
-· ESP игроков (расстояние, здоровье, имя)
-· Система подсветки
-· Опции Box и Tracer
-· Настраиваемые цвета
-
-Вкладка Movement
-
-· Изменение скорости
-· Регулировка силы прыжка
-· Бесконечный прыжок
-· Режим No Clip
-· Ускорение Bhop
-
-Вкладка Settings
-
-· Настройка темы
-· Выбор языка
-· Сброс всех настроек
-· Информация о скрипте
-
-🌍 Поддержка языков
-
-· English (По умолчанию)
-· Русский (Russian)
-
-📱 Поддержка устройств
-
-· ПК - Полная поддержка функций
-· Мобильные/Планшеты - Оптимизированный интерфейс
-
-👥 Участники
-
-· M4X - Ведущий разработчик
-· EVA - UI/UX Дизайнер
-· AMAL - Разработка функций
-· Jana - Тестирование и документация
-
-📞 Контакты и поддержка
-
-· Discord: discord.gg/hyper
-· GitHub: github.com/Moahmedmix/Hyper_M4X
-· TikTok: @m4x__4x1
-
----
-
-📜 License
-
-MIT License - See LICENSE file for details.
-
-⚠️ Disclaimer
-
-This script is for educational purposes only. Use at your own risk. The developers are not responsible for any consequences of using this script.
-
----
-
-Made with ❤️ by M4X | EVA 
 
 ```
-```
+## 🛠️ Поддерживаемые Эксплоиты
+### 📱 Мобильные (Android)
+ * Delta, Codex, Arceus X, Fluxus, Hydrogen.
+### 💻 На Компьютер (PC)
+ * Wave, Solara, Synapse X, Script-Ware, Krnl, Oxygen U.
+## 📜 Лицензия и Авторы
+ * Разработчик: **Mohamed Shaban** (M4X / Mohamed Mix Pro).
+ * Дизайн интерфейса: библиотека **WindUI**.
+ * Распространяется по лицензии **GNU GPLv3**. Подробности в файле LICENSE.
