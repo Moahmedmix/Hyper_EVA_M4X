@@ -1,10 +1,6 @@
 ملف اللغة الإنجليزية لـ README.md:
 [file-tag: code-generated-file-1-1782140272952202523]
-ملف اللغة الروسية لـ README_R.md:
-[file-tag: code-generated-file-0-1782140272952195433]
-There is a file you can reference named "README_R.md". Refer to this file by its name verbatim.
-There is a file you can reference named "README.md". Refer to this file by its name verbatim.
-[source: 1]# ⚡ Hyper UI | Ultimate Roblox Evade Script
+# ⚡ Hyper UI | Ultimate Roblox Evade Script
 Welcome to **Hyper UI**, the most advanced, multi-featured, and highly optimized Luau script designed for Roblox. Built with premium performance and comprehensive protections using the premium **WindUI Library**.
 ## ✨ Features
 ### 🏠 Home & Dashboard
