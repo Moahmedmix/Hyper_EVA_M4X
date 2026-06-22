@@ -1,5 +1,3 @@
-ملف اللغة الإنجليزية لـ README.md:
-[file-tag: code-generated-file-1-1782140272952202523]
 # ⚡ Hyper UI | Ultimate Roblox Evade Script
 Welcome to **Hyper UI**, the most advanced, multi-featured, and highly optimized Luau script designed for Roblox. Built with premium performance and comprehensive protections using the premium **WindUI Library**.
 ## ✨ Features
