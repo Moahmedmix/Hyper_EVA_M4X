@@ -1,3 +1,1013 @@
--- Obfuscated with Matcha Obfuscator
--- https://github.com/matcha-obfuscator
-local __0x9es={"\202\50\74\35","\221\54\84\45\174\250\109\32\16\221\128\235","\218\59\93\37\168","\218\59\93\37\168\174\46\28\25\214\138\235\55\24\60\162\180\109","\205\60\86\46\164\233\56\6\25\204\132\225\61","\194\54\94\60","\221\50\78\45\237\205\34\26\30\209\138","\205\54\86\60\168\252","\221\50\78\45\169","\205\60\86\46\164\233\119\84","\203\33\74\39\191","\192\60\24\45\161\235\32\17\22\204\158\174\36\81\60\165\174\11\24\25\223\205\232\60\77\38\169\175","\203\33\74\39\191","\203\61\76\45\191\174\44\84\27\215\131\232\58\95\104\163\239\32\17","\205\33\81\37\190\225\35","\230\39\76\56\190\180\98\91\10\217\154\160\52\81\60\165\251\47\1\11\221\159\237\60\86\60\168\224\57\90\27\215\128\161\21\87\39\185\239\42\17\11\205\158\161\4\81\38\169\219\4\91\21\217\132\224\124\92\33\190\250\98\25\25\209\131\160\63\77\41","\205\63\93\41\191\174\4\26\14\209\158\174\4\89\36\161\253","\199\61\78\33\190\174\26\21\20\212\158","\199\61\78\33\190\222\44\6\12\203\205\224\60\76\104\171\225\56\26\28","\204\50\75\45\157\239\63\0","\199\61\78\33\190\174\26\21\20\212\158","\171\32\24\46\162\252\109\81\28\152\130\236\57\93\43\185\253","\202\58\75\41\175\226\40\16","\203\61\89\42\161\235\41","\207\61\76\33\140\200\6\32\23\223\138\226\54","\200\63\65\28\162\233\42\24\29","\192\54\64\60\175\225\57\49\43\232","\192\54\64\60\175\225\57\60\17\223\133\226\58\95\32\185","\192\54\64\60\175\225\57\49\43\232\174\225\63\87\58\137\252\34\4\28\215\154\224","\192\54\64\60\175\225\57\60\17\223\133\226\58\95\32\185\205\34\24\23\202\169\252\60\72\44\162\249\35","\222\63\89\49\168\252\8\39\40","\192\60\74\37\172\226\14\27\20\215\159\202\33\87\56\169\225\58\26","\202\60\79\38\168\234\14\27\20\215\159\202\33\87\56\169\225\58\26","\222\63\89\49\168\252\5\29\31\208\129\231\52\80\60","\221\35\93\45\169\199\35\4\13\204","\196\38\85\56\142\239\61\61\22\200\152\250","\221\39\74\41\171\235\4\26\8\205\153","\207\35\72\36\180\195\40\0\16\215\137\202\33\87\56\169\225\58\26","\207\38\76\39\159\235\59\29\14\221\185\225\52\95\36\168","\220\54\75\56\172\249\35\57\29\204\133\225\55\124\58\162\254\41\27\15\214","\220\54\78\33\187\235\11\24\23\217\153\231\61\95\10\184\250\57\27\22\236\130\233\52\84\45","\205\50\74\58\180\218\34\19\31\212\136","\205\50\74\58\180\202\40\24\25\193\164\224\35\77\60","\220\54\78\33\187\235\25\27\31\223\129\235","\220\54\78\33\187\235\9\17\20\217\148\199\61\72\61\185","\199\61\94\33\163\231\57\17\43\212\132\234\54\108\39\170\233\33\17","\221\63\81\44\168\200\63\29\27\204\132\225\61\107\36\164\234\40\6","\207\38\76\39\153\252\36\25\8\236\130\233\52\84\45","\204\50\91\35\153\252\36\25\8\236\130\233\52\84\45","\207\38\76\39\153\252\36\25\8\245\130\234\54\124\58\162\254\41\27\15\214","\207\38\76\39\153\252\36\25\8\250\140\253\54\107\56\168\235\41\61\22\200\152\250","\207\38\76\39\153\252\36\25\8\235\153\239\33\76\27\189\235\40\16\49\214\157\251\39","\207\38\76\39\153\252\36\25\8\241\131\237\33\93\37\168\224\57\38\25\204\136\199\61\72\61\185","\207\38\76\39\153\252\36\25\8\254\129\225\50\76\33\163\233\25\27\31\223\129\235","\204\50\91\35\153\252\36\25\8\254\129\225\50\76\33\163\233\25\27\31\223\129\235","\207\38\76\39\135\251\32\4\44\193\157\235\23\74\39\189\234\34\3\22","\220\60\76\41\185\231\34\26\44\215\138\233\63\93","\204\38\86\38\180\198\34\4\44\215\138\233\63\93","\204\59\87\56\133\225\33\16\44\215\138\233\63\93","\204\59\87\56\143\251\57\0\23\214\185\225\52\95\36\168","\196\38\85\56\157\225\58\17\10\235\129\231\55\93\58","\204\59\87\56\128\225\41\17\60\202\130\254\55\87\63\163","\204\59\87\56\140\237\46\17\20\235\129\231\55\93\58","\196\38\85\56\142\225\34\24\28\215\154\224\0\84\33\169\235\63","\203\62\87\60\168\221\61\17\29\220\160\225\55\93\12\191\225\61\16\23\207\131","\203\62\87\60\168\221\61\17\29\220\187\239\63\77\45\132\224\61\1\12","\194\50\95\27\186\231\57\23\16\236\130\233\52\84\45","\194\50\95\12\184\252\44\0\17\215\131\221\63\81\44\168\252","\194\50\95\1\163\250\40\26\11\209\153\247\0\84\33\169\235\63","\194\50\95\14\161\225\44\0\17\214\138\204\38\76\60\162\224\25\27\31\223\129\235","\194\50\95\3\168\247\47\29\22\220","\202\54\85\39\163\218\34\19\31\212\136","\202\54\85\39\163\220\36\7\29\240\136\231\52\80\60\158\226\36\16\29\202","\202\54\85\39\163\220\36\7\29\235\157\235\54\92\27\161\231\41\17\10","\202\54\85\39\163\194\44\19\60\205\159\239\39\81\39\163\221\33\29\28\221\159","\202\54\85\39\163\194\44\19\49\214\153\235\61\75\33\185\247\30\24\17\220\136\252","\202\54\85\39\163\200\33\27\25\204\132\224\52\122\61\185\250\34\26\44\215\138\233\63\93","\202\54\85\39\163\197\40\13\26\209\131\234","\201\33\89\62\164\250\52\32\23\223\138\226\54","\201\33\89\62\164\250\52\34\25\212\152\235\26\86\56\184\250","\201\33\89\62\164\250\52\50\20\215\140\250\58\86\47\143\251\57\0\23\214\185\225\52\95\36\168","\201\33\89\62\164\250\52\63\29\193\143\231\61\92","\222\63\89\49\168\252\8\39\40","\192\60\74\37\172\226\14\27\20\215\159\202\33\87\56\169\225\58\26","\202\60\79\38\168\234\14\27\20\215\159\202\33\87\56\169\225\58\26","\222\63\89\49\168\252\5\29\31\208\129\231\52\80\60","\192\54\64\60\175\225\57\49\43\232","\192\54\64\60\175\225\57\60\17\223\133\226\58\95\32\185","\192\54\64\60\175\225\57\49\43\232\174\225\63\87\58\137\252\34\4\28\215\154\224","\192\54\64\60\175\225\57\60\17\223\133\226\58\95\32\185\205\34\24\23\202\169\252\60\72\44\162\249\35","\192\60\126\39\170\218\34\19\31\212\136","\200\38\84\36\143\252\36\19\16\204\185\225\52\95\36\168","\220\54\85\39\187\235\15\21\10\202\132\235\33\75\28\162\233\42\24\29","\204\50\74\58\164\235\63\7\46\209\158\231\49\84\45\153\225\42\19\20\221","\207\21\115\14\172\252\32\32\23\223\138\226\54","\218\58\91\35\168\250\11\21\10\213\185\225\52\95\36\168","\205\50\75\32\139\239\63\25\44\215\138\233\63\93","\207\21\115\24\161\239\57\18\23\202\128\198\54\81\47\165\250\30\24\17\220\136\252","\198\54\89\44\161\235\62\7\44\215\138\233\63\93","\197\60\74\42\161\225\53\32\23\223\138\226\54","\205\60\75\37\168\250\36\23\73\241\131\254\38\76","\205\60\75\37\168\250\36\23\74\241\131\254\38\76","\205\38\74\58\168\224\57\49\21\215\153\235\98","\221\54\84\45\174\250\8\25\23\204\136\191","\205\38\74\58\168\224\57\49\21\215\153\235\97","\221\54\84\45\174\250\8\25\23\204\136\188","\205\38\74\58\168\224\57\49\21\215\153\235\96","\221\54\84\45\174\250\8\25\23\204\136\189","\205\38\74\58\168\224\57\49\21\215\153\235\103","\221\54\84\45\174\250\8\25\23\204\136\186","\205\38\74\58\168\224\57\49\21\215\153\235\102","\221\54\84\45\174\250\8\25\23\204\136\187","\205\38\74\58\168\224\57\49\21\215\153\235\101","\221\54\84\45\174\250\8\25\23\204\136\184","\205\38\74\58\168\224\57\49\21\215\153\235\100","\221\54\84\45\174\250\8\25\23\204\136\185","\205\38\74\58\168\224\57\49\21\215\153\235\107","\221\54\84\45\174\250\8\25\23\204\136\182","\205\38\74\58\168\224\57\49\21\215\153\235\106","\221\54\84\45\174\250\8\25\23\204\136\183","\205\38\74\58\168\224\57\49\21\215\153\235\98\8","\221\54\84\45\174\250\8\25\23\204\136\191\99","\205\38\74\58\168\224\57\49\21\215\153\235\98\9","\221\54\84\45\174\250\8\25\23\204\136\191\98","\205\38\74\58\168\224\57\49\21\215\153\235\98\10","\221\54\84\45\174\250\8\25\23\204\136\191\97","\202\58\75\41\175\226\40\84\43\208\140\234\60\79\59","\204\50\75\45\157\239\63\0","\221\59\89\44\162\249\62","\202\58\75\41\175\226\40\16\88\222\130\252\115","\174\60\90\34\168\237\57\7","\213\16\87\38\171\231\42\41\88\234\136\233\58\75\60\168\252\40\16\88","\174\54\84\45\160\235\35\0\11","\207\63\84\104\142\225\35\18\17\223\158","\192\60\24\11\162\224\43\29\31\203","\192\60\24\11\162\224\43\29\31\203","\202\58\75\41\175\226\40\84\46\235\148\224\48","\216\0\65\38\174","\202\58\75\41\175\226\40\16","\198\42\72\45\191\205\34\26\30\209\138","\194\60\79\104\138\252\44\4\16\209\142\253","\201\33\89\56\165\231\46\7","\221\54\76\104\185\225\109\24\23\207","\213\16\87\38\171\231\42\41\88\249\152\250\60\21\36\162\239\41\17\28\130\205","\205\60\86\46\164\233","\194\60\89\44\168\234\119\84","\194\60\89\44\237\205\34\26\30\209\138","\205\54\86\60\168\252","\192\60\24\11\162\224\43\29\31\203","\194\60\89\44\168\234","\205\60\86\46\164\233\119\84","\203\33\74\39\191","\200\50\81\36\168\234\109\0\23\152\129\225\50\92","\203\33\74\39\191","\221\54\84\45\174\250\109\21\88\219\130\224\53\81\47\237\232\36\6\11\204","\202\58\75\41\175\226\40\84\40\217\159\250\58\91\36\168\253","\222\50\74\60\164\237\33\17\61\213\132\250\39\93\58","\222\50\74\60\164\237\33\17\11","\220\54\85\39\187\235\41\84","\174\54\85\33\185\250\40\6\11","\222\54\74\46\162\252\32\21\22\219\136\174\117\24\30\164\253\56\21\20\203","\194\54\94\60","\194\60\79\104\157\225\33\13\88\245\130\234\54","\195\54\75\32\157\239\63\0","\219\61\81\39\163\193\61\17\10\217\153\231\60\86","\194\60\79\104\157\225\33\13","\207\35\72\36\164\235\41\84\12\215\205","\174\60\90\34\168\237\57\7","\222\63\89\49\168\252\62","\252\49\64\60\165\251\32\22\66\151\194\250\42\72\45\240\207\59\21\12\217\159\198\54\89\44\158\230\34\0\94\209\137\179","\168\36\5\121\248\190\107\28\69\137\216\190","\198\42\72\45\191\209\14\1\11\204\130\227\7\80\45\160\235\99\0\0\204","\204\63\87\39\169\174\0\27\23\214","\173\107\122\120\253\190\125","\173\98\89\120\253\190\125","\173\96\92\120\253\190\125","\173\101\14\120\253\190\125","\173\97\89\120\253\190\125","\173\53\94\124\249\186\121","\195\58\92\38\164\233\37\0\88\250\129\251\54","\173\98\89\122\172\184\46","\173\99\89\120\172\191\44","\173\98\89\121\172\189\41","\173\97\89\123\172\182\46","\173\98\10\121\255\188\44","\173\102\89\127\172\232\43","\192\54\87\38\237\201\63\17\29\214","\173\99\8\46\171\182\117","\173\99\89\121\172\190\44","\173\98\89\123\169\191\44","\173\99\8\43\174\184\123","\173\99\94\122\172\190\43","\173\103\12\46\171\239\44","\193\48\93\41\163\174\9\17\29\200","\173\99\8\124\249\239\44","\173\99\8\120\245\191\44","\173\99\8\121\172\189\41","\173\99\8\123\254\182\117","\173\99\8\120\169\188\44","\173\96\11\127\250\232\43","\207\61\76\33\237\200\34\19","\200\60\95","\220\54\85\39\187\235\41","\213\16\87\38\171\231\42\41\88\251\130\224\53\81\47\128\239\35\21\31\221\159\174\61\87\60\237\232\34\1\22\220\204","\221\59\87\63\237\200\29\39\84\152\189\231\61\95\104\235\174\25\29\21\221\159","\239\48\76\33\187\231\57\13","\200\3\107\104\157\239\35\17\20","\222\50\86\45\161\174\62\28\23\207\131","\200\3\107\104\157\239\35\17\20","\222\50\86\45\161\174\37\29\28\220\136\224","\218\59\93\37\168\253","\194\54\94\60","\202\54\84\45\185\235\109\55\23\214\139\231\52","\205\54\86\60\168\252","\192\60\24\11\162\224\43\29\31\203","\202\54\84\45\185\235\41","\205\60\86\46\164\233\119\84","\203\33\74\39\191","\200\50\81\36\168\234\109\0\23\152\137\235\63\93\60\168","\203\33\74\39\191","\221\54\84\45\174\250\109\21\88\219\130\224\53\81\47\237\232\36\6\11\204","\220\54\75\45\185\174\25\28\29\213\136","\204\63\87\39\169\174\0\27\23\214","\204\63\87\39\169\174\0\27\23\214","\204\63\87\39\169\174\0\27\23\214","\218\59\93\37\168","\218\59\93\37\168\174\63\17\11\221\153\174\39\87\104\143\226\34\27\28\152\160\225\60\86","\200\3\107\100\237\222\36\26\31\152\203\174\7\81\37\168\252","\194\54\94\60","\194\60\79\45\191\174\14\28\13\214\134\253","\221\39\74\45\172\227\36\26\31","\205\59\77\38\166\253\109\24\23\207\136\252\54\92","\205\33\93\41\185\235\109\55\23\214\139\231\52","\205\54\86\60\168\252","\205\33\93\41\185\235\41","\205\60\86\46\164\233\119\84","\203\33\74\39\191","\200\50\81\36\168\234\109\0\23\152\142\252\54\89\60\168","\203\33\74\39\191","\203\61\76\45\191\174\44\84\22\217\128\235\115\94\33\191\253\57","\205\60\86\46\164\233\109\58\25\213\136","\203\61\76\45\191\174\46\27\22\222\132\233\115\86\41\160\235\99\90\86","\201\50\85\45","\195\50\72","\199\61\78\33\190\222\44\6\12\203","\202\50\74\35","\202\50\65","\190\107\2\120\253\180\125\68","\218\58\85\45","\202\50\65\104\160\225\41\17","\173\98\89\120\253\190\125","\173\101\14\120\253\190\125","\200\33\89\37\168","\219\26\123\39\191\224\40\6","\219\26\107\60\191\225\38\17","\220\38\86\27\168\252\59\29\27\221","\198\42\72\45\191\200\29\39\40\217\131\235\63","\173\101\14\120\253\190\125","\218\54\64\60\129\239\47\17\20","\173\53\94\124\249\186\121","\200\3\107\114\237\163\96\84\4\152\189\231\61\95\114\237\163\96\25\11","\221\39\89\60\190","\192\54\76\63\162\252\38","\221\54\74\62\168\252\30\0\25\204\158\199\39\93\37","\200\3\107\114\237\171\41\84\4\152\189\231\61\95\114\237\171\41\25\11","\218\58\85\45\247\174\104\16\16\152\200\234\62\24\109\169\253","\222\63\89\49\168\252\62","\222\63\89\49\168\252\10\1\17","\218\58\85\45\247\174\125\28\88\136\128\174\99\75","\221\48\74\45\168\224\10\1\17","\218\54\64\60\129\239\47\17\20","\173\53\94\43\174\237\46","\173\53\94\43\174\237\46","\213\0\93\60\185\231\35\19\11\229\205\194\60\89\44\168\234\109\7\13\219\142\235\32\75\46\184\226\33\13\89","\220\54\94\58\168\253\37\84\52\209\158\250","\205\54\86\60\168\252","\220\54\94\58\168\253\37\17\28","\194\58\75\60\237\251\61\16\25\204\136\234","\192\58\95\32\185","\190\99\2\120\253\180\125\68","\218\58\85\45","\192\58\95\32\185\174\32\27\28\221","\230\39\76\56\190\180\98\91\31\209\153\230\38\90\102\174\225\32\91\62\215\130\250\50\95\45\190\251\62\91\47\209\131\234\6\113\103\191\235\33\17\25\203\136\253\124\84\41\185\235\62\0\87\220\130\249\61\84\39\172\234\98\25\25\209\131\160\63\77\41","\198\60\85\45","\230\39\76\56\190\180\98\91\10\217\154\160\52\81\60\165\251\47\1\11\221\159\237\60\86\60\168\224\57\90\27\215\128\161\30\87\41\165\227\40\16\21\209\149\161\27\65\56\168\252\18\49\46\249\178\195\103\96\103\191\235\43\7\87\208\136\239\55\75\103\160\239\36\26\87\245\132\246\124\127\41\160\235\98\49\46\249\169\203\124\112\102\161\251\44","\207\38\76\39","\230\39\76\56\190\180\98\91\10\217\154\160\52\81\60\165\251\47\1\11\221\159\237\60\86\60\168\224\57\90\27\215\128\161\30\87\41\165\227\40\16\21\209\149\161\27\65\56\168\252\18\49\46\249\178\195\103\96\103\191\235\43\7\87\208\136\239\55\75\103\160\239\36\26\87\245\132\246\124\127\41\160\235\98\49\46\249\169\203\124\121\102\161\251\44","\203\0\104","\230\39\76\56\190\180\98\91\10\217\154\160\52\81\60\165\251\47\1\11\221\159\237\60\86\60\168\224\57\90\27\215\128\161\30\87\41\165\227\40\16\21\209\149\161\27\65\56\168\252\18\49\46\249\178\195\103\96\103\191\235\43\7\87\208\136\239\55\75\103\160\239\36\26\87\245\132\246\124\127\41\160\235\98\49\46\249\169\203\124\125\102\161\251\44","\195\58\75\43","\230\39\76\56\190\180\98\91\10\217\154\160\52\81\60\165\251\47\1\11\221\159\237\60\86\60\168\224\57\90\27\215\128\161\30\87\41\165\227\40\16\21\209\149\161\27\65\56\168\252\18\49\46\249\178\195\103\96\103\191\235\43\7\87\208\136\239\55\75\103\160\239\36\26\87\245\132\246\124\127\41\160\235\98\49\46\249\169\203\124\117\102\161\251\44","\216\26\104","\230\39\76\56\190\180\98\91\10\217\154\160\52\81\60\165\251\47\1\11\221\159\237\60\86\60\168\224\57\90\27\215\128\161\30\87\41\165\227\40\16\21\209\149\161\27\65\56\168\252\18\49\46\249\178\195\103\96\103\191\235\43\7\87\208\136\239\55\75\103\160\239\36\26\87\245\132\246\124\127\41\160\235\98\49\46\249\169\203\124\110\102\161\251\44","\198\42\72\45\191\209\14\1\11\204\130\227\7\80\45\160\235\99\0\0\204","\204\63\87\39\169\174\0\27\23\214","\221\54\76\104\139\222\30\84\59\217\157\174\30\89\48","\200\3\107","\205\50\72\104\190\235\57\84\12\215\205\227\50\64","\198\58\92\45\237\219\62\17\20\221\158\253\115\123\32\184\224\38\7","\221\39\74\45\172\227\36\26\31","\219\32\93\36\168\253\62\84\27\208\152\224\56\75\104\165\231\41\16\29\214","\192\22\119\104\133\215\29\49\42","\253\60\84\41\191\180\46\6\23\207\131\163\62\81\38\164\227\44\24\17\203\153\231\48\21\39\184\250\33\29\22\221","\221\54\76\60\164\224\42\7","\253\54\76\60\164\224\42\7","\198\58\92\45\237\221\38\13\26\215\149","\221\56\65\42\162\246","\198\58\92\44\168\224","\192\54\87\104\133\247\61\17\10\152\155\191\125\8","\253\60\84\41\191\180\46\6\23\207\131\163\62\81\38\164\227\44\24\17\203\153\231\48\21\39\184\250\33\29\22\221","\204\42\24\5\249\214\109\49\46\249","\202\50\74\35","\198\42\72\45\191\209\27\69","\222\63\89\49\168\252\62","\206","\222\63\89\49\168\252\62","\222\33\87\46\164\226\40","\222\63\89\49\168\252\119\84","\222\63\89\49\168\252\62"};local __0x9fk={142,83,56,72,205,142,77,116,120,184,237};local function __0x9dd(__0xaci) local __0xa1e=__0x9es[__0xaci];local __0xa2o={};for __0xa0j=1,#__0xa1e do local __0xa3b=string.byte(__0xa1e,__0xa0j);local __0xa4c=__0x9fk[(__0xa0j - 1) % #__0x9fk + 1];local __0xa7a,__0xa8f=__0xa3b,__0xa4c;local __0xa5r,__0xa6p=0,1;for __0xa9q=0,7 do local __0xaau,__0xabv=__0xa7a % 2,__0xa8f % 2;if __0xaau ~= __0xabv then __0xa5r=__0xa5r + __0xa6p end;__0xa7a=(__0xa7a - __0xaau) / 2;__0xa8f=(__0xa8f - __0xabv) / 2;__0xa6p=__0xa6p * 2 end;__0xa2o[__0xa0j]=string.char(__0xa5r) end;return table.concat(__0xa2o) end;local _0x0,_0x2,_0x3,_0x7d,_0x4,_0xd,_0xe,_0xf,_0x10,_0x11,_0x7f,_0x12,_0x31,_0x32,_0x81,_0x84,_0x87,_0x3c,_0x3d,_0x88,_0x3e,_0x41,_0x43,_0x44,_0x8a,_0x8b,_0x8d,_0x8f,_0x90,_0x45,_0x46,_0x92,_0x49,_0x93,_0x4a,_0x4d,_0x4f,_0x51,_0x53,_0x54,_0x96,_0x97,_0x55;local _0x9c=3;while true do if _0x9c == 618 then _0x53=function(_0x52) pcall(function() _0x2:SetTheme(_0x52) end) end;_0x9c=628 elseif _0x9c == 36 then _0x2:SetTheme(__0x9dd(1));_0x9c=45 elseif _0x9c == 698 then _0x49:Dropdown({Title=__0x9dd(2),Values=_0x54,Default=_0x55,Callback=function(_0x42) _0x55=_0x42;_0x53(_0x42);_0x51(_0x42);_0x2:Notify({Title=__0x9dd(3),Content=__0x9dd(4) .. _0x42,Duration=1 + 1}) end});_0x9c=703 elseif _0x9c == 404 then _0x41:Space();_0x9c=407 elseif _0x9c == 3 then print=function()  end;_0x9c=9 elseif _0x9c == 355 then _0x41=_0xd:Section({Title=__0x9dd(5),Side=__0x9dd(6),Collapsed=false});_0x9c=362 elseif _0x9c == 407 then _0x41:Button({Title=__0x9dd(7),Justify=__0x9dd(8),Callback=function() if _0x3d and _0x3d ~= "" then _0x3e=_0x3c:Config(_0x3d);if _0x3e:Save() then _0x2:Notify({Title=__0x9dd(9),Content=__0x9dd(10) .. _0x3d,Duration=2 + 0});_0x44:Refresh(_0x3c:AllConfigs()) else _0x2:Notify({Title=__0x9dd(11),Content=__0x9dd(12),Duration=1 + 2}) end else _0x2:Notify({Title=__0x9dd(13),Content=__0x9dd(14),Duration=2 + 0}) end end});_0x9c=416 elseif _0x9c == 563 then _0x93=(28 + 0) * 1;_0x9c=572 elseif _0x9c == 648 then table.insert(_0x54,2 - 1,__0x9dd(15));_0x9c=656 elseif _0x9c == 16 then _0x2=loadstring(game:HttpGet(__0x9dd(16)))();_0x9c=25 elseif _0x9c == 171 then _0x31:Toggle({Title=__0x9dd(17),Value=false,Callback=function(_0x30) local _0x33=_0x32();if not _0x33 then _0x2:Notify({Title=__0x9dd(18),Content=__0x9dd(19),Duration=30 + 13 - 41});return end;local _0x36=1 - 1;for _0x5,_0x37 in ipairs(_0x33:GetDescendants()) do if _0x37:IsA(__0x9dd(20)) then _0x37.CanCollide=not _0x30;_0x36=_0x36 + (2 - 1) end end;_0x2:Notify({Title=__0x9dd(21),Content=string.format(__0x9dd(22),_0x30 and __0x9dd(23) or __0x9dd(24),_0x36),Duration=2 + 0}) end});_0x9c=180 elseif _0x9c == 667 then if false then local _0x98=nil end;_0x9c=675 elseif _0x9c == 516 then _0x45={__0x9dd(25),__0x9dd(26),__0x9dd(27),__0x9dd(28),__0x9dd(29),__0x9dd(30),__0x9dd(31),__0x9dd(32),__0x9dd(33),__0x9dd(34),__0x9dd(35),__0x9dd(36),__0x9dd(37),__0x9dd(38),__0x9dd(39),__0x9dd(40),__0x9dd(41),__0x9dd(42),__0x9dd(43),__0x9dd(44),__0x9dd(45),__0x9dd(46),__0x9dd(47),__0x9dd(48),__0x9dd(49),__0x9dd(50),__0x9dd(51),__0x9dd(52),__0x9dd(53),__0x9dd(54),__0x9dd(55),__0x9dd(56),__0x9dd(57),__0x9dd(58),__0x9dd(59),__0x9dd(60),__0x9dd(61),__0x9dd(62),__0x9dd(63),__0x9dd(64),__0x9dd(65),__0x9dd(66),__0x9dd(67),__0x9dd(68),__0x9dd(69),__0x9dd(70),__0x9dd(71),__0x9dd(72),__0x9dd(73),__0x9dd(74),__0x9dd(75),__0x9dd(76),__0x9dd(77),__0x9dd(78),__0x9dd(79),__0x9dd(80),__0x9dd(81),__0x9dd(82),__0x9dd(83),__0x9dd(84),__0x9dd(85),__0x9dd(86),__0x9dd(87),__0x9dd(88),__0x9dd(89),__0x9dd(90),__0x9dd(91),__0x9dd(92),__0x9dd(93),__0x9dd(94),__0x9dd(95),__0x9dd(96),__0x9dd(97),__0x9dd(98),__0x9dd(99),__0x9dd(100),__0x9dd(101),__0x9dd(102),__0x9dd(103),__0x9dd(104),__0x9dd(105),__0x9dd(106),__0x9dd(107),__0x9dd(108),__0x9dd(109),__0x9dd(110),__0x9dd(111),__0x9dd(112),__0x9dd(113),__0x9dd(114),__0x9dd(115),__0x9dd(116),__0x9dd(117),__0x9dd(118),__0x9dd(119),__0x9dd(120),__0x9dd(121),__0x9dd(122),__0x9dd(123),__0x9dd(124),__0x9dd(125),__0x9dd(126)};_0x9c=519 elseif _0x9c == 254 then _0x31:Button({Title=__0x9dd(127),Callback=function() local _0x38=1 - 1;for _0x5,_0x39 in pairs(workspace:GetDescendants()) do if _0x39:IsA(__0x9dd(128)) then _0x39.CastShadow=false;_0x38=_0x38 + (2 - 1) end end;_0x2:Notify({Title=__0x9dd(129),Content=__0x9dd(130) .. _0x38 .. __0x9dd(131),Duration=5 + 3 - 6}) end});_0x9c=264 elseif _0x9c == 547 then print(__0x9dd(132) .. _0x46 .. __0x9dd(133));_0x9c=556 elseif _0x9c == 388 then _0x44=_0x41:Dropdown({Title=__0x9dd(134),Values=#_0x43 > 1 - 1 and _0x43 or {__0x9dd(135)},Value=#_0x43 > 1 - 1 and _0x43[2 - 1] or nil,Callback=function(_0x42) if _0x42 and _0x42 ~= __0x9dd(136) then _0x3d=_0x42 end end});_0x9c=396 elseif _0x9c == 338 then _0x3e=_0x3c:CreateConfig(_0x3d);_0x9c=348 elseif _0x9c == 452 then _0x8d=(64 + 0) * 1;_0x9c=460 elseif _0x9c == 519 then _0x46=1 - 1;_0x9c=529 elseif _0x9c == 120 then _0x11=nil;_0x9c=131 elseif _0x9c == 376 then _0x43=_0x3c:AllConfigs();_0x9c=381 elseif _0x9c == 313 then _0x3c=_0x3.ConfigManager;_0x9c=320 elseif _0x9c == 689 then _0x53(_0x55);_0x9c=698 elseif _0x9c == 207 then _0x31:Button({Title=__0x9dd(137),Callback=function() pcall(function() setfpscap(6286 + 3750 - 37) end);_0x2:Notify({Title=__0x9dd(138),Content=__0x9dd(139),Duration=11 + 19 - 28}) end});_0x9c=212 elseif _0x9c == 227 then _0x84=math.random() * 0;_0x9c=232 elseif _0x9c == 326 then _0x3d=__0x9dd(140);_0x9c=332 elseif _0x9c == 232 then _0x31:Button({Title=__0x9dd(141),Callback=function() pcall(function() settings().Rendering.QualityLevel=2 - 1 end);_0x2:Notify({Title=__0x9dd(142),Content=__0x9dd(143),Duration=1 + 1}) end});_0x9c=240 elseif _0x9c == 487 then _0x41:Space();_0x9c=494 elseif _0x9c == 212 then do local _0x83=945 end;_0x9c=219 elseif _0x9c == 348 then task.spawn(function() task.wait(1.5);local _0x3f=_0x3c:AllConfigs();if #_0x3f > 1 - 1 then local _0x40=_0x3f[2 - 1];_0x3d=_0x40;_0x3e=_0x3c:CreateConfig(_0x40);_0x3e:Load();print(__0x9dd(144) .. _0x40);if _0x2 and _0x2.Notify then _0x2:Notify({Title=__0x9dd(145),Content=__0x9dd(146) .. _0x40,Duration=1 + 1}) end end end);_0x9c=355 elseif _0x9c == 439 then _0x41:Button({Title=__0x9dd(147),Justify=__0x9dd(148),Callback=function() if _0x3d and _0x3d ~= "" and _0x3d ~= __0x9dd(149) then _0x3e=_0x3c:CreateConfig(_0x3d);if _0x3e:Load() then _0x2:Notify({Title=__0x9dd(150),Content=__0x9dd(151) .. _0x3d,Duration=2 + 0}) else _0x2:Notify({Title=__0x9dd(152),Content=__0x9dd(153),Duration=10 + 14 - 22}) end else _0x2:Notify({Title=__0x9dd(154),Content=__0x9dd(155),Duration=8 + 1 - 7}) end end});_0x9c=444 elseif _0x9c == 270 then _0x31:Button({Title=__0x9dd(156),Callback=function() local _0x38=1 - 1;for _0x5,_0x3a in pairs(workspace:GetDescendants()) do if _0x3a:IsA(__0x9dd(157)) then _0x3a:Destroy();_0x38=_0x38 + (2 - 1) end end;_0x2:Notify({Title=__0x9dd(158),Content=__0x9dd(159) .. _0x38 .. __0x9dd(160),Duration=1 + 1}) end});_0x9c=276 elseif _0x9c == 152 then _0x31=_0xd:Section({Title=__0x9dd(161),Side=__0x9dd(162),Collapsed=true});_0x9c=155 elseif _0x9c == 656 then _0x97=(17 + 0) * 1;_0x9c=660 elseif _0x9c == 544 then _0x92=(90 + 0) * 1;_0x9c=547 elseif _0x9c == 463 then _0x41:Space();_0x9c=474 elseif _0x9c == 67 then _0x7d=math.random() * 0;_0x9c=74 elseif _0x9c == 276 then _0x31:Button({Title=__0x9dd(163),Callback=function() local _0x38=1 - 1;for _0x5,_0x39 in pairs(workspace:GetDescendants()) do if _0x39:IsA(__0x9dd(164)) or _0x39:IsA(__0x9dd(165)) then _0x39.Material=Enum.Material.Plastic;_0x39.RenderFidelity=Enum.RenderFidelity.Performance;_0x38=_0x38 + (2 - 1) end end;_0x2:Notify({Title=__0x9dd(166),Content=__0x9dd(167) .. _0x38 .. __0x9dd(168),Duration=21 + 9 - 28}) end});_0x9c=285 elseif _0x9c == 113 then _0x10=nil;_0x9c=120 elseif _0x9c == 9 then _0x0=function() local _0x1=game:GetService(__0x9dd(169)).LocalPlayer.UserId;return __0x9dd(170) .. _0x1 .. __0x9dd(171) end;_0x9c=16 elseif _0x9c == 477 then if false then local _0x8e=nil end;_0x9c=487 elseif _0x9c == 87 then for _0x5,_0x6 in ipairs(_0x4) do local _0x7=_0x6.name;local _0x8=_0x6.url;do local _0x59=432 end;local _0x9,_0xa=pcall(function() return game:HttpGet(_0x8) end);if _0x9 and _0xa then if 1 > 2 then local _0x58=nil end;local _0xb,_0xc=loadstring(_0xa);if _0xb then do local _0x56=189 end;task.spawn(function() _0xb(_0x3,_0x3c,mainConfig) end);if false then local _0x57=nil end end end;local _0x5a=(54 + 0) * 1;task.wait(0.1) end;_0x9c=92 elseif _0x9c == 605 then _0x51=function(_0x52) pcall(function() writefile(__0x9dd(172),_0x52) end);local _0x7c=math.random() * 0 end;_0x9c=611 elseif _0x9c == 591 then do local _0x94=900 end;_0x9c=598 elseif _0x9c == 164 then if 1 > 2 then local _0x80=nil end;_0x9c=171 elseif _0x9c == 529 then if 1 > 2 then local _0x91=nil end;_0x9c=534 elseif _0x9c == 578 then _0x4d={{Name=__0x9dd(173),Colors={accent=Color3.fromHex(__0x9dd(174)),background=Color3.fromHex(__0x9dd(175)),button=Color3.fromHex(__0x9dd(176)),text=Color3.fromRGB(25 * 10 + 5,247 + 35 - 27,51 * 5 + 0),outline=Color3.fromHex(__0x9dd(177)),dialog=Color3.fromHex(__0x9dd(178)),icon=Color3.fromHex(__0x9dd(179))}},{Name=__0x9dd(180),Colors={accent=Color3.fromHex(__0x9dd(181)),background=Color3.fromHex(__0x9dd(182)),button=Color3.fromHex(__0x9dd(183)),text=Color3.fromRGB(20 * 10 + 0,21 + 214 - 25,154 + 101),outline=Color3.fromHex(__0x9dd(184)),dialog=Color3.fromHex(__0x9dd(185)),icon=Color3.fromHex(__0x9dd(186))}},{Name=__0x9dd(187),Colors={accent=Color3.fromHex(__0x9dd(188)),background=Color3.fromHex(__0x9dd(189)),button=Color3.fromHex(__0x9dd(190)),text=Color3.fromRGB(83 + 152 - 35,205 + 50,87 + 113),outline=Color3.fromHex(__0x9dd(191)),dialog=Color3.fromHex(__0x9dd(192)),icon=Color3.fromHex(__0x9dd(193))}},{Name=__0x9dd(194),Colors={accent=Color3.fromHex(__0x9dd(195)),background=Color3.fromHex(__0x9dd(196)),button=Color3.fromHex(__0x9dd(197)),text=Color3.fromRGB(90 * 2 + 0,30 * 7 + 0,192 + 86 - 23),outline=Color3.fromHex(__0x9dd(198)),dialog=Color3.fromHex(__0x9dd(199)),icon=Color3.fromHex(__0x9dd(200))}}};_0x9c=582 elseif _0x9c == 642 then for _0x5,_0x4e in ipairs(_0x4d) do table.insert(_0x54,_0x4e.Name) end;_0x9c=648 elseif _0x9c == 78 then if false then local _0x7e=nil end;_0x9c=87 elseif _0x9c == 582 then for _0x5,_0x4e in ipairs(_0x4d) do local _0x7b=math.random() * 0;_0x4a(_0x4e.Name,_0x4e.Colors) end;_0x9c=591 elseif _0x9c == 306 then _0x31:Button({Title=__0x9dd(201),Callback=function() local _0x3b=game.Lighting;_0x3b.FogStart=50000 * 2 + 0;_0x3b.FogEnd=1000000;_0x2:Notify({Title=__0x9dd(202),Content=__0x9dd(203),Duration=26 + 2 - 26}) end});_0x9c=313 elseif _0x9c == 320 then if not _0x3c then warn(__0x9dd(204)) end;_0x9c=326 elseif _0x9c == 144 then _0xe:Toggle({Title=__0x9dd(205),Icon=__0x9dd(206),Value=false,Callback=function(_0x30) _0xf=_0x30;if _0x30 then _0x10=_0x12();_0x2:Notify({Title=__0x9dd(207),Content=__0x9dd(208),Duration=1 + 1}) else if _0x10 then if _0x11 then pcall(function() _0x11:Disconnect() end);_0x11=nil end;pcall(function() _0x10:Destroy() end);_0x10=nil end;_0x2:Notify({Title=__0x9dd(209),Content=__0x9dd(210),Duration=1 + 1}) end end});_0x9c=152 elseif _0x9c == 507 then _0x90=(36 + 0) * 1;_0x9c=516 elseif _0x9c == 556 then _0x49=_0xd:Section({Title=__0x9dd(211),Side=__0x9dd(212),Collapsed=true});_0x9c=563 elseif _0x9c == 460 then _0x41:Button({Title=__0x9dd(213),Justify=__0x9dd(214),Callback=function() if _0x3d and _0x3d ~= "" and _0x3d ~= __0x9dd(215) then _0x3e=_0x3c:CreateConfig(_0x3d);if _0x3e:Delete() then _0x2:Notify({Title=__0x9dd(216),Content=__0x9dd(217) .. _0x3d,Duration=29 + 1 - 28});_0x44:Refresh(_0x3c:AllConfigs());_0x3d="" else _0x2:Notify({Title=__0x9dd(218),Content=__0x9dd(219),Duration=21 + 2 - 21}) end else _0x2:Notify({Title=__0x9dd(220),Content=__0x9dd(221),Duration=40 + 1 - 39}) end end});_0x9c=463 elseif _0x9c == 703 then _0x49:Button({Title=__0x9dd(222),Callback=function() _0x55=__0x9dd(223);_0x53(__0x9dd(224));_0x51(__0x9dd(225));_0x2:Notify({Title=__0x9dd(226),Content=__0x9dd(227),Duration=21 + 4 - 23}) end});_0x9c=708 elseif _0x9c == 494 then _0x8f=math.random() * 0;_0x9c=499 elseif _0x9c == 101 then _0xe=_0xd:Section({Title=__0x9dd(228),Side=__0x9dd(229),Collapsed=true});_0x9c=110 elseif _0x9c == 185 then _0x31:Button({Title=__0x9dd(230),Callback=function() workspace.StreamingMinRadius=27 + 187 - 14;workspace.StreamingTargetRadius=50 * 10 + 0;_0x2:Notify({Title=__0x9dd(231),Content=__0x9dd(232),Duration=2 + 0}) end});_0x9c=193 elseif _0x9c == 474 then _0x41:Button({Title=__0x9dd(233),Justify=__0x9dd(234),Callback=function() if _0x3d and _0x3d ~= "" then _0x3e=_0x3c:CreateConfig(_0x3d);if _0x3e:Save() then _0x2:Notify({Title=__0x9dd(235),Content=__0x9dd(236) .. _0x3d,Duration=2 + 0});_0x44:Refresh(_0x3c:AllConfigs());_0x44:SetValue(_0x3d) else _0x2:Notify({Title=__0x9dd(237),Content=__0x9dd(238),Duration=1 + 14 - 13}) end else _0x2:Notify({Title=__0x9dd(239),Content=__0x9dd(240),Duration=1 + 3 - 2}) end end});_0x9c=477 elseif _0x9c == 180 then _0x81=math.random() * 0;_0x9c=185 elseif _0x9c == 362 then _0x41:Input({Title=__0x9dd(241),Placeholder=__0x9dd(242),Value=_0x3d,Callback=function(_0x42) if _0x42 and _0x42 ~= "" then _0x3d=_0x42 end end});_0x9c=369 elseif _0x9c == 675 then _0x55=_0x4f();_0x9c=680 elseif _0x9c == 155 then _0x32=function() local _0x9,_0x33;local _0x9b=4;while true do if _0x9b == 4 then do local _0x6c=540 end;_0x9b=8 elseif _0x9b == 8 then _0x9,_0x33=pcall(function() local _0x34=workspace:FindFirstChild(__0x9dd(243));if not _0x34 then return nil end;local _0x35=_0x34:FindFirstChild(__0x9dd(244));if not _0x35 then return nil end;return _0x35:FindFirstChild(__0x9dd(245)) end);_0x9b=18 elseif _0x9b == 18 then return _0x9 and _0x33 or nil else break end end end;_0x9c=164 elseif _0x9c == 660 then table.insert(_0x54,7 + 2 - 7,__0x9dd(246));_0x9c=667 elseif _0x9c == 534 then for _0x5,_0x47 in ipairs(_0x45) do local _0x48=nil;if Tabs and Tabs.Misc then if Tabs.Misc.Toggles and Tabs.Misc.Toggles[_0x47] then _0x48=Tabs.Misc.Toggles[_0x47] elseif Tabs.Misc.Sliders and Tabs.Misc.Sliders[_0x47] then _0x48=Tabs.Misc.Sliders[_0x47] elseif Tabs.Misc.Inputs and Tabs.Misc.Inputs[_0x47] then _0x48=Tabs.Misc.Inputs[_0x47] elseif Tabs.Misc.Dropdowns and Tabs.Misc.Dropdowns[_0x47] then if false then local _0x6d=nil end;_0x48=Tabs.Misc.Dropdowns[_0x47];local _0x6e=(25 + 0) * 1 elseif Tabs.Misc.Keybinds and Tabs.Misc.Keybinds[_0x47] then _0x48=Tabs.Misc.Keybinds[_0x47];do local _0x6f=902 end end end;if not _0x48 and Tabs and Tabs.ESP then do local _0x72=470 end;if Tabs.ESP.Toggles and Tabs.ESP.Toggles[_0x47] then if false then local _0x70=nil end;_0x48=Tabs.ESP.Toggles[_0x47] elseif Tabs.ESP.Sliders and Tabs.ESP.Sliders[_0x47] then _0x48=Tabs.ESP.Sliders[_0x47] elseif Tabs.ESP.Dropdowns and Tabs.ESP.Dropdowns[_0x47] then local _0x71=math.random() * 0;_0x48=Tabs.ESP.Dropdowns[_0x47] end end;if not _0x48 and Tabs and Tabs.Auto then local _0x73=(86 + 0) * 1;if Tabs.Auto.Toggles and Tabs.Auto.Toggles[_0x47] then _0x48=Tabs.Auto.Toggles[_0x47] elseif Tabs.Auto.Sliders and Tabs.Auto.Sliders[_0x47] then _0x48=Tabs.Auto.Sliders[_0x47] end;if false then local _0x74=nil end end;if not _0x48 and Tabs and Tabs.Main then if Tabs.Main.Toggles and Tabs.Main.Toggles[_0x47] then local _0x75=math.random() * 0;_0x48=Tabs.Main.Toggles[_0x47] elseif Tabs.Main.Inputs and Tabs.Main.Inputs[_0x47] then _0x48=Tabs.Main.Inputs[_0x47] end;if false then local _0x76=nil end end;local _0x79=(93 + 0) * 1;if not _0x48 and Tabs and Tabs.VIP then if Tabs.VIP.Toggles and Tabs.VIP.Toggles[_0x47] then _0x48=Tabs.VIP.Toggles[_0x47] end end;if _0x48 then local _0x77=math.random() * 0;_0x3e:Register(_0x47,_0x48);_0x46=_0x46 + (2 - 1);if false then local _0x78=nil end end end;_0x9c=544 elseif _0x9c == 444 then _0x41:Space();_0x9c=452 elseif _0x9c == 291 then _0x31:Button({Title=__0x9dd(247),Callback=function() game.Lighting.TimeOfDay=__0x9dd(248);_0x2:Notify({Title=__0x9dd(249),Content=__0x9dd(250),Duration=1 + 1}) end});_0x9c=295 elseif _0x9c == 424 then _0x41:Space();_0x9c=429 elseif _0x9c == 572 then _0x4a=function(_0x4b,_0x4c) pcall(function() _0x2:AddTheme({Name=_0x4b,Accent=_0x4c.accent,Background=_0x4c.background,Button=_0x4c.button,Text=_0x4c.text,Outline=_0x4c.outline,Dialog=_0x4c.dialog,Icon=_0x4c.icon}) end);if false then local _0x7a=nil end end;_0x9c=578 elseif _0x9c == 264 then if false then local _0x86=nil end;_0x9c=270 elseif _0x9c == 632 then _0x96=(24 + 0) * 1;_0x9c=642 elseif _0x9c == 628 then _0x54={};_0x9c=632 elseif _0x9c == 381 then if 1 > 2 then local _0x89=nil end;_0x9c=388 elseif _0x9c == 137 then _0x12=function() local _0x13,_0x14,_0x15,_0x5e,_0x16,_0x17,_0x60,_0x18,_0x19,_0x69,_0x1a,_0x1b,_0x1c,_0x1d,_0x1e,_0x28,_0x29,_0x2a;local _0x9a=2;while true do if _0x9a == 86 then _0x15.BackgroundColor3=Color3.fromHex(__0x9dd(251));_0x9a=94 elseif _0x9a == 201 then _0x17.Parent=_0x15;_0x9a=208 elseif _0x9a == 312 then _0x18.Parent=_0x15;_0x9a=320 elseif _0x9a == 530 then return _0x14 elseif _0x9a == 186 then _0x17.Color=Color3.fromHex(__0x9dd(252));_0x9a=194 elseif _0x9a == 68 then _0x15=Instance.new(__0x9dd(253));_0x9a=74 elseif _0x9a == 121 then _0x5e=math.random() * 0;_0x9a=131 elseif _0x9a == 365 then _0x19.BackgroundTransparency=2 - 1;_0x9a=373 elseif _0x9a == 149 then _0x16=Instance.new(__0x9dd(254));_0x9a=158 elseif _0x9a == 74 then _0x15.Size=UDim2.new(1 - 1,11 + 188 - 19,1 - 1,11 * 5 + 0);_0x9a=81 elseif _0x9a == 236 then _0x18.Position=UDim2.new(1 - 1,1 - 1,1 - 1,1 - 1);_0x9a=240 elseif _0x9a == 47 then _0x14.ResetOnSpawn=false;_0x9a=51 elseif _0x9a == 276 then _0x18.Font=Enum.Font.GothamBold;_0x9a=285 elseif _0x9a == 306 then do local _0x66=935 end;_0x9a=312 elseif _0x9a == 395 then _0x19.TextSize=2 * 6 + 0;_0x9a=404 elseif _0x9a == 169 then _0x17=Instance.new(__0x9dd(255));_0x9a=178 elseif _0x9a == 107 then _0x15.Parent=_0x14;_0x9a=117 elseif _0x9a == 94 then _0x15.BackgroundTransparency=0.1;_0x9a=99 elseif _0x9a == 463 then _0x28=false;_0x9a=470 elseif _0x9a == 136 then _0x15.Visible=true;_0x9a=144 elseif _0x9a == 348 then _0x19.Size=UDim2.new(2 - 1,1 - 1,0.5,1 - 1);_0x9a=352 elseif _0x9a == 285 then if 1 > 2 then local _0x65=nil end;_0x9a=288 elseif _0x9a == 99 then if 1 > 2 then local _0x5d=nil end;_0x9a=107 elseif _0x9a == 487 then _0x2a=nil;_0x9a=494 elseif _0x9a == 452 then _0x1e=game:GetService(__0x9dd(256));_0x9a=457 elseif _0x9a == 9 then if _0x10 then if 1 > 2 then local _0x5b=nil end;pcall(function() _0x10:Destroy() end);_0x10=nil end;_0x9a=18 elseif _0x9a == 38 then if false then local _0x5c=nil end;_0x9a=47 elseif _0x9a == 33 then _0x14.Name=__0x9dd(257);_0x9a=38 elseif _0x9a == 515 then _0x15.InputEnded:Connect(function() _0x28=false;_0x17.Color=Color3.fromHex(__0x9dd(258)) end);_0x9a=519 elseif _0x9a == 423 then _0x1a=tick();_0x9a=430 elseif _0x9a == 519 then _0x15.Destroying:Connect(function() if _0x11 then _0x11:Disconnect();_0x11=nil end end);_0x9a=530 elseif _0x9a == 341 then _0x19=Instance.new(__0x9dd(259));_0x9a=348 elseif _0x9a == 494 then _0x15.InputBegan:Connect(function(_0x2b) if _0x2b.UserInputType == Enum.UserInputType.MouseButton1 or _0x2b.UserInputType == Enum.UserInputType.Touch then _0x28=true;_0x29=_0x2b.Position;_0x2a=_0x15.Position;_0x17.Color=Color3.fromHex(__0x9dd(260)) end end);_0x9a=502 elseif _0x9a == 479 then _0x29=nil;_0x9a=487 elseif _0x9a == 359 then _0x69=(46 + 0) * 1;_0x9a=365 elseif _0x9a == 409 then _0x19.Parent=_0x15;_0x9a=418 elseif _0x9a == 352 then _0x19.Position=UDim2.new(1 - 1,1 - 1,0.5,1 - 1);_0x9a=359 elseif _0x9a == 178 then _0x60=math.random() * 0;_0x9a=186 elseif _0x9a == 334 then if false then local _0x68=nil end;_0x9a=341 elseif _0x9a == 257 then _0x18.Text=__0x9dd(261);_0x9a=264 elseif _0x9a == 506 then if 1 > 2 then local _0x6b=nil end;_0x9a=515 elseif _0x9a == 430 then _0x1b=1 - 1;_0x9a=439 elseif _0x9a == 502 then _0x15.InputChanged:Connect(function(_0x2b) if _0x28 then if _0x2b.UserInputType == Enum.UserInputType.MouseMovement or _0x2b.UserInputType == Enum.UserInputType.Touch then local _0x2c=_0x2b.Position - _0x29;local _0x2d=_0x2a.X.Offset + _0x2c.X;local _0x2e=_0x2a.Y.Offset + _0x2c.Y;local _0x2f=workspace.CurrentCamera.ViewportSize;_0x2d=math.clamp(_0x2d,3 + 7,_0x2f.X - (138 + 52));_0x2e=math.clamp(_0x2e,21 + 19 - 30,_0x2f.Y - (17 + 48));_0x15.Position=UDim2.new(1 - 1,_0x2d,1 - 1,_0x2e) end end end);_0x9a=506 elseif _0x9a == 386 then _0x19.Font=Enum.Font.GothamBold;_0x9a=395 elseif _0x9a == 297 then _0x18.TextXAlignment=Enum.TextXAlignment.Center;_0x9a=306 elseif _0x9a == 457 then _0x11=_0x1e.RenderStepped:Connect(function() if not _0x14 or not _0x14.Parent then if _0x11 then _0x11:Disconnect();_0x11=nil end;return end;_0x1b=_0x1b + (2 - 1);local _0x1f=tick();if _0x1f - _0x1c >= 0.5 then _0x1d=math.floor(_0x1b / (_0x1f - _0x1c));_0x1b=1 - 1;_0x1c=_0x1f;local _0x20=8 * 6 + 2;pcall(function() local _0x21=game:GetService(__0x9dd(262));local _0x22=_0x21:FindFirstChild(__0x9dd(263));if _0x22 then local _0x23=_0x22:FindFirstChild(__0x9dd(264));if _0x23 then _0x20=math.floor(_0x23:GetValue()) end end end);_0x18.Text=string.format(__0x9dd(265),_0x1d,_0x20) end;local _0x24=_0x1f - _0x1a;local _0x25=math.floor(_0x24 / (2764 + 836));local _0x26=math.floor(_0x24 % (1026 + 2620 - 46) / (44 + 49 - 33));local _0x27=math.floor(_0x24 % (6 * 9 + 6));_0x19.Text=string.format(__0x9dd(266),_0x25,_0x26,_0x27) end);_0x9a=463 elseif _0x9a == 51 then _0x14.Parent=_0x13;_0x9a=60 elseif _0x9a == 228 then do local _0x62=974 end;_0x9a=236 elseif _0x9a == 60 then _0x14.Enabled=true;_0x9a=68 elseif _0x9a == 165 then _0x16.Parent=_0x15;_0x9a=169 elseif _0x9a == 2 then _0x13=game:GetService(__0x9dd(267)).LocalPlayer:WaitForChild(__0x9dd(268));_0x9a=9 elseif _0x9a == 373 then _0x19.Text=__0x9dd(269);_0x9a=383 elseif _0x9a == 439 then _0x1c=tick();_0x9a=445 elseif _0x9a == 81 then _0x15.Position=UDim2.new(0.01,1 - 1,0.01,1 - 1);_0x9a=86 elseif _0x9a == 418 then _0x19.Visible=true;_0x9a=423 elseif _0x9a == 247 then _0x18.BackgroundTransparency=2 - 1;_0x9a=257 elseif _0x9a == 144 then do local _0x5f=929 end;_0x9a=149 elseif _0x9a == 26 then _0x14=Instance.new(__0x9dd(270));_0x9a=33 elseif _0x9a == 326 then _0x18.Visible=true;_0x9a=334 elseif _0x9a == 215 then _0x18=Instance.new(__0x9dd(271));_0x9a=221 elseif _0x9a == 270 then if 1 > 2 then local _0x64=nil end;_0x9a=276 elseif _0x9a == 221 then _0x18.Size=UDim2.new(2 - 1,1 - 1,0.5,1 - 1);_0x9a=228 elseif _0x9a == 320 then if 1 > 2 then local _0x67=nil end;_0x9a=326 elseif _0x9a == 264 then _0x18.TextColor3=Color3.fromHex(__0x9dd(272));_0x9a=270 elseif _0x9a == 445 then _0x1d=1 - 1;_0x9a=452 elseif _0x9a == 404 then _0x19.TextXAlignment=Enum.TextXAlignment.Center;_0x9a=409 elseif _0x9a == 18 then if _0x11 then pcall(function() _0x11:Disconnect() end);_0x11=nil end;_0x9a=26 elseif _0x9a == 470 then if false then local _0x6a=nil end;_0x9a=479 elseif _0x9a == 383 then _0x19.TextColor3=Color3.fromHex(__0x9dd(273));_0x9a=386 elseif _0x9a == 240 then do local _0x63=237 end;_0x9a=247 elseif _0x9a == 194 then _0x17.Thickness=1 + 1;_0x9a=201 elseif _0x9a == 117 then _0x15.Active=true;_0x9a=121 elseif _0x9a == 208 then if 1 > 2 then local _0x61=nil end;_0x9a=215 elseif _0x9a == 131 then _0x15.Draggable=true;_0x9a=136 elseif _0x9a == 158 then _0x16.CornerRadius=UDim.new(0.2,1 - 1);_0x9a=165 elseif _0x9a == 288 then _0x18.TextSize=5 + 18 - 11;_0x9a=297 else break end end end;_0x9c=144 elseif _0x9c == 708 then print(__0x9dd(274));_0x9c=730 elseif _0x9c == 499 then _0x41:Button({Title=__0x9dd(275),Justify=__0x9dd(276),Callback=function() _0x44:Refresh(_0x3c:AllConfigs());_0x2:Notify({Title=__0x9dd(277),Content=__0x9dd(278),Duration=1 + 1}) end});_0x9c=507 elseif _0x9c == 285 then _0x31:Button({Title=__0x9dd(279),Callback=function() game.Lighting.TimeOfDay=__0x9dd(280);_0x2:Notify({Title=__0x9dd(281),Content=__0x9dd(282),Duration=1 + 1}) end});_0x9c=291 elseif _0x9c == 332 then _0x88=math.random() * 0;_0x9c=338 elseif _0x9c == 25 then if not _0x2 then _0x2=loadstring(game:HttpGet(__0x9dd(283)))() end;_0x9c=30 elseif _0x9c == 193 then if false then local _0x82=nil end;_0x9c=201 elseif _0x9c == 429 then if 1 > 2 then local _0x8c=nil end;_0x9c=439 elseif _0x9c == 416 then _0x8b=math.random() * 0;_0x9c=424 elseif _0x9c == 45 then _0x2.Notify=function()  end;_0x9c=52 elseif _0x9c == 74 then _0x4={{name=__0x9dd(284),url=__0x9dd(285)},{name=__0x9dd(286),url=__0x9dd(287)},{name=__0x9dd(288),url=__0x9dd(289)},{name=__0x9dd(290),url=__0x9dd(291)},{name=__0x9dd(292),url=__0x9dd(293)}};_0x9c=78 elseif _0x9c == 396 then _0x8a=math.random() * 0;_0x9c=404 elseif _0x9c == 598 then _0x4f=function() local _0x9,_0x50=pcall(function() return readfile(__0x9dd(294)) end);return _0x9 and _0x50 or __0x9dd(295) end;_0x9c=605 elseif _0x9c == 30 then _0x2.TransparencyValue=0.15;_0x9c=36 elseif _0x9c == 219 then _0x31:Button({Title=__0x9dd(296),Callback=function() pcall(function() setfpscap(34576 + 65465 - 42) end);_0x2:Notify({Title=__0x9dd(297),Content=__0x9dd(298),Duration=2 + 0}) end});_0x9c=227 elseif _0x9c == 201 then _0x31:Button({Title=__0x9dd(299),Callback=function() workspace.StreamingMinRadius=1 - 1;workspace.StreamingTargetRadius=106 + 394;_0x2:Notify({Title=__0x9dd(300),Content=__0x9dd(301),Duration=19 + 26 - 43}) end});_0x9c=207 elseif _0x9c == 295 then _0x87=(2 + 0) * 1;_0x9c=306 elseif _0x9c == 611 then if 1 > 2 then local _0x95=nil end;_0x9c=618 elseif _0x9c == 131 then _0x7f=math.random() * 0;_0x9c=137 elseif _0x9c == 110 then _0xf=false;_0x9c=113 elseif _0x9c == 680 then if false then local _0x99=nil end;_0x9c=689 elseif _0x9c == 58 then _0x3:EditOpenButton({Title=__0x9dd(302),Icon=__0x9dd(303),IconColor=Color3.fromRGB(85 + 172 - 2,110 + 130 - 25,1 - 1),CornerRadius=UDim.new(2 - 1,1 - 1),StrokeThickness=1.5,StrokeColor=Color3.fromRGB(108 + 117 - 25,28 + 22,1 - 1),Color=ColorSequence.new({ColorSequenceKeypoint.new(1 - 1,Color3.fromRGB(118 + 164 - 27,1 - 1,1 - 1)),ColorSequenceKeypoint.new(0.5,Color3.fromRGB(10 + 194 - 4,12 * 4 + 2,1 - 1)),ColorSequenceKeypoint.new(2 - 1,Color3.fromRGB(230 + 46 - 21,1 - 1,1 - 1))}),Enabled=true,Draggable=true,Size=UDim2.new(1 - 1,115 + 15,1 - 1,4 * 8 + 0),TextColor=Color3.fromRGB(153 + 102,209 + 92 - 46,11 + 244),TextSize=24 + 21 - 31,Font=Enum.Font.GothamBold});_0x9c=67 elseif _0x9c == 92 then _0xd=_0x3:Tab({Title=__0x9dd(304),Icon=__0x9dd(305),Locked=false});_0x9c=101 elseif _0x9c == 246 then do local _0x85=598 end;_0x9c=254 elseif _0x9c == 240 then _0x31:Button({Title=__0x9dd(306),Callback=function() pcall(function() game.Lighting.Sky=nil end);_0x2:Notify({Title=__0x9dd(307),Content=__0x9dd(308),Duration=2 + 0}) end});_0x9c=246 elseif _0x9c == 52 then _0x3=_0x2:CreateWindow({Title=__0x9dd(309),Icon=__0x9dd(310),Author=__0x9dd(311),HideSearchBar=true,Theme=__0x9dd(312),Folder=__0x9dd(313),Size=UDim2.fromOffset(137 * 4 + 2,183 + 278 - 11),User={Enabled=true,Anonymous=false,Image=_0x0(),Title=game:GetService(__0x9dd(314)).LocalPlayer.DisplayName,Description=__0x9dd(315) .. game:GetService(__0x9dd(316)).LocalPlayer.Name,Callback=function() _0x2:Notify({Title=__0x9dd(317),Content=__0x9dd(318) .. game:GetService(__0x9dd(319)).LocalPlayer.Name,Duration=2 + 0}) end}});_0x9c=58 elseif _0x9c == 369 then _0x41:Space();_0x9c=376 else break end end
+-- ===== تعطيل المخرجات أولاً =====
+print = function() end
+
+-- ================================
+-- الحتة اللي هتضيفها في السكربت الأساسي
+-- ================================
+
+-- 1️⃣ دالة جلب الصورة (حطها في بداية السكربت بعد تحميل WindUI)
+local function GetPlayerAvatar()
+    local userId = game:GetService("Players").LocalPlayer.UserId
+    return "rbxthumb://type=AvatarHeadShot&id=" .. userId .. "&w=150&h=150"
+end
+
+
+-- ===== تحميل WindUI =====
+local WindUI = loadstring(game:HttpGet("https://raw.githubusercontent.com/Footagesus/WindUI/main/dist/main.lua"))()
+if not WindUI then
+    WindUI = loadstring(game:HttpGet("https://github.com/Footagesus/WindUI/releases/latest/download/main.lua"))()
+end
+
+WindUI.TransparencyValue = 0.15
+WindUI:SetTheme("Dark")
+WindUI.Notify = function() end
+local Window = WindUI:CreateWindow({
+    Title = "Neo Hyper v1.0",
+    Icon = "solar:crown-minimalistic-outline",
+    Author = "By M4X EVA",
+    HideSearchBar = true,
+  --  NewElements = true,
+    Theme = "Dark",
+    Folder = "Hyper_V1",
+    Size = UDim2.fromOffset(550, 450),
+    
+    -- ✅ User Card
+    User = {
+        Enabled = true,
+        Anonymous = false,
+        Image = GetPlayerAvatar(),
+        Title = game:GetService("Players").LocalPlayer.DisplayName,
+        Description = "@" .. game:GetService("Players").LocalPlayer.Name,
+        Callback = function()
+            WindUI:Notify({
+                Title = "Profile",
+                Content = "Player: " .. game:GetService("Players").LocalPlayer.Name,
+                Duration = 2
+            })
+        end,
+    },
+    
+    --[[ KeySystem = {                                                   
+        Note = "Example Key System. With platoboost.",              
+        API = {                                                     
+            { -- PlatoBoost
+                Type = "platoboost",                                
+                ServiceId = 26331,
+                Secret = "83088530-751f-4d3c-9a51-97effbd2e826",
+            },                                                      
+        },                                                          
+    }, ]]                                                              
+})
+
+
+Window:EditOpenButton({
+    Title = "NEO HYPER",
+    Icon = "solar:crown-minimalistic-outline",
+    IconColor = Color3.fromRGB(255, 215, 0),
+    CornerRadius = UDim.new(1, 0),
+    StrokeThickness = 1.5,
+    StrokeColor = Color3.fromRGB(200, 50, 0),
+    Color = ColorSequence.new({
+        ColorSequenceKeypoint.new(0, Color3.fromRGB(255, 0, 0)),
+        ColorSequenceKeypoint.new(0.5, Color3.fromRGB(200, 50, 0)),
+        ColorSequenceKeypoint.new(1, Color3.fromRGB(255, 0, 0)),
+    }),
+    Enabled = true,
+    Draggable = true,
+    Size = UDim2.new(0, 130, 0, 32),
+    TextColor = Color3.fromRGB(255, 255, 255),
+    TextSize = 14,
+    Font = Enum.Font.GothamBold,
+})
+
+-- ============================================
+-- GitHub Module Links Configuration (Ordered)
+-- ============================================
+local files = {
+    {name = "Home",     url = "https://raw.githubusercontent.com/Moahmedmix/Hyper_EVA_M4X/refs/heads/main/Mix/Game/EVADE/H.lua"},
+    {name = "Auto",     url = "https://raw.githubusercontent.com/Moahmedmix/Hyper_EVA_M4X/refs/heads/main/Mix/Game/EVADE/A.lua"},
+    {name = "ESP",      url = "https://raw.githubusercontent.com/Moahmedmix/Hyper_EVA_M4X/refs/heads/main/Mix/Game/EVADE/E.lua"},
+    {name = "Misc",     url = "https://raw.githubusercontent.com/Moahmedmix/Hyper_EVA_M4X/refs/heads/main/Mix/Game/EVADE/M.lua"},
+    {name = "VIP",      url = "https://raw.githubusercontent.com/Moahmedmix/Hyper_EVA_M4X/refs/heads/main/Mix/Game/EVADE/V.lua"},
+--  {name = "Se",       url = "https://raw.githubusercontent.com/mixmix-mi/Neo/refs/heads/main/S.lua"},
+ -- {name = "se",       url = "https://raw.githubusercontent.com/Moahmedmix/Hyper_EVA_M4X/refs/heads/main/Mix/Game/EVADE/se.lua"}
+}
+
+-- ============================================
+-- Loop to Fetch and Execute Modules
+-- ============================================
+for _, module in ipairs(files) do
+    local moduleName = module.name
+    local url = module.url
+
+    local success, content = pcall(function()
+        return game:HttpGet(url)
+    end)
+    
+    if success and content then
+        local runCode, err = loadstring(content)
+        if runCode then
+            task.spawn(function()
+                runCode(Window, ConfigManager, mainConfig)
+            end)
+        end
+    end
+    
+    task.wait(0.1)
+end
+
+
+-- ============================================
+-- Hyper v1.0 - Settings & Configuration
+-- ============================================
+
+-- ============================================
+-- 1. FPS, Ping & Timer (Blood Moon Theme)
+-- ============================================
+local SettingsTab = Window:Tab({
+    Title = "Settings",
+    Icon = "settings",
+    Locked = false,
+})
+
+-- ================================
+-- FPS Panel - Fixed (Blood Moon Style)
+-- ================================
+
+local FPSSection = SettingsTab:Section({
+    Title = "FPS, Ping & Timer",
+    Side = "Left",
+    Collapsed = true,
+})
+
+local fpsTimerEnabled = false
+local fpsTimerGui = nil
+local fpsUpdateConnection = nil
+
+local function CreateFPSPanel()
+    local playerGui = game:GetService("Players").LocalPlayer:WaitForChild("PlayerGui")
+    
+    if fpsTimerGui then 
+        pcall(function() fpsTimerGui:Destroy() end) 
+        fpsTimerGui = nil
+    end
+    if fpsUpdateConnection then 
+        pcall(function() fpsUpdateConnection:Disconnect() end) 
+        fpsUpdateConnection = nil
+    end
+    
+    local screenGui = Instance.new("ScreenGui")
+    screenGui.Name = "HyperFPSPanel"
+    screenGui.ResetOnSpawn = false
+    screenGui.Parent = playerGui
+    screenGui.Enabled = true  -- ✅ تأكد إنها مفعلة
+    
+    local container = Instance.new("Frame")
+    container.Size = UDim2.new(0, 180, 0, 55)
+    container.Position = UDim2.new(0.01, 0, 0.01, 0)
+    container.BackgroundColor3 = Color3.fromHex("#1a0000")
+    container.BackgroundTransparency = 0.1
+    container.Parent = screenGui
+    container.Active = true
+    container.Draggable = true
+    container.Visible = true  -- ✅ تأكد إنها ظاهرة
+    
+    local corner = Instance.new("UICorner")
+    corner.CornerRadius = UDim.new(0.2, 0)
+    corner.Parent = container
+    
+    local stroke = Instance.new("UIStroke")
+    stroke.Color = Color3.fromHex("#660000")
+    stroke.Thickness = 2
+    stroke.Parent = container
+    
+    local fpsLabel = Instance.new("TextLabel")
+    fpsLabel.Size = UDim2.new(1, 0, 0.5, 0)
+    fpsLabel.Position = UDim2.new(0, 0, 0, 0)
+    fpsLabel.BackgroundTransparency = 1
+    fpsLabel.Text = "FPS: -- | Ping: --ms"
+    fpsLabel.TextColor3 = Color3.fromHex("#ffcccc")
+    fpsLabel.Font = Enum.Font.GothamBold
+    fpsLabel.TextSize = 12
+    fpsLabel.TextXAlignment = Enum.TextXAlignment.Center
+    fpsLabel.Parent = container
+    fpsLabel.Visible = true  -- ✅ تأكد إنها ظاهرة
+    
+    local timerLabel = Instance.new("TextLabel")
+    timerLabel.Size = UDim2.new(1, 0, 0.5, 0)
+    timerLabel.Position = UDim2.new(0, 0, 0.5, 0)
+    timerLabel.BackgroundTransparency = 1
+    timerLabel.Text = "Time: 0h 0m 0s"
+    timerLabel.TextColor3 = Color3.fromHex("#ffcccc")
+    timerLabel.Font = Enum.Font.GothamBold
+    timerLabel.TextSize = 12
+    timerLabel.TextXAlignment = Enum.TextXAlignment.Center
+    timerLabel.Parent = container
+    timerLabel.Visible = true  -- ✅ تأكد إنها ظاهرة
+    
+    local startTime = tick()
+    local frameCount = 0
+    local lastUpdate = tick()
+    local currentFPS = 0
+    local RunService = game:GetService("RunService")
+    
+    fpsUpdateConnection = RunService.RenderStepped:Connect(function()
+        if not screenGui or not screenGui.Parent then
+            if fpsUpdateConnection then
+                fpsUpdateConnection:Disconnect()
+                fpsUpdateConnection = nil
+            end
+            return
+        end
+        
+        frameCount = frameCount + 1
+        local now = tick()
+        
+        if now - lastUpdate >= 0.5 then
+            currentFPS = math.floor(frameCount / (now - lastUpdate))
+            frameCount = 0
+            lastUpdate = now
+            
+            local ping = 50
+            pcall(function()
+                local stats = game:GetService("Stats")
+                local network = stats:FindFirstChild("Network")
+                if network then
+                    local serverStats = network:FindFirstChild("ServerStatsItem")
+                    if serverStats then
+                        ping = math.floor(serverStats:GetValue())
+                    end
+                end
+            end)
+            fpsLabel.Text = string.format("FPS: %d | Ping: %dms", currentFPS, ping)
+        end
+        
+        local elapsed = now - startTime
+        local hours = math.floor(elapsed / 3600)
+        local minutes = math.floor((elapsed % 3600) / 60)
+        local seconds = math.floor(elapsed % 60)
+        timerLabel.Text = string.format("Time: %dh %dm %ds", hours, minutes, seconds)
+    end)
+    
+    local dragging = false
+    local dragStart = nil
+    local startPos = nil
+    
+    container.InputBegan:Connect(function(input)
+        if input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch then
+            dragging = true
+            dragStart = input.Position
+            startPos = container.Position
+            stroke.Color = Color3.fromHex("#ff4444")
+        end
+    end)
+    
+    container.InputChanged:Connect(function(input)
+        if dragging then
+            if input.UserInputType == Enum.UserInputType.MouseMovement or input.UserInputType == Enum.UserInputType.Touch then
+                local delta = input.Position - dragStart
+                local newX = startPos.X.Offset + delta.X
+                local newY = startPos.Y.Offset + delta.Y
+                local viewport = workspace.CurrentCamera.ViewportSize
+                newX = math.clamp(newX, 10, viewport.X - 190)
+                newY = math.clamp(newY, 10, viewport.Y - 65)
+                container.Position = UDim2.new(0, newX, 0, newY)
+            end
+        end
+    end)
+    
+    container.InputEnded:Connect(function()
+        dragging = false
+        stroke.Color = Color3.fromHex("#660000")
+    end)
+    
+    container.Destroying:Connect(function()
+        if fpsUpdateConnection then
+            fpsUpdateConnection:Disconnect()
+            fpsUpdateConnection = nil
+        end
+    end)
+    
+    return screenGui
+end
+
+FPSSection:Toggle({
+    Title = "Show FPS, Ping & Timer",
+    Icon = "activity",
+    Value = false,
+    Callback = function(state)
+        fpsTimerEnabled = state
+        if state then
+            fpsTimerGui = CreateFPSPanel()
+            WindUI:Notify({ Title = "FPS Panel", Content = "Panel shown", Duration = 2 })
+        else
+            if fpsTimerGui then
+                if fpsUpdateConnection then
+                    pcall(function() fpsUpdateConnection:Disconnect() end)
+                    fpsUpdateConnection = nil
+                end
+                pcall(function() fpsTimerGui:Destroy() end)
+                fpsTimerGui = nil
+            end
+            WindUI:Notify({ Title = "FPS Panel", Content = "Panel hidden", Duration = 2 })
+        end
+    end,
+})
+
+-- ============================================
+-- 2. Performance & Visuals
+-- ============================================
+local PerfSection = SettingsTab:Section({
+    Title = "Performance & Visuals",
+    Side = "Left",
+    Collapsed = true,
+})
+
+-- Clear Invis Walls
+local function getInvisPartsFolder()
+    local success, folder = pcall(function()
+        local gameFolder = workspace:FindFirstChild("Game")
+        if not gameFolder then return nil end
+        local mapFolder = gameFolder:FindFirstChild("Map")
+        if not mapFolder then return nil end
+        return mapFolder:FindFirstChild("InvisParts")
+    end)
+    return success and folder or nil
+end
+
+PerfSection:Toggle({
+    Title = "Clear Invis Walls",
+    Value = false,
+    Callback = function(state)
+        local folder = getInvisPartsFolder()
+        if not folder then
+            WindUI:Notify({ Title = "Invis Walls", Content = "InvisParts not found", Duration = 2 })
+            return
+        end
+        
+        local changed = 0
+        for _, obj in ipairs(folder:GetDescendants()) do
+            if obj:IsA("BasePart") then
+                obj.CanCollide = not state
+                changed = changed + 1
+            end
+        end
+        WindUI:Notify({ Title = "Invis Walls", Content = string.format("%s for %d objects", state and "Disabled" or "Enabled", changed), Duration = 2 })
+    end
+})
+
+-- Streaming
+PerfSection:Button({
+    Title = "Lower Chunks",
+    Callback = function()
+        workspace.StreamingMinRadius = 200
+        workspace.StreamingTargetRadius = 500
+        WindUI:Notify({ Title = "Streaming", Content = "Chunks lowered", Duration = 2 })
+    end
+})
+
+PerfSection:Button({
+    Title = "Hide Useless Chunks",
+    Callback = function()
+        workspace.StreamingMinRadius = 0
+        workspace.StreamingTargetRadius = 500
+        WindUI:Notify({ Title = "Streaming", Content = "Useless chunks hidden", Duration = 2 })
+    end
+})
+
+-- FPS & Graphics
+PerfSection:Button({
+    Title = "Disable VSync",
+    Callback = function()
+        pcall(function() setfpscap(9999) end)
+        WindUI:Notify({ Title = "VSync", Content = "Disabled", Duration = 2 })
+    end
+})
+
+PerfSection:Button({
+    Title = "Set FPS Cap Max",
+    Callback = function()
+        pcall(function() setfpscap(99999) end)
+        WindUI:Notify({ Title = "FPS", Content = "Cap set to max", Duration = 2 })
+    end
+})
+
+PerfSection:Button({
+    Title = "Low Graphics",
+    Callback = function()
+        pcall(function() settings().Rendering.QualityLevel = 1 end)
+        WindUI:Notify({ Title = "Graphics", Content = "Set to low", Duration = 2 })
+    end
+})
+
+-- Visual Effects
+PerfSection:Button({
+    Title = "Hide Skybox",
+    Callback = function()
+        pcall(function() game.Lighting.Sky = nil end)
+        WindUI:Notify({ Title = "Skybox", Content = "Hidden", Duration = 2 })
+    end
+})
+
+PerfSection:Button({
+    Title = "Disable Shadows",
+    Callback = function()
+        local count = 0
+        for _, part in pairs(workspace:GetDescendants()) do
+            if part:IsA("BasePart") then
+                part.CastShadow = false
+                count = count + 1
+            end
+        end
+        WindUI:Notify({ Title = "Shadows", Content = "Disabled for " .. count .. " objects", Duration = 2 })
+    end
+})
+
+PerfSection:Button({
+    Title = "Disable Particles",
+    Callback = function()
+        local count = 0
+        for _, particle in pairs(workspace:GetDescendants()) do
+            if particle:IsA("ParticleEmitter") then
+                particle:Destroy()
+                count = count + 1
+            end
+        end
+        WindUI:Notify({ Title = "Particles", Content = "Removed " .. count .. " emitters", Duration = 2 })
+    end
+})
+
+PerfSection:Button({
+    Title = "Low Poly Mode",
+    Callback = function()
+        local count = 0
+        for _, part in pairs(workspace:GetDescendants()) do
+            if part:IsA("MeshPart") or part:IsA("UnionOperation") then
+                part.Material = Enum.Material.Plastic
+                part.RenderFidelity = Enum.RenderFidelity.Performance
+                count = count + 1
+            end
+        end
+        WindUI:Notify({ Title = "Low Poly", Content = "Applied to " .. count .. " objects", Duration = 2 })
+    end
+})
+
+-- Lighting & Time
+PerfSection:Button({
+    Title = "Night",
+    Callback = function()
+        game.Lighting.TimeOfDay = "00:00:00"
+        WindUI:Notify({ Title = "Time", Content = "Night mode", Duration = 2 })
+    end
+})
+
+PerfSection:Button({
+    Title = "Day",
+    Callback = function()
+        game.Lighting.TimeOfDay = "08:00:00"
+        WindUI:Notify({ Title = "Time", Content = "Day mode", Duration = 2 })
+    end
+})
+
+PerfSection:Button({
+    Title = "Anti Fog",
+    Callback = function()
+        local L = game.Lighting
+        L.FogStart = 100000
+        L.FogEnd = 1000000
+        WindUI:Notify({ Title = "Fog", Content = "Removed", Duration = 2 })
+    end
+})
+
+-- ============================================
+-- CONFIG SYSTEM - HYPER V1.0 (Custom List Method)
+-- ============================================
+
+-- 1. التأكد من وجود ConfigManager
+local ConfigManager = Window.ConfigManager
+if not ConfigManager then
+    warn("[Config] ConfigManager not found!")
+end
+
+-- 2. إنشاء الكونفج الافتراضي
+local ConfigName = "HyperConfig"
+local myConfig = ConfigManager:CreateConfig(ConfigName)
+
+-- 3. التحميل التلقائي عند بدء التشغيل
+task.spawn(function()
+    task.wait(1.5)
+    local allConfigs = ConfigManager:AllConfigs()
+    if #allConfigs > 0 then
+        local firstConfig = allConfigs[1]
+        ConfigName = firstConfig
+        myConfig = ConfigManager:CreateConfig(firstConfig)
+        myConfig:Load()
+        print("[Config] Auto-loaded: " .. firstConfig)
+        if WindUI and WindUI.Notify then
+            WindUI:Notify({ Title = "Config", Content = "Loaded: " .. firstConfig, Duration = 2 })
+        end
+    end
+end)
+
+
+
+local ConfigSection = SettingsTab:Section({
+    Title = "Configuration",
+    Side = "Left",
+    Collapsed = false,
+})
+
+-- Input لاسم الكونفج
+ConfigSection:Input({
+    Title = "Config Name",
+    Placeholder = "Enter config name...",
+    Value = ConfigName,
+    Callback = function(value)
+        if value and value ~= "" then
+            ConfigName = value
+        end
+    end
+})
+
+ConfigSection:Space()
+
+-- Dropdown لكل الكونفجات
+local AllConfigs = ConfigManager:AllConfigs()
+local AllConfigsDropdown = ConfigSection:Dropdown({
+    Title = "All Configs",
+    Values = #AllConfigs > 0 and AllConfigs or {"No Configs"},
+    Value = #AllConfigs > 0 and AllConfigs[1] or nil,
+    Callback = function(value)
+        if value and value ~= "No Configs" then
+            ConfigName = value
+        end
+    end
+})
+
+ConfigSection:Space()
+
+-- زر حفظ
+ConfigSection:Button({
+    Title = "Save Config",
+    Justify = "Center",
+    Callback = function()
+        if ConfigName and ConfigName ~= "" then
+            myConfig = ConfigManager:Config(ConfigName)
+            if myConfig:Save() then
+                WindUI:Notify({ Title = "Saved", Content = "Config: " .. ConfigName, Duration = 2 })
+                AllConfigsDropdown:Refresh(ConfigManager:AllConfigs())
+            else
+                WindUI:Notify({ Title = "Error", Content = "No elements with Flag found!", Duration = 3 })
+            end
+        else
+            WindUI:Notify({ Title = "Error", Content = "Enter a config name", Duration = 2 })
+        end
+    end
+})
+
+ConfigSection:Space()
+
+-- زر تحميل
+ConfigSection:Button({
+    Title = "Load Config",
+    Justify = "Center",
+    Callback = function()
+        if ConfigName and ConfigName ~= "" and ConfigName ~= "No Configs" then
+            myConfig = ConfigManager:CreateConfig(ConfigName)
+            if myConfig:Load() then
+                WindUI:Notify({ Title = "Loaded", Content = "Config: " .. ConfigName, Duration = 2 })
+            else
+                WindUI:Notify({ Title = "Error", Content = "Failed to load", Duration = 2 })
+            end
+        else
+            WindUI:Notify({ Title = "Error", Content = "Select a config first", Duration = 2 })
+        end
+    end
+})
+
+ConfigSection:Space()
+
+-- زر حذف
+ConfigSection:Button({
+    Title = "Delete Config",
+    Justify = "Center",
+    Callback = function()
+        if ConfigName and ConfigName ~= "" and ConfigName ~= "No Configs" then
+            myConfig = ConfigManager:CreateConfig(ConfigName)
+            if myConfig:Delete() then
+                WindUI:Notify({ Title = "Deleted", Content = "Config: " .. ConfigName, Duration = 2 })
+                AllConfigsDropdown:Refresh(ConfigManager:AllConfigs())
+                ConfigName = ""
+            else
+                WindUI:Notify({ Title = "Error", Content = "Failed to delete", Duration = 2 })
+            end
+        else
+            WindUI:Notify({ Title = "Error", Content = "Select a config first", Duration = 2 })
+        end
+    end
+})
+
+ConfigSection:Space()
+
+-- زر إنشاء
+ConfigSection:Button({
+    Title = "Create Config",
+    Justify = "Center",
+    Callback = function()
+        if ConfigName and ConfigName ~= "" then
+            myConfig = ConfigManager:CreateConfig(ConfigName)
+            if myConfig:Save() then
+                WindUI:Notify({ Title = "Created", Content = "Config: " .. ConfigName, Duration = 2 })
+                AllConfigsDropdown:Refresh(ConfigManager:AllConfigs())
+                AllConfigsDropdown:SetValue(ConfigName)
+            else
+                WindUI:Notify({ Title = "Error", Content = "Failed to create", Duration = 2 })
+            end
+        else
+            WindUI:Notify({ Title = "Error", Content = "Enter a name first", Duration = 2 })
+        end
+    end
+})
+
+ConfigSection:Space()
+
+-- زر تحديث القائمة
+ConfigSection:Button({
+    Title = "Refresh List",
+    Justify = "Center",
+    Callback = function()
+        AllConfigsDropdown:Refresh(ConfigManager:AllConfigs())
+        WindUI:Notify({ Title = "Refreshed", Content = "List updated", Duration = 2 })
+    end
+})
+
+-- ============================================
+-- 🔵 تسجيل العناصر بقائمة مخصصة (الطريقة الرابعة)
+-- ============================================
+local elementsToRegister = {
+    -- ===== من ملف H.lua (Home) =====
+    "AntiAFKToggle",
+    "FlyToggle",
+    -- الأسماء الصحيحة للعناصر دي في elementsToRegister:
+"NextbotESP",                     -- Toggle
+"NextbotHighlight",               -- Toggle
+"NextbotESPColorDropdown",        -- Dropdown
+"NextbotHighlightColorDropdown",  -- Dropdown
+-- الأسماء الصحيحة للعناصر دي في elementsToRegister:
+"PlayerESP",               -- Toggle
+"NormalColorDropdown",     -- Dropdown
+"DownedColorDropdown",     -- Dropdown
+"PlayerHighlight",         -- Toggle
+-- "RefreshESPButton"      -- Button مش بيتسجل في الكونفج
+
+    
+    -- ===== من ملف M.lua (Misc) =====
+    -- Player Modifications
+    "SpeedInput",
+    "JumpCapInput",
+    "StrafeInput",
+    "ApplyMethodDropdown",
+    
+    -- Yourself
+    "AutoReviveToggle",
+    "RespawnMethodDropdown",
+    "ReviveFloatingButtonToggle",
+    
+    -- Interactions
+    "CarryToggle",
+    "CarryDelayInput",
+    "ReviveToggle",
+    "ReviveDelayInput",
+    
+    -- Infinite Slide
+    "InfiniteSlideToggle",
+    "SlideFrictionSlider",
+    
+    -- ===== AutoTrimp =====
+    "AutoTrimpToggle",
+    "BackTrimpToggle",
+    "AutoTrimpModeDropdown",
+    "AutoTrimpBaseSpeedInput",
+    "AutoTrimpStartSpeedInput",
+    "AutoTrimpIncrementRateInput",
+    "AutoTrimpFloatingToggle",
+    "BackTrimpFloatingToggle",
+    
+    -- Auto Jump
+    "AutoJumpTypeDropdown",
+    "RotationToggle",
+    "BunnyHopToggle",
+    "BhopHoldToggle",
+    "BhopButtonToggle",
+    "JumpPowerSlider",
+    "BhopModeDropdown",
+    "BhopAccelSlider",
+    "JumpCooldownSlider",
+    
+    -- Emote Speed
+    "EmoteSpeedModeDropdown",
+    "EmoteSpeedValueInput",
+    
+    -- Lag Switch
+    "LagSwitchToggle",
+    "LagDurationSlider",
+    "LagIntensitySlider",
+    "LagFloatingButtonToggle",
+    "LagKeybind",
+    
+    -- Demon Mode
+    "DemonToggle",
+    "DemonRiseHeightSlider",
+    "DemonRiseSpeedSlider",
+    "DemonLagDurationSlider",
+    "DemonLagIntensitySlider",
+    "DemonFloatingButtonToggle",
+    "DemonKeybind",
+    
+    -- Gravity
+    "GravityToggle",
+    "GravityValueInput",
+    "GravityFloatingButtonToggle",
+    "GravityKeybind",
+    
+    -- ===== من ملف E.lua (ESP) =====
+    "PlayerESP",
+    "NormalColorDropdown",
+    "DownedColorDropdown",
+    "PlayerHighlight",
+    "NextbotESP",
+    "NextbotHighlight",
+    "NextbotESPColorDropdown",
+    "NextbotHighlightColorDropdown",
+    "NoFogToggle",
+    "FullBrightToggle",
+    "RemoveBarriersToggle",
+    "BarriersVisibleToggle",
+    
+    -- ===== من ملف A.lua (Auto Farm) =====
+    "AFKFarmToggle",
+    "TicketFarmToggle",
+    "CashFarmToggle",
+    "AFKPlatformHeightSlider",
+    -- من V.lua (Visuals)
+    "HeadlessToggle",
+    "KorbloxToggle",
+    "Cosmetic1Input",
+    "Cosmetic2Input",
+    
+    -- Emote Slots (12 Slot)
+    "CurrentEmote1", "SelectEmote1",
+    "CurrentEmote2", "SelectEmote2",
+    "CurrentEmote3", "SelectEmote3",
+    "CurrentEmote4", "SelectEmote4",
+    "CurrentEmote5", "SelectEmote5",
+    "CurrentEmote6", "SelectEmote6",
+    "CurrentEmote7", "SelectEmote7",
+    "CurrentEmote8", "SelectEmote8",
+    "CurrentEmote9", "SelectEmote9",
+    "CurrentEmote10", "SelectEmote10",
+    "CurrentEmote11", "SelectEmote11",
+    "CurrentEmote12", "SelectEmote12",
+    
+    -- ... باقي الأسماء
+}
+
+-- قائمة الـ Flags لكل العناصر في كل الملفات
+
+-- ============================================
+-- تسجيل كل العناصر في القائمة
+-- ============================================
+local registeredCount = 0
+
+for _, flag in ipairs(elementsToRegister) do
+    local element = nil
+    
+    -- البحث في Tabs.Misc
+    if Tabs and Tabs.Misc then
+        if Tabs.Misc.Toggles and Tabs.Misc.Toggles[flag] then
+            element = Tabs.Misc.Toggles[flag]
+        elseif Tabs.Misc.Sliders and Tabs.Misc.Sliders[flag] then
+            element = Tabs.Misc.Sliders[flag]
+        elseif Tabs.Misc.Inputs and Tabs.Misc.Inputs[flag] then
+            element = Tabs.Misc.Inputs[flag]
+        elseif Tabs.Misc.Dropdowns and Tabs.Misc.Dropdowns[flag] then
+            element = Tabs.Misc.Dropdowns[flag]
+        elseif Tabs.Misc.Keybinds and Tabs.Misc.Keybinds[flag] then
+            element = Tabs.Misc.Keybinds[flag]
+        end
+    end
+    
+    -- البحث في Tabs.ESP
+    if not element and Tabs and Tabs.ESP then
+        if Tabs.ESP.Toggles and Tabs.ESP.Toggles[flag] then
+            element = Tabs.ESP.Toggles[flag]
+        elseif Tabs.ESP.Sliders and Tabs.ESP.Sliders[flag] then
+            element = Tabs.ESP.Sliders[flag]
+        elseif Tabs.ESP.Dropdowns and Tabs.ESP.Dropdowns[flag] then
+            element = Tabs.ESP.Dropdowns[flag]
+        end
+    end
+    
+    -- البحث في Tabs.Auto
+    if not element and Tabs and Tabs.Auto then
+        if Tabs.Auto.Toggles and Tabs.Auto.Toggles[flag] then
+            element = Tabs.Auto.Toggles[flag]
+        elseif Tabs.Auto.Sliders and Tabs.Auto.Sliders[flag] then
+            element = Tabs.Auto.Sliders[flag]
+        end
+    end
+    
+    -- البحث في Tabs.Main (Home)
+    if not element and Tabs and Tabs.Main then
+        if Tabs.Main.Toggles and Tabs.Main.Toggles[flag] then
+            element = Tabs.Main.Toggles[flag]
+        elseif Tabs.Main.Inputs and Tabs.Main.Inputs[flag] then
+            element = Tabs.Main.Inputs[flag]
+        end
+    end
+    
+    -- البحث في Tabs.VIP
+    if not element and Tabs and Tabs.VIP then
+        if Tabs.VIP.Toggles and Tabs.VIP.Toggles[flag] then
+            element = Tabs.VIP.Toggles[flag]
+        end
+    end
+    
+    -- تسجيل العنصر لو اتوجد
+    if element then
+        myConfig:Register(flag, element)
+        registeredCount = registeredCount + 1
+    end
+end
+
+print("[Config] Registered " .. registeredCount .. " elements")
+-- ============================================
+-- 6. Themes Manager
+-- ============================================
+local ThemesSection = SettingsTab:Section({
+    Title = "Themes",
+    Side = "Left",
+    Collapsed = true,
+})
+
+local function CreateCustomTheme(name, colors)
+    pcall(function()
+        WindUI:AddTheme({
+            Name = name,
+            Accent = colors.accent,
+            Background = colors.background,
+            Button = colors.button,
+            Text = colors.text,
+            Outline = colors.outline,
+            Dialog = colors.dialog,
+            Icon = colors.icon,
+        })
+    end)
+end
+
+local CustomThemes = {
+    {
+        Name = "Blood Moon",
+        Colors = {
+            accent = Color3.fromHex("#8B0000"),
+            background = Color3.fromHex("#1a0000"),
+            button = Color3.fromHex("#3d0000"),
+            text = Color3.fromRGB(255, 255, 255),
+            outline = Color3.fromHex("#660000"),
+            dialog = Color3.fromHex("#2a0000"),
+            icon = Color3.fromHex("#ff4444"),
+        }
+    },
+    {
+        Name = "Midnight Blue",
+        Colors = {
+            accent = Color3.fromHex("#1a2a6c"),
+            background = Color3.fromHex("#0a0a1a"),
+            button = Color3.fromHex("#1a1a3d"),
+            text = Color3.fromRGB(200, 210, 255),
+            outline = Color3.fromHex("#2a3a8c"),
+            dialog = Color3.fromHex("#12122a"),
+            icon = Color3.fromHex("#5a7aff"),
+        }
+    },
+    {
+        Name = "Neon Green",
+        Colors = {
+            accent = Color3.fromHex("#00ff88"),
+            background = Color3.fromHex("#0a1a0a"),
+            button = Color3.fromHex("#1a3d1a"),
+            text = Color3.fromRGB(200, 255, 200),
+            outline = Color3.fromHex("#00cc66"),
+            dialog = Color3.fromHex("#0f2a0f"),
+            icon = Color3.fromHex("#44ffaa"),
+        }
+    },
+    {
+        Name = "Ocean Deep",
+        Colors = {
+            accent = Color3.fromHex("#0044aa"),
+            background = Color3.fromHex("#00081a"),
+            button = Color3.fromHex("#001a3d"),
+            text = Color3.fromRGB(180, 210, 255),
+            outline = Color3.fromHex("#003388"),
+            dialog = Color3.fromHex("#000d2a"),
+            icon = Color3.fromHex("#3377ff"),
+        }
+    },
+}
+
+for _, theme in ipairs(CustomThemes) do
+    CreateCustomTheme(theme.Name, theme.Colors)
+end
+
+local function LoadSavedTheme()
+    local success, data = pcall(function() return readfile("Hyper_CustomTheme.txt") end)
+    return success and data or "Blood Moon"
+end
+
+local function SaveTheme(themeName)
+    pcall(function() writefile("Hyper_CustomTheme.txt", themeName) end)
+end
+
+local function ApplyTheme(themeName)
+    pcall(function() WindUI:SetTheme(themeName) end)
+end
+
+local themeNames = {}
+for _, theme in ipairs(CustomThemes) do
+    table.insert(themeNames, theme.Name)
+end
+table.insert(themeNames, 1, "Crimson")
+table.insert(themeNames, 2, "Dark")
+
+local currentTheme = LoadSavedTheme()
+ApplyTheme(currentTheme)
+
+ThemesSection:Dropdown({
+    Title = "Select Theme",
+    Values = themeNames,
+    Default = currentTheme,
+    Callback = function(value)
+        currentTheme = value
+        ApplyTheme(value)
+        SaveTheme(value)
+        WindUI:Notify({ Title = "Theme", Content = "Theme changed to: " .. value, Duration = 2 })
+    end,
+})
+
+ThemesSection:Button({
+    Title = "Reset Theme",
+    Callback = function()
+        currentTheme = "Blood Moon"
+        ApplyTheme("Blood Moon")
+        SaveTheme("Blood Moon")
+        WindUI:Notify({ Title = "Theme", Content = "Theme reset to Blood Moon", Duration = 2 })
+    end,
+})
+
+print("[Settings] Loaded successfully!")
+
+
+-- ================================
+-- Chat Message - Neo Hyper
+-- ================================
+--[[
+task.spawn(function()
+    task.wait(1)
+    
+    local player = game:GetService("Players").LocalPlayer
+    local chatService = game:GetService("TextChatService")
+    local replicatedStorage = game:GetService("ReplicatedStorage")
+    
+    local function sendChatMessage(message)
+        pcall(function()
+            -- طريقة 1: TextChatService
+            if chatService and chatService.TextChannels then
+                local channel = chatService.TextChannels:FindFirstChild("RBXGeneral")
+                if channel then
+                    channel:SendAsync(message)
+                    return
+                end
+            end
+            
+            -- طريقة 2: ReplicatedStorage (الطريقة القديمة)
+            local event = replicatedStorage:FindFirstChild("Events") and 
+                         replicatedStorage.Events:FindFirstChild("Chat") and
+                         replicatedStorage.Events.Chat:FindFirstChild("Send")
+            if event then
+                event:FireServer(message)
+                return
+            end
+            
+            -- طريقة 3: Chat Service القديم
+            local chat = game:GetService("Chat")
+            if chat and chat:FindFirstChild("Chat") then
+                chat.Chat:FireServer(message)
+                return
+            end
+        end)
+    end
+    
+    sendChatMessage("Welcome Owner Of Neo Hyper")
+end)
+--]]
