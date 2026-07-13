@@ -54,6 +54,6 @@ Welcome to **Hyper UI**, the most advanced, multi-featured, and highly optimized
 ### 💻 PC (Windows)
  * Wave, Solara, Synapse X, Script-Ware, Krnl, Oxygen U.
 ## 📜 License & Credits
- * Developed by **Mohamed Shaban** (M4X) And **EVA Moahmed**
+ * Developed by **Mohamed Shaban** (MIITO) And **EVA Moahmed**
  * UI Interface powered by **WindUI**.
  * Distributed under the **GNU GPLv3 License**. See LICENSE for more details.
