@@ -1,1 +1,483 @@
 return(function(...)local o={"HNLfMf0jH.Ec@6`B\'c","H^_R3PGX+","HN_o5lC(0<^j++!,Njr";"jgzlPkGSmaWgCkeIHRW2HYp==";"HjrbFt";"jGz2H8y27ab238zkt","H^4,Olcua(Fsda.";"jWG2cB53hkxkeBGd4","HrfW)#c\'WJa\'rNl5";"Ha?Gc#si(M","HNRN%RGb]#Z";"He`Z>","H_dJ8ia2*iO.Zg^\\rD#","jnlEB3Lw+n7VV";"Hc7tP#JjlZ>a2\"U$\\V`","j2zmH+WlC","He`Z,nc4","HaKTE&03kBiG^Q@L\'\"2O2","j2bEWIyl0IUF7FylYWqF=";"HsW+/TcQo,nZ?3&W>2";"H_iUNKGJ";"jRxs9aWiF8xlwke1=";"jFq3maWIfke1vge378y1=";"Ha\"n\'q\'2^J!s-Fi","jFWiC1xkQkWiVd7T98x2Sdz2V0v==","j2X3S8qIcae3m8zIw";"jge378y1j1p==","jGX3m8WmU8F==";"HeJ*8?0jl)2j,.G40_+Y<&nYC\\\'2MgD\'2^t3s-C$1`c.MW\'\"lD[s+;2I\'HK)[GX+","jIHSz2xwUWVImYX+V";"jIGUPIy+PGUlU2q3O8bv=","H\'N:$*";"Hj,.G40_+Y<&nYCcc`;$IG^=a)O_gu+\'2^quGfL-40ehF2c3Pl5\\Q5g_sU$?hs-(5dbXYX?0_7ZZcPZU(0jX";"jRlp=","Hb^]\"m.p^#:";"HD`)?YZSTss9O\"]4jY";"Hmq+5PG^=V";"Hs+MI";"HNIt5mj,-]pjZ\'o3","jFblc","Hehn&[";"jgzmCkGUmdbv=";"jRWl6GyT7kWlV","jGbSt+4lE8y2O+p==","j2zmH+WlCdc==","HJgSqL\\4-290aJJu\'c";"HbS2#<";"HNICs+c;;UO";"jFy27dz2O+52E8ygmLWwc+eF=";"Hc`(+Oc4";"HNq;i+06lP7","jgzmOk5kQdqI4FbSQ8xF=","H$U[5#a!\\_lC*oC30!I";"jLegm822HkGmOay3m8W2O+p==";"He@N`reuRQ?c4";"jdz36aeIHkegQkNft0H5HINp6r9GyKF==";"jFWwQ8Wl4YWsOGzst+lI4dzlQkbS4","HNR^O@GX<l4c4","jFGgR";"jRxs9Yb2V";"HNAk^l\'2M<";"HNI9ItsdZ6","H^l,XL&s>RDc4";"He`)_E\\m:a?siFkU\\2","HNg7BR\\)gH%sddK>_/DLp","He;ddiGJ","H_iaJQ\'20?";"HbXQtQc4","j2xsqkbim";"HNgk.S0em\"Tsm";"j+bs7YyIcaWIm";"H_-\']l&\'(jFGX.+6\'*","jgeSS8eTCkRfvGzs9YbmOGyg7YWgm";"j2X278m+SYeI4";"jGX3Q8y3Q+XV=";"H\'5@aO&G\"Q@.]NJHr\\G","jkbUS+xIf","jFq3maWIfke1=";"H_+HJ6GJ","jLWwc+eF=";"H$\\tg-rHeTpc&@.`CA)";"jGz2E8ygmgekm8qF=";"jW4wm87T1BeTmdm4vGy29ab2HdbkU8xiw1xSt8bEmkMT2dxgS+x2NYxl7aWI4ke1vkekm8qFS","jkbSX+bgnL5+yKWIY";"jKXIUGRTS25Cy+VsfYv==","j2eTVaegmFbSSdzl9+x27","Hc;EaT&*A[^\'?Z^qZ:>Wb$Ytcf$G)";"H_dh\\/GfqfnG8A)iGfqc7c]>3","Hr\\6E8Z5HVLa!nU6","jgWUt+xGvFbSS8z+mdv==";"jFblOLxsCk5gt+b6=";"jRW2HY5mV";"j3erP";"jLegm8erOgWUt+x2H0v==","H^_BNP";"jFbsC8y1H";"jgb24Gb27+zm9kF==","Hsf-l5C@1N(\\03\'qC.5","H^<!%8_iaV%GX0","jBVw5dHThLV3hYVmq","j2xst85l9+xmt8v==";"HaKTE&03fr?si(s","jdyTS+b6=","H_dh\\/GfqfnG8A)iGJ";"HNLfMf0jH.Ecl","H_dJ_RGu","jGyTmabmS85Umdbv=","H04]k$sm","jBR5UgUTkryIM2qIt8Uf=","HC1VK@s/*","jBxcwdySFazIkFeSH";"HNRNBl0_)jFGu";"jGbUtYbGvgy3m8zlVkLTUdx+7aWgmkM5nLWwzYWwQ+xGvky3m8zlVkernLWwH+xlO+MT7kWitaWF=";"jFq24+xsO";"He\\qJ[N9Z^Pai7O\\";"jGbmVkF==","Hmq+<Qsm","Hh3kI1:%XA<";"H_d%:INC&A8sm","jLbs7azitBlgtkb+CkF==","HNRNE#GSdd","Hj,U=H&1J-(sffJr`.=bD\'J62UsddK>s++\'M&F`M:GZ9@A.kMlZ&n5Ta&suND`.X_T`.[rVGMmF[sf+f","jKGIggxS7YmQMa9+2Fc==","jgzlVk2gQ8WG=","jLWwz8c==";"jGxl7aW+7aeTf";"Hcu[Rr&b","j2eTqdzlVkLTXdzlcdximLxstY7TyYegf1xmOkzmOYegm1X3S8z+m1xlOkMTHdx2mkp==","jGy29ab2Hd75=";"HbXS:";"j2Wwmde2Qd5EmBW3Q8zF=";"H^4,Olcua*<sdasN^e$cicl";"jFbsC8y3mkp==","jgzlQ8x2V1Xgt1XIyaepvkWUt+x2H0DTIaWEm1XIUdzGv+xSm1xwS8W2H1xl7kLT98y37kWI40v==";"jFWI4YekS+x2FYX3SdbG=","H^F$tL&s>RD";"jgx2Hac==","jRxstY43SabC=","H\'\">q/";"jWzst8F==","jGyTSabG=","H_+3\'=04V&Us\\EMPGJ","jGyT7kWlVLWw9dz2SdbG=","He]7$Y0oa.;GXXP.r=";"H&s2>\'cPXc1","jGxs7+xlC";"jRbwN8xmm8qgl+z2O+p==";"HNL)#LGJ";"jFy27dz2O+MTl8Ws4kF==";"jGzmqYXFvRx2q","H`c5;bcu=\'F`c5#b0o\'@YG)T)`\\)(";"HeJ*8?0jl)2_d%:I`0akLsdhQG\'2MgD\'2bFN0_7ZZ0em6I04OhW0_=XV\'Ks(%`.MMA0j3h","j2VmF1lImdqkmdv==","H^<2k\\","Ha!P>]GKV48\'\"<";"HNq;?Isi3N1G^L","jF4SVW2InLllcFG1w","jGbUtYb2LaWgQ+er=","HeuO\\EGJ","HeuRQ?c4","HbDt`%C72Q<^oOFi";"jRx2z+p==","He`6u%NRN%RGb]#Z";"jGygU8DTMaegt8v==";"Hj/M\'6sf\\";"jeUsqac==";"jWy3qeLTEYeIHKv==","H_+3,E\'2#B`jt)QdG\"728sg";"H\\09tZ";"HD],)<\\g<hMes]5r_g","jd4acImkyF4iCLxvb8Xf=";"Hb84e@c]Pn`aKY(8&s1";"jgy3SdXTCkGSt8bCv+eTqdzlVkWFvdy29ab2HdbkU8xiw1F==";"HjJF\\lDdjf/G>h5dDR","jaq+jGUSH+eQYIx3L";"jIyF4L5QUIGkLkzleWGf=","jgekm8qgH","jk4E6Ym5UaVSGGUriYc==";"j2VmF";"H_ia]lNAUo0\'\"<","H_dV8#GX5[?&c5+)G8VWY\'c","jrlQkYVg68x5iIxsG2F==","H_d%:I`0akLsdhQmc`;$IG^=a)O_gu<&.\'U:`.XGN0jH1[Oaj`u`.MMA0j3hLjD@^4G8P3OG^aCn\'\"<cssdZDr&(*K\'";"jFbst8xgt+bw38zkt";"HNLkr5G$E;jGS?","H^4$(!0_-PQ\'2GO`&c%";"jFy3tdyIfaWm72XmckF==","jrNp72Ww3+NgzFq1ya2p=";"jGX3tYz29+xmCkF==";"jR4m9gU3RgUmnYm3C","HNI&@!&(*brsffo","jkzl9kF==";"H_+3dn\'?1SMGSM@=sdXaFGJ","jLW6vdbsEkLTVaWw9kervBWsU1xSS+zGv+xov+blQ+MTS1xiQ+XgCkLTyYxmCkL6=";"jYWwHke34","H\\4U1,at\\j,j,U]^","jBVlSF2SX8zQO85kLBlf=";"H.r)#?s\\&95^qT3:";"HG[@/u_&;T";"HNO^adsWWHg0M1XL04V&Usf9";"He`Zd#GXXTns:qth","Ha!*;4\\V]%V^[5cu","HbNYT";"H^4,O=\'2M<","jWVfi+VkKGevUamrH+v==","HNI9It\\TgfusdZ6","jdz2zdz2HYMU9+c==","HeJ*8?0jl)2_dh\\/GfqfnG8A)iGfRDD&s*iDs-F6g\'2%[:&n<ub";"HNAUo0\'\"<";"H^_]H..p^u","j";"jGbUtYb25+e3S+xmt8v==";"H>V1cpchOWoc\\M$Pbth";"H\\4\'opCGqepe&%E5","jGz2i+Wm7kWUm8qgH";"j+WwcaWIP","jGz2HkeF=";"jW42E8ygm15IfaWwqke3+15itaWgmkMTyYegf1lll+zlVkLTH+blc1xUm+xStkXrS","jRW2HYlgwdxG=","HjDP>/G)&";"H^oO^\\","jLWwH+xlOabG=";"j2xst8lkQke+D8b1=","j2xlDdc==";"jLbs7azitBp==";"Hb^]\"m.p^#:euRs7.p$","jgb24FbSQ8xg7kW6=","j2VmF1lgt8biH1xitaWgmkMTH+WI9keIHkq2C8XVS","Hb^]\"m","j1KnxVDp=";"H_+3[Q&e&Ipsdd!$";"H\\G[fQe@W1japZ\\J","Hbb,Q)\'2?-GsdXl^";"jYeTSYe3H";"H^e$cicl";"HsWWt4\'c","jGbUtYb2Xdz2OaWgm","HsZiXSji`84a2`!Bcu\\";"HZ5O`mjf7L`j5E,l","HcPZN>\'2#P","HNC&G9&*LKAGJ";"jgxmbYWgmdv==";"HNRNE;G8V8","HZ*";"H&.Gl)GJ","j2z29+xs7rc==";"jRxmzkegQ8WG=","H_dJP/0j<4+G[0","H&.\'N`";"j+X+FIGQ6rbE3Gl+LkUV=","HN8l1GD]tq$ec@3pNt";"Ha?Gc#si*;lGMmF[s+#^F";"HNAk&=c]N\"";"jgzsCkx27","jgWwSazim1xktdDTrgG+TFUVvkWUt+x2H1MSL8bIPYW6vGyg7YWgm15ilg4lNWLcvkeg90DV=";"HNmNq\\0o=&[`CkU*c]Pn``0/!2WZ";"jGygU8DTMaegt8DTldq3tdv==";"Hj5A:VG[.`8sn\'#t";"jgxmHaW3CkWgTaygQ8bwH";"Hc`ee%.=";"Hj,U!]GXsp";"jGxiSab2f8biVke1=","j2bmOkl23","jFbsC8y1=";"Ha?ifscu[5VGu","j+blQ+p==";"He`Zd#GX60qsddK7sfUnm","jFbiQdp==","jGz2H8y27ab2Tazsbk2Qmdzo=","jgy3SdXTCkGSt8bC=";"H^e,Nqcua*J`GNcL.k677.\'","H^e,]dsd=lDs\\EMS\'%I+","j+X3SdbvErv==";"j+eS0a4QrG4+wYmTGYF=="}for F,Z in ipairs({{1;274},{1;162};{163,274}})do while Z[1]<Z[2]do o[Z[1]],o[Z[2]],Z[1],Z[2]=o[Z[2]],o[Z[1]],Z[1]+1,Z[2]-1 end end local function F(F)return o[F-1118]end do local F=string.char local Z={S=33,O=46,["2"]=21,K=14;L=18;B=30,b=54,x=6,v=32,A=63;m=37;r=12,H=51,U=53;l=5;E=45;j=58;["8"]=27;n=10,P=43;q=39;w=57;["/"]=62,g=17,["7"]=50;p=0;T=1,["3"]=9;["+"]=29,D=34;I=13,["6"]=56;u=42;f=40;["5"]=4;z=38;Z=31;J=59;h=15,G=20,o=60,["4"]=52;i=49,["9"]=35,a=24,c=48,e=23,k=25;["0"]=11,t=47;M=2;Y=26,["1"]=8;d=28,X=7,y=55,N=3;Q=41;F=16;C=44;V=36,R=19;W=22,s=61}local f=string.len local u={["-"]=41,s=35;K=47;["@"]=62;["&"]=37;["2"]=75;N=21;["4"]=81;X=51;W=13,["`"]=10,[")"]=79,a=24;F=0;["]"]=66;g=2,o=80,I=1;[","]=72;["^"]=22;d=69,["0"]=31,["\\"]=38,B=67;q=55;n=63,M=77,P=65,V=84,T=4;m=30,["+"]=40,["6"]=52;["7"]=61;["?"]=74;["\""]=19;[">"]=20,h=12,["9"]=29;Z=15;["1"]=7,t=45,G=32,f=42;U=6,["["]=78,p=71;["5"]=44,["!"]=48,k=43;A=83;b=23,l=54;D=17,C=28,["8"]=50,["."]=34,R=57,["*"]=8,["%"]=76,["("]=9;["<"]=53;[":"]=14;E=73;J=39,r=16;["="]=60,["3"]=82,Y=5;L=56,["$"]=18,e=27,["/"]=70;["\'"]=33;j=25,c=36,i=68;Q=59;[";"]=64,O=3,_=26;["#"]=58;u=11;H=46,S=49}local D=table.concat local h=type local v=o local c=math.floor local x=string.sub local Q=table.insert for o=1,#v,1 do local q=v[o]if h(q)=="string"then local h=x(q,1,1)if h=="j"then q=x(q,2)local u=f(q)local h={}local J=1 local e=0 local i=0 while J<=u do local o=x(q,J,J)local f=Z[o]if f then e=e+f*(64^((3-i)))i=i+1 if i==4 then i=0 local o=c(e/65536)local Z=c((e%65536)/256)local f=e%256 Q(h,F(o,Z,f))e=0 end elseif o=="="then Q(h,F(c(e/65536)))if J>=u or x(q,J+1,J+1)~="="then Q(h,F(c((e%65536)/256)))end break end J=J+1 end v[o]=D(h)elseif h=="H"then q=x(q,2)local Z=f(q)local h={}local J=1 while J<=Z do local o=(Z-J)+1 local f=o>=5 and 5 or o local D=0 local v=f>1 for o=0,4,1 do local F if o<f then local Z=x(q,J+o,J+o)F=u[Z]if not F then v=false break end else F=84 end D=D*85+F end if v then local o=c(D/16777216)%256 local Z=c(D/65536)%256 local u=c(D/256)%256 local v=D%256 if f==5 then Q(h,F(o,Z,u,v))elseif f==4 then Q(h,F(o,Z,u))elseif f==3 then Q(h,F(o,Z))elseif f==2 then Q(h,F(o))end end J=J+f end v[o]=D(h)end end end end return(function(h,v,u,D,c,o,f,J,Z,Q,b,E,p,w,K,y,x,P,i,k,L,e,q,V)J,K,L,b,i,w,k,q,Q,x,E,y,P,p,V,Z,e=0,function(o,F)local f=e(F)local u=function(u,D,h,v,c)return Z(o,{u;D,h;v,c},F,f)end return u end,function(o,F)local f=e(F)local u=function(u,D)return Z(o,{u,D},F,f)end return u end,function(o,F)local f=e(F)local u=function(u,D,h,v,c,x,Q)return Z(o,{u,D,h,v;c;x,Q},F,f)end return u end,function(o)local F,Z=1,o[1]while Z do Q[Z],F=Q[Z]-1,F+1 if 0==Q[Z]then Q[Z],x[Z]=nil,nil end Z=o[F]end end,function(o,F)local f=e(F)local u=function()return Z(o,{},F,f)end return u end,function(o,F)local f=e(F)local u=function(u)return Z(o,{u},F,f)end return u end,function()J=J+1 Q[J]=1 return J end,{},{},function(o,F)local f=e(F)local u=function(u,D,h,v,c,x)return Z(o,{u;D,h;v,c,x},F,f)end return u end,function(o)Q[o]=Q[o]-1 if 0==Q[o]then Q[o],x[o]=nil,nil end end,function(o,F)local f=e(F)local u=function(...)return Z(o,{...},F,f)end return u end,function(o,F)local f=e(F)local u=function(u,D,h,v)return Z(o,{u;D,h;v},F,f)end return u end,function(o,F)local f=e(F)local u=function(u,D,h)return Z(o,{u;D;h},F,f)end return u end,function(Z,u,D,h)local Ku,eu,B,Q,Qu,W,n,Lu,iu,Du,l,U,S,e,z,m,g,t,C,j,ou,P,vu,T,d,s,A,r,G,c,a,fu,Zu,O,uu,R,xu,pu,Ju,qu,Pu,H,hu,J,M,I,Fu,X,Y,yu,i,N,cu while Z do if Z<7941206 then if Z>3378993 then if 5820691>Z then if 4525831>Z then if Z<4094309 then if Z<3646535 then if 3405324>Z then c,Z=1,F(1306)Q[Z]=c Z,c=F(1162),14563494>14760205 Q[Z]=c c,Z=F(1198),F(1332)Z=Q[Z]Z=Z(Q,c)J=Z Z=J and 15801932 or 12541723 elseif Z<3437604 then I,z=Z,F(1190)W=P[z]N,Z=W,W and 469861 or 14428446 elseif 3452558>Z then e=F(1285)J=x[D[1]]c=J[e]Z=F(1332)Z=Q[Z]Z=Z(Q,c)J=Z Z=J and 8306519 or 1512449 else I,c=F(1233),F(1330)Z=o[c]I=e[I]N={I(e)}I={Z(f(N))}Z,c=1425088,I[1]N,j,P=c,I[3],I[2]end else if 3835130>Z then z,W,P=F(1140),F(1249),F(1269)Z=o[P]P,U,N,I,g=F(1226),F(1142),F(1165),F(1241),3 j,P={[N]=I,[W]=z,[U]=g},Z[P]P=P(Z,j)Z=5421744 elseif 3896644>Z then Z=x[D[5]]i=Z(Q,J)Z,e=10777284,i elseif Z<4018579 then c,Z={I},o[F(1202)]else B=F(1251)l=o[B]B=F(1201)s=l[B]Z=1709843 l=s(N,g)end end else if Z<4359078 then if 4121790>Z then Z,c=o[F(1326)],{I}elseif Z<4181738 then U=F(1266)Z=o[U]g=p(16059035,{e;W,z})U=Z(g)g=F(1255)U=o[g]g=F(1272)Z=U[g]g=.05 U=Z(g)Z=13083667 elseif 4260311>Z then Z=c and 14511911 or 11835563 else P,j,z,c=F(1303),F(1249),F(1151),F(1269)Z=o[c]i,I=F(1165),F(1307)W=o[z]z=W(Q)N=I..z I,c,W=F(1142),F(1226),5 e,c={[i]=P,[j]=N;[I]=W},Z[c]c=c(Z,e)Z=1767530 end else if Z<4436760 then z,c,g=W,U,Z Z=U and 7298684 or 104450 elseif Z<4477130 then Z=F(1259)Z=Q[Z]Z=Z(Q)Z=14844806 elseif Z<4509149 then U,g=W(z,U)Z=U and 7046014 or 13904986 else Z=c and 227494 or 5299086 end end end else if 5178616>Z then if Z>4748654 then if Z<4836128 then z,i,I,c,P=F(1151),F(1165),F(1307),F(1269),F(1263)Z=o[c]W=o[z]z=W(Q)j,W=F(1249),5 N=I..z c=F(1226)c,I=Z[c],F(1142)e={[i]=P,[j]=N;[I]=W}c=c(Z,e)Z=11524504 elseif Z<4966557 then z,j,W=F(1387),i,F(1136)W=N[W]W=W(N,z)I,Z=W,W and 2555301 or 9850403 elseif Z<5052064 then Z=F(1332)Z,c=Q[Z],F(1284)Z=Z(Q,c)J=Z Z=J and 13071369 or 11446077 else z,Z=F(1342),11202892 W=Q[z]z=F(1339)I=W[z]W,z=F(1146),nil I[W]=z end else if Z<4594649 then Z=c and 15097326 or 492100 elseif 4686836>Z then U=F(1190)z=i[U]U=F(1265)W=z[U]Z,N=399679,W elseif Z<4732258 then Z,z,c=9732815,nil,U j,U=c,nil else Z=x[D[4]]Z=Z and 13465552 or 10142696 end end else if Z>5508820 then if Z<5617412 then c,Q,Z={},nil,o[F(1361)]elseif Z<5704932 then Z,U,I,s,l,z,g=7809457,F(1185),F(1390),F(1388),F(1340),F(1165),F(1327)N=o[I]I,B=F(1292),1792693>13406158 W,I={[z]=U;[g]=s,[l]=B},N[I]I=I(N,W)j=I else i,N=P(e,i)Z=i and 12451393 or 12115745 end else if Z<5274500 then z=x[D[1]]s=1 g=e+s U=z(W,J,g)Z=U and 9804762 or 1341788 elseif 5289121>Z then c,i=F(1246),F(1166)Z=o[c]e=x[D[1]]J=e[i]e=F(1276)Q=J[e]c=Z(Q)Q,J=c,F(1297)c=Q[J]J,I=2,0 Z=c[J]J,N=Z,F(1343)j=J[N]N=1 P=j[N]j=F(1212)i=P[j]P=1 e=i[P]i=F(1290)c=e[i]e,i=1,10000 Z=c[e]c,e=F(1131),Z Z=e[c]c=F(1386)Z[c]=i i,N,j,c=10.0,0,F(1252),F(1131)Z=e[c]c=F(1253)Z[c]=i c=F(1131)Z=e[c]c=F(1210)P=o[j]j=F(1318)i=P[j]j=0 P=i(j,N,I)Z[c]=P i,c=0,F(1131)Z=e[c]c=F(1149)Z[c]=i c,j=F(1131),F(1258)Z=e[c]i,c=.1,F(1291)Z[c]=i P=J[j]j=F(1195)i=P[j]P=F(1131)c=i[P]i,j=F(1254),F(1258)Z=c[i]i,c=0,F(1323)Z[c]=i P=J[j]j=F(1195)i=P[j]P=F(1131)c=i[P]i=F(1254)Z=c[i]j,c,i=F(1258),F(1271),0 Z[c]=i P=J[j]j=F(1195)i=P[j]P=F(1131)c=i[P]i=F(1254)Z=c[i]c,i=F(1148),100 Z[c]=i j=F(1206)P=J[j]j=1 i=P[j]P=F(1290)c=i[P]i=1 Z=c[i]P,c,i=.1,F(1131),Z Z=i[c]c=F(1291)Z[c]=P c=F(1190)Z=i[c]P,c=.1,F(1169)Z[c]=P c,P=F(1286),999999 Z=J[c]c=F(1320)Z[c]=P P,c=6656957>=14698988,F(1197)Z=Q[c]c=F(1229)Z[c]=P P=F(1342)c=Q[P]P=F(1144)Z=c[P]c,P=F(1216),13703195>4981076 Z[c]=P P=F(1342)c=Q[P]P=F(1339)Z=c[P]P,c=4676716<=9375982,F(1216)Z[c]=P P=F(1342)c=Q[P]P=F(1339)Z=c[P]c,P=F(1146),.5 Z[c]=P c,Z=500,F(1192)e[Z]=c Z=6009986~=5060626 c={Z}Z=o[F(1238)]elseif Z<5360415 then c=F(1240)Z=o[c]I,W=F(1296),F(1350)N={I,W}I={Z(N)}Z,P,j,c=13006278,I[2],I[3],I[1]N=c else Z=12402084 end end end end else if 6937366>Z then if 6463961>Z then if Z<6044544 then if 5876675>Z then J=F(1351)Q=o[J]e,J=F(1227),F(1332)J=Q[J]J=J(Q,e)c,Z=J,J and 10123322 or 12736009 elseif Z<5960060 then Z,c=o[F(1369)],{}elseif 6038843>Z then W,I,N,P=F(1249),F(1135),F(1165),F(1269)Z=o[P]s,S=F(1236),F(1157)U=x[D[1]]B=x[D[2]]l=B..S g=s..l P=F(1226)z=U..g g,U=3,F(1142)j,P={[N]=I,[W]=z;[U]=g},Z[P]P=P(Z,j)Z=14005770 else i=x[D[3]]j=F(1282)P=i(j,e)Z,c=P and 9302144 or 29346,P end else if Z<6127998 then c,Q,J,Z=F(1373),u[1],F(1217),F(1312)Z=Q[Z]Z=Z(Q,c,J)c={}x[D[1]]=Z Q,Z=nil,o[F(1203)]elseif Z<6280157 then l,N,W=F(1190),{},F(1240)Z=4505354 I=o[W]s=P[l]l=F(1265)g=s[l]s={I(g)}W,U,z=s[1],s[3],s[2]elseif Z<6400354 then Z,Q=2196010,nil else I,N=500,F(1192)i[N]=I I,N=500,F(1192)P[N]=I I,N=1,F(1355)i[N]=I N,I=F(1355),1 P[N]=I I,N=2791067<331160,F(1275)i[N]=I U,N,I=F(1343),F(1275),1048361>2397793 P[N]=I z=J[U]U=1 W=z[U]U,z=F(1343),F(1212)I=W[z]W=1 N=I[W]I,W=F(1371),3934739<=6527759 N[I]=W z=J[U]U=2 W=z[U]z=F(1212)I=W[z]W=1 N=I[W]I,z,W=F(1371),F(1131),1877624~=7512517 N[I]=W W=i[z]z=F(1386)I=W[z]N=not I Z=N and 180650 or 3377803 end end else if 6733514>Z then if Z<6497827 then Z,W,z=7194438,F(1136),F(1281)W=N[W]W=W(N,z)c=W elseif 6559574>Z then Q=u[1]Z=not Q Z=Z and 8770336 or 3380183 elseif Z<6626457 then I,g,Z=nil,nil,10838316 else c,Z=F(1217),F(1217)x[D[1]]=Z x[D[2]]=c Q=14118364<1921302 x[D[3]]=Q e=F(1269)J=o[e]Z=J and 2138490 or 15546325 end else if Z<6827777 then e=x[D[1]]Z=F(1270)J[Z]=e Z=nil x[D[1]]=Z Z=15284320 elseif Z<6875233 then Z,i=o[F(1188)],F(1228)e=x[D[2]]c=F(1270)J[c]=e e=o[i]i=F(1318)c=e[i]i=F(1387)e=c(i)N=F(1375)c=F(1225)j=o[N]N=F(1225)P=j[N]j=F(1322)i=P[j]e[c]=i c=F(1372)i=x[D[3]]j=F(1252)e[c]=i c=F(1301)P=o[j]j,I=F(1318),1 i=P[j]j,N=1,1 P=i(j,N,I)Q=nil e[c]=P c,i=F(1171),J e[c]=i c,e,J={},nil,nil else P,N=e(i,P)Z=P and 1776587 or 6837794 end end end else if 7488359>Z then if Z<7198087 then if 7004036>Z then Y,A=F(1332),Z Y,n=M[Y],F(1366)Y=Y(M,n)Z,n=Y and 15720533 or 15553392,Y elseif 7066433>Z then l,I=F(1339),U s=g~=l Z=s and 4081435 or 1709843 elseif Z<7140645 then Q,e,J=u[1],F(1156),F(1332)J=Q[J]J=J(Q,e)c,Z=J,J and 801722 or 14718074 else Z=I Z=c and 11237035 or 7201736 end else if 7250210>Z then Z,j,N=6912673,nil,nil elseif 7371528>Z then r,l=F(1165),Z S=U[r]r=F(1185)B=S==r s,Z=B,B and 10976402 or 11223682 elseif 7459968>Z then J=K(16240630,{D[1]})c=F(1266)Z=o[c]e={Z(J)}c,Q=e[1],e[2]J=c Z=J and 16369790 or 4293542 else c=F(1266)J=K(51719,{D[1]})Z=o[c]e={Z(J)}c=e[1]J,Q=c,e[2]Z=J and 13454463 or 14716765 end end else if Z>7770667 then if Z<7795724 then Z=x[D[2]]Z=Z and 1015010 or 13079000 elseif 7820347>Z then z,l,U=F(1165),F(1392),F(1335)H=q()B,g,s=2898939>=11071309,F(1122),F(1168)W={[z]=U;[g]=s;[l]=B}s,N,U=F(1143),F(1347),F(1165)N=j[N]a=q()N=N(j,W)B=F(1331)S=L(7727142,{P})g=F(1287)W,l=F(1120),F(1134)W,z=N[W],{[U]=g,[s]=l;[B]=S}B,s=F(1331),F(1143)W=W(N,z)l=F(1309)S=K(7444372,{P})C,W=50,F(1120)W,g,U=N[W],F(1262),F(1165)z={[U]=g,[s]=l;[B]=S}B,s=F(1331),F(1143)S=k(7475564,{P})U,g,l=F(1165),F(1384),F(1214)W=W(N,z)W=F(1120)W,z=N[W],{[U]=g,[s]=l,[B]=S}S=k(1139965,{P})B=F(1331)W=W(N,z)U,W,l,r,s,Y,g=F(1165),F(1120),F(1158),F(1376),F(1143),F(1183),F(1170)W,z=N[W],{[U]=g,[s]=l;[B]=S}W=W(N,z)z,S,B,l,s,g=F(1133),3058197>6999079,F(1392),F(1168),F(1122),F(1325)W=o[z]U=F(1234)z=W(U)U,W=F(1165),F(1347)z={[U]=g,[s]=l;[B]=S}s,W,U=F(1199),j[W],F(1145)W=W(j,z)g=F(1267)z=o[U]U=F(1377)U=z[U]U=U(z,g)g=F(1145)z=o[g]g=F(1377)g=z[g]g=g(z,s)l=q()s=F(1302)z=U[s]s=q()B=q()x[s]=z d,z=50,F(1336)x[l]=z z=F(1367)x[B]=z S=o[r]r=F(1205)G=k(6515503,{l})z=S[r]r=50 S=z(r,d,C)r=q()z=q()C=q()x[z]=S S=14050657<=12685544 x[r]=S S=5569832<4003600 d=q()x[d]=S S=nil x[C]=S S=q()x[S]=G M=V(8898407,{s;r;S,d,H})m=L(7831238,{C,z;B})x[H]=m G=k(13995843,{})x[a]=M m=V(7086853,{C})M=F(1332)M=g[M]M=M(g,Y)Z=M and 6962059 or 9488156 else e,J,Q=F(1156),F(1332),u[1]J=Q[J]J=J(Q,e)Z,c=J and 3104940 or 2803036,J end else if Z<7526945 then Z=nil c={Z}Z=o[F(1365)]elseif 7639939>Z then W,N=Z,i Z,I=e and 1669705 or 14083493,e elseif 7743243>Z then c=F(1266)J=p(5279157,{D[1]})Z=o[c]e={Z(J)}Q,c=e[2],e[1]J=c Z=J and 11787248 or 16769342 else Z,P=4512945,not i c=P end end end end end else if Z<1383438 then if 634825>Z then if Z<204072 then if Z<105858 then if Z<40532 then Z=9302144 i=x[D[3]]j=F(1338)P=i(j,e)c=P elseif 63260>Z then c,I,i=F(1246),F(1297),F(1166)Z=o[c]e=x[D[1]]J=e[i]e=F(1243)Q=J[e]c=Z(Q)Q=c c,Z=8026713>=11830663,F(1174)Q[Z]=c N=Q[I]I=1 j=N[I]N=F(1343)P=j[N]j=1 i=P[j]P=F(1212)e=i[P]i=1 J=e[i]e=F(1290)c=J[e]i,J=0,1 Z=c[J]e=F(1243)c,J,N={e;i},Z,F(1297)Z,e=F(1334),.1 J[Z]=c c=F(1131)Z=J[c]c=F(1291)Z[c]=e c,e=F(1131),200 Z=J[c]c=F(1344)Z[c]=e j=Q[N]N=1 P=j[N]j=F(1343)i=P[j]P=1 e=i[P]i=F(1212)c=e[i]e=1 Z=c[e]c,e=F(1371),2920250~=11470801 Z[c]=e c,e=F(1131),999 Z=J[c]c,I,N=F(1218),F(1297),F(1297)Z[c]=e e,c=100,F(1131)Z=J[c]c=F(1164)Z[c]=e c=F(1131)Z=J[c]e,c=60,F(1130)Z[c]=e j=Q[N]N=1 P=j[N]j=F(1206)i=P[j]P=1 e=i[P]i=F(1290)c=e[i]e=1 Z=c[e]e=Z N=Q[I]I=1 j=N[I]N=F(1206)P=j[N]j=2 i=P[j]I,P=.7,F(1290)c=i[P]i=1 Z=c[i]i,P,c=Z,.1,F(1131)Z=e[c]c=F(1291)Z[c]=P c=F(1131)Z=i[c]c,P=F(1291),.1 Z[c]=P N,Z,c=F(1376),F(1192),500 J[Z]=c P,Z,c,W=8639482>=10844522,F(1190),{},.7 J[Z]=c c=F(1209)Z=Q[c]c=F(1324)Z[c]=P c=F(1131)Z=J[c]c,P=F(1341),.9 Z[c]=P c=F(1131)Z=J[c]j=o[N]N,c=F(1318),F(1270)P=j[N]N=.7 j=P(N,I,W)P=20 Z[c]=j c=F(1131)Z=J[c]c=F(1278)Z[c]=P c,P=F(1190),nil Z=J[c]c,N=F(1141),20 Z[c]=P c=F(1131)Z=J[c]c,j,I,P=F(1291),2,F(1183),.05 Z[c]=P c=F(1304)Z=Q[c]c,P=F(1137),F(1247)Z[c]=P P,c=0,1 Z={[c]=P;[j]=N}P=Z N=x[D[1]]j=N[I]N=F(1385)c=j[N]N,j=F(1222),F(1381)Z=c[j]j=o[N]N={j(P)}c=F(1379)c=Z[c]c=c(Z,f(N))Z=12715027>=1094408 c={Z}Z=o[F(1364)]elseif 89625>Z then j,W=i,F(1285)I=N[W]W=x[D[1]]Z=I==W Z=Z and 10760983 or 14051739 else Z=g Z=c and 4723091 or 11454081 end else if 126493>Z then e=F(1240)c=o[e]N=F(1233)N=J[N]j={N(J)}Z=6912673 N={c(f(j))}i,e,P=N[2],N[1],N[3]elseif Z<154627 then c,Q,J,Z={},nil,nil,o[F(1219)]elseif 172092>Z then I=j Z=q()x[Z]=W W=Z z=x[W]Z=F(1332)Z=i[Z]Z=Z(i,z)z=q()x[z]=Z Z=x[z]Z=Z and 4136396 or 13083667 else W,I=5000,F(1131)N=i[I]I=F(1386)N[I]=W I=F(1131)N=P[I]I,W,Z=F(1386),5000,3377803 N[I]=W end end else if Z<480980 then if Z<277825 then W,c=F(1250),F(1175)Z=o[c]j=F(1173)I=W..J N=Q..I P=j..N c=Z(P)Z=6477255>=16127636 c={Z}Z=o[F(1293)]elseif 363917>Z then c=F(1191)J=k(16115931,{D[1],D[2]})Z=Q[c]Q,c=nil,F(1127)c=Z[c]c=c(Z,J)Z=5882903 elseif 434770>Z then Z=I Z=N and 2848933 or 3430465 else U=F(1190)z=P[U]U,Z=F(1265),14428446 W=z[U]N=W end else if Z<521109 then Q=x[D[1]]c=F(1374)Z=c..Q J=x[D[2]]Q,c=Z,F(1374)Z=c..J J=Z Z=nil e=Z Z=x[D[3]]Z=Z and 8895810 or 3837564 elseif Z<585659 then W,Z,P=nil,2964060,nil elseif Z<622532 then i=x[D[1]]P=x[D[2]]e=i==P Z,Q=8611475,e else Q,J=u[1],u[2]Z=x[D[1]]c=Z(Q)e=c Z=x[D[1]]c=Z(J)i,P=c,not e Z,c=P and 760384 or 15668855,P end end end else if 1042648>Z then if 778839>Z then if 673825>Z then Z=F(1259)Z=N[Z]Z=Z(N)Z=12505041 elseif Z<704562 then c=F(1240)Z=o[c]j=F(1233)j=Q[j]P={j(Q)}j={Z(f(P))}Z,c=15969250,j[1]P,i,e=c,j[3],j[2]elseif Z<733821 then B=F(1251)l=o[B]B=F(1201)s=l[B]l=s(N,g)Z=6603646 else Z=c and 1226610 or 3460373 end else if Z<799508 then P=F(1330)Z=o[P]W=F(1233)W=i[W]I={W(i)}W={Z(f(I))}Z,P,j,N=13502581,W[1],W[2],W[3]elseif Z<883096 then J=c Z=not J Z=Z and 2123907 or 2481804 elseif Z<989740 then P=F(1269)Z=o[P]Z=Z and 6037217 or 14005770 else Z=x[D[3]]i=F(1332)J=x[D[1]]e=F(1385)Q=J[e]i,e=Q[i],F(1235)J={i(Q,e)}c=Z(f(J))Z=13079000 end end else if Z>1274532 then if Z<1327062 then Q,c=u,F(1145)Z=o[c]c,J=F(1377),F(1267)c=Z[c]c=c(Z,J)J=c c,P=F(1314),F(1199)Z=o[c]c,I,e=F(1302),F(1230),Z Z=J[c]c,i=F(1145),Z Z=o[c]c=F(1377)c=Z[c]c=c(Z,P)P=q()x[P]=c N=o[I]Z=nil j,c=Z,N Z=N and 9858467 or 4227081 elseif 1336729>Z then e=F(1351)J=o[e]e=F(1227)Q=J[e]e,J=F(1267),F(1332)J,Z=Q[J],13851451 J=J(Q,e)c=J else U,Z=nil,550119 end else if 1105125>Z then Z=x[D[1]]Z=Z and 6817760 or 15284320 elseif 1150526>Z then J=w(12546816,{D[1]})c=F(1266)Z=o[c]e={Z(J)}Q,c=e[2],e[1]J=c Z=J and 2658694 or 4755883 elseif 1193849>Z then W,U=N(I,W)Z=W and 4424615 or 9732815 else c=F(1175)Z=o[c]W=F(1250)I=W..J j=F(1173)N=Q..I P=j..N c=Z(P)Z=1523647<=373284 c={Z}Z=o[F(1181)]end end end end else if Z>2587677 then if 2939315>Z then if Z>2752551 then if 2825984>Z then J=F(1332)J,e=Q[J],F(1352)J=J(Q,e)Z,c=3104940,J elseif Z<2852504 then l,N=F(1190),{}W,Z=F(1240),10838316 I=o[W]s=i[l]l=F(1265)g=s[l]s={I(g)}z,U,W=s[2],s[3],s[1]elseif Z<2896114 then Z,i=o[F(1389)],nil c={i}else c,Z={J},o[F(1311)]end else if Z<2639373 then J,e=F(1351),F(1227)Q=o[J]J=F(1332)J=Q[J]J=J(Q,e)c,Z=J,J and 1331670 or 13851451 elseif 2661755>Z then i,c,W,N,I=F(1165),F(1269),6,F(1189),F(1142)Z=o[c]j,P,c=F(1249),F(1170),F(1226)e,c={[i]=P;[j]=N;[I]=W},Z[c]c=c(Z,e)Z=11524504 elseif 2683441>Z then Z=x[D[3]]i,P=F(1235),F(1332)P=J[P]e={P(J,i)}c=Z(f(e))Z=4741425 else Z=N Z=c and 14922843 or 11606789 end end else if 3251135>Z then if Z<2953269 then Z,c=o[F(1295)],{e}elseif 3034500>Z then I,W=j(N,I)Z=I and 16289531 or 15604988 elseif Z<3154887 then J=c Z=not J Z=Z and 8842231 or 9392228 else J,e,i,P,Q=u[2],u[3],0,6,u[1]c=e or i e=c i=e>P Z=i and 2856076 or 11654833 end else if Z<3318426 then c=x[D[1]]Q=u[1]Z=c[Q]Z=Z and 14866915 or 16574629 elseif Z<3358610 then c=F(1270)Z=J[c]x[D[1]]=Z Z=107266 else W=F(1297)I=Q[W]W=1 N=I[W]s=F(1206)g=N[s]s=1 U=g[s]g,s=F(1290),F(1206)z=U[g]U=1 W=z[U]z=F(1131)I=W[z]z,W=.1,F(1291)I[W]=z g=N[s]s=2 U=g[s]g=F(1290)z=U[g]U=1 W=z[U]z=F(1131)I=W[z]W,z=F(1291),.1 I[W]=z z=F(1342)W=Q[z]z=F(1144)I=W[z]z,U,W=8617078<=13886032,F(1342),F(1216)I[W]=z z,W=9248375~=5499067,F(1197)I=Q[W]W=F(1229)I[W]=z W=F(1197)I=Q[W]W,z=F(1337),6601954~=1857228 I[W]=z W=F(1197)I=Q[W]z,W=710212~=6123974,F(1354)I[W]=z z,W=F(1328),F(1209)I=Q[W]W=F(1193)I[W]=z W,z=F(1209),13294655>2504051 I=Q[W]W=F(1139)I[W]=z z=Q[U]U=F(1339)W=z[U]z=F(1146)I=W[z]Z=I and 5087388 or 11202892 end end end else if Z>1772058 then if Z>2143826 then if 2172586>Z then Z,c=o[F(1245)],{J}elseif 2338907>Z then Q=F(1255)c=o[Q]Q=F(1272)Z=c[Q]Q=1 c=Z(Q)Z=c and 5870447 or 5882903 elseif 2518552>Z then c=F(1240)Z=o[c]j=F(1233)j=J[j]P={j(J)}j={Z(f(P))}Z,c,e=12195307,j[1],j[2]P,i=c,j[3]else Z=I and 645785 or 12505041 end else if 1908270>Z then W,z=F(1136),F(1387)W,I=N[W],Z W=W(N,z)c,Z,j=W,W and 7194438 or 6480151,P elseif 2081930>Z then P,z=F(1286),F(1343)i=J[P]j,U,P=999999,F(1343),F(1320)i[P]=j W=J[z]z=1 I=W[z]W=F(1212)N=I[W]I=1 j=N[I]N=F(1290)P=j[N]j=1 i=P[j]z=J[U]U=2 W=z[U]z=F(1212)I=W[z]W=1 N=I[W]I=F(1290)j=N[I]N,I=1,999999 P=j[N]z,N=F(1258),F(1131)j=i[N]N=F(1359)j[N]=I N=F(1131)j=P[N]I,N=999999,F(1359)j[N]=I N=F(1131)j=i[N]I,N=0,F(1149)j[N]=I N=F(1131)j=P[N]I,N=0,F(1149)j[N]=I W=J[z]z=F(1152)I=W[z]W=F(1131)N=I[W]I,g=F(1254),F(1297)j=N[I]I,z,N=0,F(1258),F(1323)j[N]=I W=J[z]z=F(1152)I=W[z]W=F(1131)N=I[W]z,I=F(1258),F(1254)j=N[I]N,I=F(1271),0 j[N]=I W=J[z]z=F(1152)I=W[z]W=F(1131)N=I[W]I=F(1254)j=N[I]I,N=100,F(1148)j[N]=I N=F(1131)j=i[N]N,I=F(1291),.1 j[N]=I N,I=F(1131),.1 j=P[N]N=F(1291)j[N]=I N,j={},F(1190)i[j]=N j,I,N=F(1190),F(1342),{}P[j]=N j,N=F(1221),{}i[j]=N N,j={},F(1221)P[j]=N N=Q[I]I=F(1339)j=N[I]I,N=16676525<=8962147,F(1216)j[N]=I U=Q[g]g=1 z=U[g]U=F(1206)W=z[U]z=2 I=W[z]z,W=F(1190),F(1290)N=I[W]I=1 j=N[I]I={}N=F(1190)j[N]=I W=i[z]I=Z Z,N=W and 4650581 or 399679,W elseif Z<2131198 then Z,c=o[F(1244)],{}else j,W,I,e,P,Z,N=F(1223),F(1142),F(1305),F(1269),F(1165),15546325,F(1249)J=o[e]e=F(1226)e,z=J[e],2 i={[P]=j,[N]=I;[W]=z}e=e(J,i)end end else if Z>1621844 then if 1666736>Z then Q=u[1]Z=Q Q=nil x[D[1]]=Z c=x[D[2]]Z=o[F(1177)]J=c()c={}elseif Z<1689774 then z=F(1332)z=e[z]z=z(e,N)Z,I=14083493,z elseif 1738686>Z then Z,g,I=4505354,nil,nil else Q,J,Z,c=nil,nil,o[F(1196)],{}end else if Z<1468768 then j,W=N(P,j)Z=j and 9191093 or 797295 elseif 1516970>Z then Z,J=11920057,nil elseif 1550706>Z then J,Q,Z,c=nil,nil,o[F(1356)],{}else Z=626540<=2873464 c={Z}Z=o[F(1257)]end end end end end end else if 12641412>Z then if Z<10743903 then if 9161083>Z then if 8800080>Z then if Z<8266831 then if 8116711>Z then Q=u[1]Z=Q Q=nil x[D[1]]=Z c=x[D[2]]J=c()Z,c=o[F(1184)],{}elseif 8196913>Z then Q=u[1]Z,c=Q,{}Q=nil x[D[1]]=Z Z=o[F(1167)]elseif Z<8219361 then c=J Z=x[D[1]]Z[Q]=c Z=2149163 else Q,c,J,Z=nil,{},nil,o[F(1194)]end else if 8458997>Z then Z=x[D[2]]Z=Z and 2664816 or 4741425 elseif Z<8652472 then Z,c=J,Q Z=4538718 elseif 8731903>Z then J,P,j=u[2],F(1124),F(1357)j,Q=J[j],u[1]j={j(J,P)}c,Z,e=j[2],j[1],Q P,i=Z,j[3]j,Z=c,8889104 else c,Z={},o[F(1211)]end end else if Z<8897108 then if 8836027>Z then Z=2196010 elseif 8865667>Z then c,Z={},o[F(1319)]elseif Z<8892457 then i=P(j,i)Z=i and 7552737 or 2942478 else Z=x[D[4]]c=Z(Q,J)Z,e=10777284,c end else if Z<8914239 then c=x[D[1]]Q=F(1385)Z=c[Q]Z=Z and 7781991 or 2620053 elseif Z<8959871 then Z=I and 13071054 or 15765640 elseif 9060372>Z then Z,c=o[F(1256)],{}else c,Z={i},o[F(1121)]end end end else if Z<9827582 then if 9440192>Z then if Z<9246618 then I,Z=j,F(1259)Z,I=W[Z],nil Z=Z(W)W,Z=nil,1425088 elseif Z<9313458 then Z,c=o[F(1208)],{c}elseif Z<9358500 then J=F(1255)c=o[J]J=F(1272)Z=c[J]J=.2 c=Z(J)Z=x[D[2]]c=Z()Z=5595896 else c=x[D[1]]Z=not c Z=Z and 3339417 or 107266 end else if 9573559>Z then A,ou=F(1255),F(1331)Fu=K(1663768,{r;a})n=o[A]l=y(l)t,A=F(1315),F(1383)Y=n[A]A=V(8829824,{s,a})J,c,xu=nil,{},F(1392)n=Y(A)T,Y,R=3802890>5095934,F(1349),F(1160)Y,O,X,A=W[Y],F(1346),F(1232),F(1165)n={[A]=t;[R]=X,[O]=T,[ou]=Fu}O,A,R,m,vu,Qu,t=F(1346),F(1165),F(1160),nil,F(1122),15997783<=8149091,F(1231)Fu=K(8051174,{d,a})Y=Y(W,n)Y,X,T,ou=F(1349),F(1126),14698169<=4694313,F(1331)Y,Pu,n=W[Y],F(1346),{[A]=t,[R]=X,[O]=T,[ou]=Fu}Y=Y(W,n)n,t=F(1145),F(1199)Y=o[n]r=y(r)R,n=F(1302),F(1377)n=Y[n]X=L(8693470,{})A=F(1267)n=n(Y,A)C=y(C)A=F(1145)Y=o[A]A=F(1377)A=Y[A]A=A(Y,t)Y=q()x[Y]=A t=n[R]Fu=q()R=q()t=nil x[R]=X cu=F(1168)X=q()a=y(a)T=b(16441417,{Y;X})O=E(3204835,{X})x[X]=O O=q()x[O]=T T=q()ou=E(13219303,{R,Y,O})x[T]=ou Du,ou=F(1165),{}x[Fu]=ou ou=q()hu=F(1370)d=y(d)W=nil Zu=L(3297436,{Fu;T})eu,qu=F(1329),{[Du]=hu;[vu]=cu;[xu]=Qu}fu=E(623865,{ou})cu=F(1249)x[ou]=Zu uu=b(15702318,{R,Y})Lu=F(1331)Zu=q()x[Zu]=fu fu=q()vu,xu,hu=F(1239),F(1200),F(1165)x[fu]=uu uu=F(1347)uu=j[uu]uu=uu(j,qu)Qu,Du=F(1155),{[hu]=vu,[cu]=xu}xu=F(1165)M,iu,qu=nil,F(1268),F(1132)qu=uu[qu]qu=qu(uu,Du)Du,qu,yu=F(1217),F(1147),F(1277)vu=q()hu=q()qu=uu[qu]qu=qu(uu)z=y(z)qu=F(1248)qu,Ju=uu[qu],F(1160)Y=y(Y)qu=qu(uu)qu=F(1217)x[hu]=qu qu=q()x[qu]=Du Du=7042610<3218318 X=y(X)x[vu]=Du Ku=L(10588493,{hu})B=y(B)Du=F(1360)pu=x[hu]Du,cu=uu[Du],{[xu]=Qu;[Ju]=eu,[iu]=yu,[Pu]=pu,[Lu]=Ku}xu,Qu=F(1165),F(1207)T=y(T)eu,yu,A,Ju,iu,Pu=F(1273),F(1353),nil,F(1160),F(1268),F(1346)H=y(H)Lu=F(1331)Fu=y(Fu)O=y(O)Ku=E(6048620,{qu})Du=Du(uu,cu)pu=x[qu]Du,cu=F(1360),{[xu]=Qu;[Ju]=eu,[iu]=yu;[Pu]=pu;[Lu]=Ku}ou=y(ou)iu,Ju,Qu,eu=F(1143),F(1160),F(1382),F(1298)Ku=L(8182249,{vu})Du=uu[Du]Du=Du(uu,cu)xu,e,Lu,i,Pu,yu,pu=F(1165),nil,F(1331),nil,F(1346),F(1261),14199181<=12442903 cu={[xu]=Qu,[Ju]=eu,[iu]=yu,[Pu]=pu;[Lu]=Ku}R=y(R)Du,N=F(1349),nil Du,eu,xu=uu[Du],F(1213),F(1165)Du=Du(uu,cu)Qu,Du=F(1345),F(1147)S=y(S)yu=V(16102354,{hu;qu;vu,fu;Zu})Ju=F(1327)fu=y(fu)g,n=nil,nil s=y(s)Du,iu,Z=uu[Du],F(1331),o[F(1280)]Du=Du(uu)cu,Du={[xu]=Qu;[Ju]=eu;[iu]=yu},F(1120)iu,xu,Du=F(1331),F(1165),uu[Du]Zu=y(Zu)Qu,G,eu,U,Ju=F(1237),nil,F(1279),nil,F(1327)yu=L(6649269,{hu;qu;vu})j=nil hu=y(hu)Du=Du(uu,cu)qu=y(qu)Du=F(1120)Du,cu=uu[Du],{[xu]=Qu,[Ju]=eu,[iu]=yu}Du=Du(uu,cu)uu=nil vu=y(vu)cu=F(1133)P=y(P)Du=o[cu]xu=F(1224)cu=Du(xu)elseif 9695889>Z then z=1 Z=x[D[4]]W=J+z I=Z(N,W)Z=I and 3955724 or 14235696 elseif 9768788>Z then Z=11606789 else c,Z={U},o[F(1299)]end end else if Z>10174602 then if Z<10397501 then c,Z={},o[F(1180)]elseif 10657658>Z then c,Q,Z,J=F(1373),u[1],F(1312),F(1217)Z=Q[Z]Z=Z(Q,c,J)x[D[1]]=Z c,Z,Q={},o[F(1182)],nil else J,Q,c=u[2],u[1],10 Z=J>c Z=Z and 14281856 or 701866 end else if Z<9854435 then W,z=F(1136),F(1281)W=N[W]W=W(N,z)I,Z=W,2555301 elseif 9990894>Z then W=F(1230)I=o[W]Z,W=4227081,F(1185)N=I[W]c=N elseif Z<10133009 then e,Z=F(1351),12736009 J=o[e]e=F(1227)Q=J[e]e,J=F(1267),F(1332)J=Q[J]J=J(Q,e)c=J else Z=1512449 end end end end else if 11712739>Z then if Z>11230358 then if Z<11489292 then if Z<11333397 then Z,c=7201736,F(1259)c=N[c]c=c(N)elseif Z<11437918 then s,Z=B,S Z=10976402 elseif 11450079>Z then c,Z=0,F(1306)Q[Z]=c c,Z=14124148<15951139,F(1162)Q[Z]=c Z,J,Q,c=o[F(1310)],nil,nil,{}else z,Z,U=nil,1161088,nil end else if Z<11565646 then Z,c,J,Q=o[F(1204)],{},nil,nil elseif 11627272>Z then N=not j Z=N and 5638929 or 7809457 elseif Z<11651294 then P=F(1269)Z=o[P]Z=Z and 3832697 or 5421744 else i=F(1332)i=Q[i]i=i(Q,J)Z=i and 9131074 or 12072027 end end else if 10994196>Z then if Z<10769133 then Z=x[D[2]]W=x[D[3]]I=Z(N,W)Z=I and 4107184 or 14986031 elseif Z<10807800 then Z=e and 964470 or 11647756 elseif 10907359>Z then U,g=W(z,U)Z=U and 13570050 or 14265665 else Z,c=l,s Z=104450 end else if 11106653>Z then A=F(1153)n=Y[A]A=F(1127)A=n[A]t=w(12034746,{a})A=A(n,t)A,t=F(1133),F(1363)n=o[A]Z=13844499 A=n(t)elseif 11202104>Z then i=x[D[2]]P,J=F(1217),Z e=i==P Q,Z=e,e and 8611475 or 621199 elseif 11213287>Z then I,Z=14646330>10270449,o[F(1288)]c={I}else C,S=F(1165),Z d=U[C]C=F(1159)r=d==C B,Z=r,r and 11429760 or 14016119 end end end else if 12167026>Z then if Z>11977401 then if 12053386>Z then Q=F(1255)c=o[Q]Q=F(1272)Z=c[Q]Q=.1 c=Z(Q)Z=x[D[1]]c=Z()Z,c=o[F(1333)],{}elseif Z<12093886 then z=F(1233)z,Z,j=Q[z],2964060,F(1240)P=o[j]W={z(Q)}z={P(f(W))}N,I,j=z[2],z[3],z[1]elseif Z<12127245 then e=not J Z=e and 15757588 or 2039953 else P,N,J,e,i,j,c=F(1128),3,F(1165),F(1241),F(1249),F(1142),F(1269)Z=o[c]c=F(1226)c,Q=Z[c],{[J]=e,[i]=P;[j]=N}c=c(Z,Q)Z=8989671 end else if 11778946>Z then Z=nil c={Z}Z=o[F(1391)]elseif 11811405>Z then c,N,i,P,j,I,W=F(1269),F(1179),F(1165),F(1276),F(1249),F(1142),5 Z=o[c]e,c={[i]=P,[j]=N;[I]=W},F(1226)c=Z[c]c=c(Z,e)Z=8227144 elseif 11877810>Z then N,W=Z,F(1390)I=o[W]Z,c=I and 14130303 or 2702067,I else c,Z,Q={},o[F(1220)],nil end end else if Z<12478217 then if Z<12286795 then i,N=P(e,i)Z=i and 4916374 or 1070286 elseif Z<12390184 then g=F(1286)U=N[g]g=F(1321)z=U[g]U=F(1274)W=z==U I,Z=W,8930072 elseif 12426738>Z then e,J,Z,Q,c=nil,nil,o[F(1163)],nil,{}else z,j=F(1286),i W=N[z]Z,I=W and 12378284 or 8930072,W end else if Z<12523382 then N,j,Z=nil,nil,12195307 elseif 12544269>Z then c=F(1332)c,e=Q[c],F(1284)c=c(Q,e)Z=not c Z=Z and 14509166 or 145720 else i,c=F(1166),F(1246)Z=o[c]e=x[D[1]]J=e[i]e=F(1125)Q=J[e]c=Z(Q)J,Q=F(1297),c c=Q[J]J,N=1,F(1343)Z=c[J]J=Z j=J[N]I,N=F(1343),1 P=j[N]j=F(1212)i=P[j]P=2 e=i[P]i=F(1290)c=e[i]e=1 Z=c[e]e,c=Z,F(1131)Z=e[c]c,i=F(1291),.05 Z[c]=i c=F(1131)Z=e[c]c,i=F(1161),0 Z[c]=i c,i=F(1131),5 Z=e[c]c=F(1178)Z[c]=i c=F(1131)Z=e[c]c,i=F(1187),5 Z[c]=i Z,c=F(1190),{}e[Z]=c Z,c=F(1221),{}e[Z]=c N=J[I]I=1 j=N[I]N=F(1212)P=j[N]j=1 i=P[j]P=F(1290)c=i[P]i=1 Z=c[i]c,i,P=F(1131),Z,.05 Z=i[c]c=F(1291)Z[c]=P c,P=F(1131),0 Z=i[c]c=F(1161)Z[c]=P P,c,W,N=5,F(1131),F(1206),F(1206)Z=i[c]c=F(1178)Z[c]=P Z,c=F(1190),{}i[Z]=c j=J[N]N=2 P=j[N]j=F(1290)c=P[j]P=1 Z=c[P]c,P=F(1131),Z Z=P[c]j,c,I=.1,F(1291),F(1206)Z[c]=j c=F(1131)Z=P[c]c,j=F(1215),999 Z[c]=j c,j=F(1131),0 Z=P[c]c=F(1359)Z[c]=j Z,c=F(1190),{}P[Z]=c N=J[I]I=1 j=N[I]N=F(1290)c=j[N]j=1 Z=c[j]c,j=F(1131),Z Z=j[c]c,N=F(1291),.1 Z[c]=N N,c=0,F(1131)Z=j[c]c=F(1186)Z[c]=N c,N=F(1131),0 Z=j[c]c=F(1359)Z[c]=N Z,c,z=F(1190),{},F(1206)j[Z]=c I=J[W]W=3 N=I[W]I=F(1290)c=N[I]N=1 Z=c[N]N=Z W=J[z]z=4 I=W[z]W=F(1290)c=I[W]I=1 Z=c[I]c,I,W=F(1131),Z,.1 Z=N[c]c=F(1291)Z[c]=W c=F(1131)Z=I[c]W,c=.1,F(1291)Z[c]=W W,Z,c=F(1342),F(1190),{}I[Z]=c c=Q[W]W=F(1339)Z=c[W]c,W=F(1216),16286544<9569888 Z[c]=W W=F(1342)c=Q[W]W=F(1144)Z=c[W]W,c=14445942~=15953214,F(1216)Z[c]=W Z=2679240~=8191446 c={Z}Z=o[F(1264)]end end end end end else if 14781440>Z then if Z<13950414 then if 13340060>Z then if 13075184>Z then if Z<12871143 then Q=c Z=Q and 328156 or 6352937 elseif 13038666>Z then j,W=N(P,j)Z=j and 163534 or 1579920 elseif 13071211>Z then Z,j=N,nil N,J=nil,Z Z=12115745 else Z=F(1259)Z=J[Z]Z=Z(J)Z=11446077 end else if Z<13081333 then Z=x[D[4]]Z=Z and 15518908 or 15940393 elseif 13151485>Z then W=y(W)Z,I=13006278,nil z=y(z)elseif 13222480>Z then Q=u[1]Z=x[D[1]]J=x[D[2]]c=Z(J,Q)J=c Z=J and 2936153 or 13753688 else Z=7244243~=5197859 c={Z}Z=o[F(1129)]end end else if Z<13661869 then if 13460007>Z then c,W,j,i,N,I=F(1269),6,F(1249),F(1165),F(1119),F(1142)Z=o[c]c,P=F(1226),F(1384)e,c={[i]=P,[j]=N,[I]=W},Z[c]c=c(Z,e)Z=1521492 elseif Z<13484066 then Z=x[D[5]]c=Z(J)Z=10142696 elseif Z<13536315 then N,W=P(j,N)Z=N and 15020848 or 13225657 else l,I=F(1339),U s=g~=l Z=s and 707258 or 6603646 end else if 13799093>Z then c,Z=F(1294),F(1242)Z=Q[Z]Z=Z(Q,c)e=Z Z=not e Z=Z and 11770645 or 6040469 elseif 13847975>Z then Y,Z=nil,9488156 elseif Z<13878218 then Q=c Z=Q and 3444743 or 11920057 else Z,W=6447772,F(1190)I=P[W]z=N N,W=nil,F(1265)I[W]=z end end end else if Z<14265928 then if 14067616>Z then if 14000806>Z then Q=u[1]Z=not Q Z=Z and 10206509 or 5016740 elseif Z<14010944 then Z=12402084 elseif 14033929>Z then C=F(1165)d=U[C]C=F(1308)r=d==C B,Z=r,11429760 else Z,I=F(1136),F(1260)Z=N[Z]Z=Z(N,I)Z=Z and 9658963 or 16497644 end else if Z<14106898 then Z,e=W,I Z,N=8889104,nil elseif Z<14182999 then Z,z=2702067,F(1390)W=o[z]z=F(1230)I=W[z]c=I elseif Z<14250680 then Z,I=16497644,nil else W=F(1190)I=i[W]Z,z,W=3430465,N,F(1265)I[W]=z N=nil end end else if 14510538>Z then if 14274023>Z then P=0 i=q()Z=V(10726824,{Q;D[2],J;i})x[i]=Z Z=x[i]c={Z(e,P)}c,Z={f(c)},o[F(1283)]elseif Z<14355151 then Z=nil c={Z}Z=o[F(1316)]elseif 14468806>Z then Z=I Z=N and 6207377 or 6447772 else e,j=F(1228),F(1375)c=o[e]e=F(1318)Z=c[e]e=F(1387)c=Z(e)e=c c,Z,N=F(1284),F(1285),.001 e[Z]=c Z=F(1225)P=o[j]j=F(1225)i=P[j]P=F(1322)c=i[P]e[Z]=c Z=F(1372)c=x[D[1]]P=F(1252)e[Z]=c i=o[P]P=F(1318)c=i[P]Z,P,j=F(1301),.001,.001 i=c(P,j,N)e[Z]=i c,Z=Q,F(1171)e[Z]=c e,Z=nil,145720 end else if Z<14614338 then N=F(1230)c=o[N]N=F(1185)Z=c[N]j=Z Z=11606789 elseif 14717419>Z then P,z,j,i,c=F(1368),F(1151),F(1249),F(1165),F(1269)Z=o[c]W=o[z]z=W(Q)I=F(1307)N=I..z I,c,W=F(1142),F(1226),5 e,c={[i]=P;[j]=N;[I]=W},Z[c]c=c(Z,e)Z=1521492 else J=F(1332)J,e,Z=Q[J],F(1352),801722 J=J(Q,e)c=J end end end end else if Z<15761614 then if 15532616>Z then if 15003439>Z then if 14855860>Z then Q,J=nil,F(1255)c=o[J]J=F(1272)Z=c[J]J=.05 c=Z(J)Z=x[D[3]]c=F(1154)c=Z[c]c=c(Z)Z=F(1171)J=x[D[1]]c[Z]=J Z,c=o[F(1300)],{}elseif Z<14894879 then c=x[D[1]]Z=c[Q]c={Z}Z=o[F(1176)]elseif 14954437>Z then N=F(1330)c=o[N]g=F(1390)U=o[g]g=F(1230)z=U[g]U={c(z)}W,Z,I,N=U[3],1161088,U[2],U[1]else I,Z=nil,16497644 end else if 15059087>Z then U,Z,z,I=e,F(1154),F(1171),N I,Z=nil,W[Z]Z=Z(W)Z[z]=U Z,W=13502581,nil elseif 15190823>Z then c=F(1269)Z=o[c]Z=Z and 12138745 or 8989671 elseif 15401614>Z then Q,Z,J,c=nil,o[F(1380)],nil,{}else e=F(1385)Z=x[D[5]]J=x[D[1]]Q=J[e]c=Z(Q)Z=15940393 end end else if 15685586>Z then if Z<15549858 then c,Z={},o[F(1289)]elseif Z<15579190 then Z=A Z=n and 11011991 or 13844499 elseif Z<15636921 then P=nil c,Z={P},o[F(1150)]else Z,P=760384,not i c=P end else if 15711425>Z then Q,J=u[1],u[2]Z=x[D[1]]e=x[D[2]]c=Z(e,Q)e=q()x[e]=c Z=x[D[1]]i=x[D[2]]c=Z(i,J)j=x[e]P,i=not j,c Z,c=P and 4512945 or 7759344,P elseif 15739060>Z then R,t=F(1362),F(1136)t=Y[t]t=t(Y,R)Z,n=15553392,t else P=F(1297)i=Q[P]P=2 e=i[P]J,Z=e,2039953 end end end else if 16265080>Z then if 16014142>Z then if Z<15783786 then Z,j,N=5770936,nil,nil elseif Z<15871162 then Z=F(1259)Z=J[Z]Z=Z(J)Z=12541723 elseif Z<15954821 then Z=2620053 else i,N=P(e,i)Z=i and 74801 or 16353268 end else if 16080694>Z then c=F(1332)Z=x[D[1]]Q=x[D[2]]c=Z[c]c=c(Z,Q)Q=c Z=Q and 4448906 or 14844806 elseif 16109142>Z then J=x[D[1]]e=F(1217)Q=J==e Z,c=Q and 4538718 or 11201316,Q elseif 16178280>Z then Q,J=u[1],F(1285)c=Q[J]e=x[D[1]]i=F(1285)J=e[i]Z=c==J Z=Z and 9324773 or 5595896 else c=F(1246)Z=o[c]e=x[D[1]]i=F(1166)J=e[i]e=F(1358)Q=J[e]c=Z(Q)Z=nil J,Q=Z,c c=F(1240)Z=o[c]j=F(1297)P=Q[j]j={Z(P)}i,c=j[3],j[1]P,e,Z=c,j[2],5770936 end end else if Z<16469530 then if Z<16321399 then z,U=F(1136),F(1260)z,P=W[z],I z=z(W,U)Z=z and 5269844 or 550119 elseif 16361529>Z then Z=nil c={Z}Z=o[F(1378)]elseif 16405603>Z then i,j,c=F(1165),F(1249),F(1269)Z=o[c]P,W,c,N,I=F(1262),6,F(1226),F(1313),F(1142)c,e=Z[c],{[i]=P,[j]=N,[I]=W}c=c(Z,e)Z=1767530 else Q=q()c,e=F(1332),F(1348)x[Q]=u[1]J=q()x[J]=u[2]Z=x[D[1]]c=Z[c]c=c(Z,e)e=c Z=not e Z=Z and 7501154 or 14266191 end else if 16536136>Z then Z,N,j=15969250,nil,nil elseif Z<16671985 then Z=x[D[2]]c=Z(Q)J=c Z=J and 8211578 or 2149163 else c,P,i=F(1269),F(1138),F(1165)Z=o[c]j,c=F(1249),F(1226)c,z=Z[c],F(1151)W=o[z]I=F(1307)z=W(Q)N=I..z W,I=5,F(1142)e={[i]=P;[j]=N,[I]=W}c=c(Z,e)Z=8227144 end end end end end end end end Z=#h return f(c)end,function(o)for F=1,#o,1 do Q[o[F]]=Q[o[F]]+1 end if u then local Z=u(true)local f=h(Z)f[F(1317)],f[F(1172)],f[F(1123)]=o,i,function()return 1224717 end return Z else return D({},{[F(1172)]=i,[F(1317)]=o;[F(1123)]=function()return 1224717 end})end end return(P(1322455,{}))(f(c))end)(getmetatable,select,newproxy,setmetatable,{...},getfenv and getfenv()or _ENV,unpack or table[F(1222)])end)(...)
+-- ============================================
+-- NEO HYPER - SHADERS MODULE (WindUI Edition)
+-- ============================================
+return function(Window)
+    local Lighting = game:GetService("Lighting")
+    local RunService = game:GetService("RunService")
+    local Terrain = workspace:FindFirstChildOfClass("Terrain")
+
+    -- إيجاد أو إنشاء مؤثرات الإضاءة
+    local function getEffect(className)
+        return Lighting:FindFirstChildOfClass(className) or Instance.new(className, Lighting)
+    end
+
+    local bloom = getEffect("BloomEffect")
+    local cc = getEffect("ColorCorrectionEffect")
+    local atmo = getEffect("Atmosphere")
+    local sky = getEffect("Sky")
+    local cloud = Terrain and Terrain:FindFirstChildOfClass("Clouds") or Instance.new("Clouds", Terrain or Lighting)
+
+    local Camera = workspace.CurrentCamera
+    local mblur = Camera and (Camera:FindFirstChildOfClass("BlurEffect") or Instance.new("BlurEffect", Camera))
+    if mblur then mblur.Size = 0 end
+
+    -- حفظ القيم الافتراضية للعبة لاسترجاعها (Reset)
+    local defaults = {
+        Ambient = Lighting.Ambient,
+        ClockTime = Lighting.ClockTime,
+        Latitude = Lighting.GeographicLatitude,
+        Brightness = Lighting.Brightness,
+        Exposure = Lighting.ExposureCompensation,
+        EnvDiff = Lighting.EnvironmentDiffuseScale,
+        EnvSpec = Lighting.EnvironmentSpecularScale,
+        BloomI = bloom.Intensity,
+        BloomS = bloom.Size,
+        BloomT = bloom.Threshold,
+        BloomEnabled = bloom.Enabled,
+        CCBright = cc.Brightness,
+        CCCont = cc.Contrast,
+        CCSat = cc.Saturation,
+        CCTint = cc.TintColor,
+        CCEnabled = cc.Enabled,
+        CloudCover = cloud.Cover,
+        CloudDensity = cloud.Density,
+        CloudColor = cloud.Color,
+        AtmoDensity = atmo.Density,
+        AtmoOffset = atmo.Offset,
+        AtmoColor = atmo.Color,
+        AtmoGlare = atmo.Glare,
+        AtmoHaze = atmo.Haze,
+        SkyBk = sky.SkyboxBk, SkyDn = sky.SkyboxDn, SkyFt = sky.SkyboxFt,
+        SkyLf = sky.SkyboxLf, SkyRt = sky.SkyboxRt, SkyUp = sky.SkyboxUp,
+        FogEnd = Lighting.FogEnd, FogStart = Lighting.FogStart
+    }
+
+    -- متغيرات التحكم والـ Overrides
+    local motionEnabled = false
+    local motionIntensity = 0
+    local lastLookVec = Camera and Camera.CFrame.LookVector or Vector3.new()
+
+    local forceSky, forceCloud, forceAtmo, forceCC, forceBloom, forceFog = false, false, false, false, false, false
+    local savedSky = {}
+    local savedCloudCover, savedCloudDensity, savedCloudColor = 0, 0, Color3.fromRGB(255, 255, 255)
+    local savedAtmoDensity, savedAtmoOffset, savedAtmoColor, savedAtmoGlare, savedAtmoHaze = 0, 0, Color3.fromRGB(255, 255, 255), 0, 0
+    local savedCCBright, savedCCCont, savedCCSat, savedCCTint = 0, 0, 0, Color3.fromRGB(255, 255, 255)
+    local savedBloomI, savedBloomS, savedBloomT = 0, 0, 0
+    local savedFogEnd, savedFogStart = 9e9, 9e9
+
+    -- حلقة RenderStepped للثبات وتطبيق القيم بدون ما اللعبة تفرسها
+    RunService.RenderStepped:Connect(function()
+        if Camera then
+            if motionEnabled then
+                local cur = Camera.CFrame.LookVector
+                local delta = (cur - lastLookVec).Magnitude
+                mblur.Size = delta * motionIntensity * 0.8
+                lastLookVec = cur
+            else
+                mblur.Size = 0
+            end
+        end
+
+        if forceSky and savedSky.bk then
+            pcall(function()
+                sky.SkyboxBk, sky.SkyboxDn, sky.SkyboxFt = savedSky.bk, savedSky.dn, savedSky.ft
+                sky.SkyboxLf, sky.SkyboxRt, sky.SkyboxUp = savedSky.lf, savedSky.rt, savedSky.up
+            end)
+        end
+        if forceCloud then pcall(function() cloud.Cover, cloud.Density, cloud.Color = savedCloudCover, savedCloudDensity, savedCloudColor end) end
+        if forceAtmo then pcall(function() atmo.Density, atmo.Offset, atmo.Color, atmo.Glare, atmo.Haze = savedAtmoDensity, savedAtmoOffset, savedAtmoColor, savedAtmoGlare, savedAtmoHaze end) end
+        if forceCC then pcall(function() cc.Brightness, cc.Contrast, cc.Saturation, cc.TintColor, cc.Enabled = savedCCBright, savedCCCont, savedCCSat, savedCCTint, true end) end
+        if forceBloom then pcall(function() bloom.Intensity, bloom.Size, bloom.Threshold, bloom.Enabled = savedBloomI, savedBloomS, savedBloomT, true end) end
+        if forceFog then pcall(function() Lighting.FogEnd, Lighting.FogStart = savedFogEnd, savedFogStart end) end
+    end)
+
+    -- ============================================
+    -- إنشاء تابة Shaders داخل WindUI
+    -- ============================================
+    local ShadersTab = Window:Tab({
+        Title = "Shaders",
+        Icon = "solar:sun-bold-duotone",
+        Locked = false
+    })
+
+    -- 1️⃣ Presets Section
+    local PresetsSection = ShadersTab:Section({ Title = "Presets", Side = "Left", Collapsed = false })
+
+    local presetData = {
+        Blossom = {
+            ambient = Color3.fromHSV(0.78, 0.20, 0.69), clockTime = 10, latitude = 43, brightness = 2.52, exposure = 0.38,
+            envDiff = 0.33, envSpec = 0.46, bloomI = 0.71, bloomS = 33, bloomT = 0.95, ccBright = 0.02, ccCont = -0.01, ccSat = -0.19,
+            tint = Color3.fromHSV(0, 0, 1), motion = 20, cloudCover = 0.77, cloudDensity = 0.52, cloudColor = Color3.fromHSV(0.79, 0.50, 1),
+            atmoDensity = 0.56, atmoOffset = 0.56, atmoColor = Color3.fromHSV(0.80, 0.37, 0.89), atmoGlare = 0, atmoHaze = 5.11,
+            skyBk = "rbxassetid://9544505500", skyDn = "rbxassetid://9544547905", skyFt = "rbxassetid://9544504852",
+            skyLf = "rbxassetid://9544547694", skyRt = "rbxassetid://9544547542", skyUp = "rbxassetid://9544547398"
+        },
+        Rain = {
+            ambient = Color3.fromHSV(0.08, 0.02, 0.43), clockTime = 15, latitude = -45, brightness = 0.25, exposure = 0.5,
+            envDiff = 0.20, envSpec = 0.25, bloomI = 0.3, bloomS = 10, bloomT = 0.8, ccBright = 0.1, ccCont = 0.5, ccSat = -0.3,
+            tint = Color3.fromHSV(0, 0, 0.78), motion = 0, cloudCover = 0.75, cloudDensity = 0.93, cloudColor = Color3.fromHSV(0.08, 0.02, 0.65),
+            atmoDensity = 0.56, atmoOffset = 0.55, atmoColor = Color3.fromHSV(0.08, 0.02, 0.65), atmoGlare = 0.36, atmoHaze = 1.72,
+            skyBk = "rbxassetid://9544505500", skyDn = "rbxassetid://9544547905", skyFt = "rbxassetid://9544504852",
+            skyLf = "rbxassetid://9544547694", skyRt = "rbxassetid://9544547542", skyUp = "rbxassetid://9544547398"
+        },
+        Snow = {
+            ambient = Color3.fromHSV(0, 0, 0.95), clockTime = 10, latitude = -45, brightness = -0.1, exposure = 0.2,
+            envDiff = 0.40, envSpec = 0.25, bloomI = 0.3, bloomS = 10, bloomT = 0.8, ccBright = -0.1, ccCont = 0.2, ccSat = -0.3,
+            tint = Color3.fromHSV(0.67, 0.05, 1), motion = 0, cloudCover = 0.55, cloudDensity = 0.93, cloudColor = Color3.fromHSV(0, 0, 0.95),
+            atmoDensity = 0.56, atmoOffset = 0.55, atmoColor = Color3.fromHSV(0.08, 0.02, 0.65), atmoGlare = 0.36, atmoHaze = 1.72,
+            skyBk = "rbxassetid://9544505500", skyDn = "rbxassetid://9544547905", skyFt = "rbxassetid://9544504852",
+            skyLf = "rbxassetid://9544547694", skyRt = "rbxassetid://9544547542", skyUp = "rbxassetid://9544547398"
+        }
+    }
+
+    local function applyPreset(d)
+        if d.ambient then Lighting.Ambient = d.ambient end
+        if d.clockTime then Lighting.ClockTime = d.clockTime end
+        if d.latitude then Lighting.GeographicLatitude = d.latitude end
+        if d.brightness then Lighting.Brightness = d.brightness end
+        if d.exposure then Lighting.ExposureCompensation = d.exposure end
+        if d.envDiff then Lighting.EnvironmentDiffuseScale = d.envDiff end
+        if d.envSpec then Lighting.EnvironmentSpecularScale = d.envSpec end
+
+        if d.bloomI then
+            bloom.Intensity = d.bloomI; bloom.Size = d.bloomS or 0; bloom.Threshold = d.bloomT or 0
+            savedBloomI, savedBloomS, savedBloomT = d.bloomI, d.bloomS or 0, d.bloomT or 0
+            bloom.Enabled = true; forceBloom = true
+        end
+
+        if d.ccBright then
+            cc.Brightness = d.ccBright; cc.Contrast = d.ccCont or 0; cc.Saturation = d.ccSat or 0
+            if d.tint then cc.TintColor = d.tint; savedCCTint = d.tint end
+            savedCCBright, savedCCCont, savedCCSat = d.ccBright, d.ccCont or 0, d.ccSat or 0
+            cc.Enabled = true; forceCC = true
+        end
+
+        if d.motion then motionIntensity = d.motion; motionEnabled = (d.motion > 0) end
+
+        if d.cloudCover then
+            cloud.Cover = d.cloudCover; cloud.Density = d.cloudDensity or 0
+            if d.cloudColor then cloud.Color = d.cloudColor; savedCloudColor = d.cloudColor end
+            savedCloudCover, savedCloudDensity = d.cloudCover, d.cloudDensity or 0
+            forceCloud = true
+        end
+
+        if d.atmoDensity then
+            atmo.Density = d.atmoDensity; atmo.Offset = d.atmoOffset or 0
+            if d.atmoColor then atmo.Color = d.atmoColor; savedAtmoColor = d.atmoColor end
+            atmo.Glare = d.atmoGlare or 0; atmo.Haze = d.atmoHaze or 0
+            savedAtmoDensity, savedAtmoOffset, savedAtmoGlare, savedAtmoHaze = d.atmoDensity, d.atmoOffset or 0, d.atmoGlare or 0, d.atmoHaze or 0
+            forceAtmo = true
+        end
+
+        if d.skyBk then
+            sky.SkyboxBk, sky.SkyboxDn, sky.SkyboxFt = d.skyBk, d.skyDn, d.skyFt
+            sky.SkyboxLf, sky.SkyboxRt, sky.SkyboxUp = d.skyLf, d.skyRt, d.skyUp
+            savedSky = { bk = d.skyBk, dn = d.skyDn, ft = d.skyFt, lf = d.skyLf, rt = d.skyRt, up = d.skyUp }
+            forceSky = true
+        end
+
+        Lighting.FogEnd, Lighting.FogStart = 9e9, 9e9
+        savedFogEnd, savedFogStart = 9e9, 9e9
+        forceFog = true
+    end
+
+    PresetsSection:Dropdown({
+        Title = "Select Preset",
+        Values = { "None", "Blossom", "Rain", "Snow" },
+        Default = "None",
+        Callback = function(value)
+            if presetData[value] then
+                applyPreset(presetData[value])
+                if WindUI and WindUI.Notify then
+                    WindUI:Notify({ Title = "Shaders", Content = "Applied Preset: " .. value, Duration = 2 })
+                end
+            end
+        end
+    })
+
+    PresetsSection:Button({
+        Title = "Reset All Shaders",
+        Callback = function()
+            forceSky, forceCloud, forceAtmo, forceCC, forceBloom, forceFog = false, false, false, false, false, false
+            Lighting.Ambient = defaults.Ambient
+            Lighting.ClockTime = defaults.ClockTime
+            Lighting.GeographicLatitude = defaults.Latitude
+            Lighting.Brightness = defaults.Brightness
+            Lighting.ExposureCompensation = defaults.Exposure
+            Lighting.EnvironmentDiffuseScale = defaults.EnvDiff
+            Lighting.EnvironmentSpecularScale = defaults.EnvSpec
+            Lighting.FogEnd = defaults.FogEnd
+            Lighting.FogStart = defaults.FogStart
+
+            bloom.Enabled, bloom.Intensity, bloom.Size, bloom.Threshold = defaults.BloomEnabled, defaults.BloomI, defaults.BloomS, defaults.BloomT
+            cc.Enabled, cc.Brightness, cc.Contrast, cc.Saturation, cc.TintColor = defaults.CCEnabled, defaults.CCBright, defaults.CCCont, defaults.CCSat, defaults.CCTint
+            cloud.Cover, cloud.Density, cloud.Color = defaults.CloudCover, defaults.CloudDensity, defaults.CloudColor
+            atmo.Density, atmo.Offset, atmo.Color, atmo.Glare, atmo.Haze = defaults.AtmoDensity, defaults.AtmoOffset, defaults.AtmoColor, defaults.AtmoGlare, defaults.AtmoHaze
+            sky.SkyboxBk, sky.SkyboxDn, sky.SkyboxFt = defaults.SkyBk, defaults.SkyDn, defaults.SkyFt
+            sky.SkyboxLf, sky.SkyboxRt, sky.SkyboxUp = defaults.SkyLf, defaults.SkyRt, defaults.SkyUp
+
+            motionIntensity = 0; motionEnabled = false
+            if mblur then mblur.Size = 0 end
+
+            if WindUI and WindUI.Notify then
+                WindUI:Notify({ Title = "Shaders", Content = "Reset all shaders to default!", Duration = 2 })
+            end
+        end
+    })
+
+    -- 2️⃣ Time & Position Section
+    local TimeSection = ShadersTab:Section({ Title = "Time & Position", Side = "Right", Collapsed = false })
+
+    TimeSection:Slider({
+        Title = "Clock Time",
+        Value = { Min = 0, Max = 24, Default = math.floor(Lighting.ClockTime) },
+        Step = 0.5,
+        Callback = function(v) Lighting.ClockTime = v end
+    })
+
+    TimeSection:Slider({
+        Title = "Latitude",
+        Value = { Min = 0, Max = 360, Default = math.floor(Lighting.GeographicLatitude) },
+        Callback = function(v) Lighting.GeographicLatitude = v end
+    })
+
+    TimeSection:Slider({
+        Title = "Brightness",
+        Value = { Min = -5, Max = 10, Default = Lighting.Brightness },
+        Step = 0.1,
+        Callback = function(v) Lighting.Brightness = v end
+    })
+
+    TimeSection:Slider({
+        Title = "Exposure",
+        Value = { Min = -5, Max = 5, Default = Lighting.ExposureCompensation },
+        Step = 0.1,
+        Callback = function(v) Lighting.ExposureCompensation = v end
+    })
+
+    TimeSection:Colorpicker({
+        Title = "Ambient Color",
+        Default = Lighting.Ambient,
+        Callback = function(col) Lighting.Ambient = col end
+    })
+
+    -- 3️⃣ Environment Section
+    local EnvSection = ShadersTab:Section({ Title = "Environment", Side = "Left", Collapsed = false })
+
+    EnvSection:Slider({
+        Title = "Diffuse Scale",
+        Value = { Min = 0, Max = 1, Default = Lighting.EnvironmentDiffuseScale },
+        Step = 0.05,
+        Callback = function(v) Lighting.EnvironmentDiffuseScale = v end
+    })
+
+    EnvSection:Slider({
+        Title = "Specular Scale",
+        Value = { Min = 0, Max = 1, Default = Lighting.EnvironmentSpecularScale },
+        Step = 0.05,
+        Callback = function(v) Lighting.EnvironmentSpecularScale = v end
+    })
+
+    -- 4️⃣ Color Correction Section
+    local CCSection = ShadersTab:Section({ Title = "Color Correction", Side = "Right", Collapsed = false })
+
+    CCSection:Slider({
+        Title = "Brightness",
+        Value = { Min = -1, Max = 1, Default = cc.Brightness },
+        Step = 0.05,
+        Callback = function(v)
+            cc.Brightness = v; savedCCBright = v
+            forceCC = true; cc.Enabled = true
+        end
+    })
+
+    CCSection:Slider({
+        Title = "Contrast",
+        Value = { Min = -1, Max = 1, Default = cc.Contrast },
+        Step = 0.05,
+        Callback = function(v)
+            cc.Contrast = v; savedCCCont = v
+            forceCC = true; cc.Enabled = true
+        end
+    })
+
+    CCSection:Slider({
+        Title = "Saturation",
+        Value = { Min = -1, Max = 1, Default = cc.Saturation },
+        Step = 0.05,
+        Callback = function(v)
+            cc.Saturation = v; savedCCSat = v
+            forceCC = true; cc.Enabled = true
+        end
+    })
+
+    CCSection:Colorpicker({
+        Title = "Tint Color",
+        Default = cc.TintColor,
+        Callback = function(col)
+            cc.TintColor = col; savedCCTint = col
+            forceCC = true; cc.Enabled = true
+        end
+    })
+
+    -- 5️⃣ Bloom Section
+    local BloomSection = ShadersTab:Section({ Title = "Bloom", Side = "Left", Collapsed = false })
+
+    BloomSection:Slider({
+        Title = "Intensity",
+        Value = { Min = 0, Max = 1, Default = bloom.Intensity },
+        Step = 0.05,
+        Callback = function(v)
+            bloom.Intensity = v; savedBloomI = v
+            forceBloom = (v > 0); bloom.Enabled = (v > 0)
+        end
+    })
+
+    BloomSection:Slider({
+        Title = "Size",
+        Value = { Min = 0, Max = 56, Default = bloom.Size },
+        Step = 1,
+        Callback = function(v) bloom.Size = v; savedBloomS = v end
+    })
+
+    BloomSection:Slider({
+        Title = "Threshold",
+        Value = { Min = 0, Max = 4, Default = bloom.Threshold },
+        Step = 0.1,
+        Callback = function(v) bloom.Threshold = v; savedBloomT = v end
+    })
+
+    -- 6️⃣ Motion Blur Section
+    local MotionSection = ShadersTab:Section({ Title = "Motion Blur", Side = "Right", Collapsed = false })
+
+    MotionSection:Slider({
+        Title = "Motion Intensity",
+        Value = { Min = 0, Max = 100, Default = 0 },
+        Step = 1,
+        Callback = function(v)
+            motionIntensity = v
+            motionEnabled = (v > 0)
+            if not motionEnabled and mblur then mblur.Size = 0 end
+        end
+    })
+
+    -- 7️⃣ Sky & Atmosphere Section
+    local SkySection = ShadersTab:Section({ Title = "Clouds & Atmosphere", Side = "Left", Collapsed = false })
+
+    SkySection:Slider({
+        Title = "Cloud Cover",
+        Value = { Min = 0, Max = 1, Default = cloud.Cover },
+        Step = 0.05,
+        Callback = function(v)
+            cloud.Cover = v; savedCloudCover = v
+            forceCloud = true
+        end
+    })
+
+    SkySection:Slider({
+        Title = "Cloud Density",
+        Value = { Min = 0, Max = 1, Default = cloud.Density },
+        Step = 0.05,
+        Callback = function(v) cloud.Density = v; savedCloudDensity = v end
+    })
+
+    SkySection:Colorpicker({
+        Title = "Cloud Color",
+        Default = cloud.Color,
+        Callback = function(col)
+            cloud.Color = col; savedCloudColor = col
+            forceCloud = true
+        end
+    })
+
+    SkySection:Slider({
+        Title = "Atmosphere Density",
+        Value = { Min = 0, Max = 1, Default = atmo.Density },
+        Step = 0.05,
+        Callback = function(v)
+            atmo.Density = v; savedAtmoDensity = v
+            forceAtmo = true
+        end
+    })
+
+    SkySection:Slider({
+        Title = "Atmosphere Offset",
+        Value = { Min = 0, Max = 1, Default = atmo.Offset },
+        Step = 0.05,
+        Callback = function(v) atmo.Offset = v; savedAtmoOffset = v end
+    })
+
+    SkySection:Slider({
+        Title = "Atmosphere Glare",
+        Value = { Min = 0, Max = 10, Default = atmo.Glare },
+        Step = 0.1,
+        Callback = function(v) atmo.Glare = v; savedAtmoGlare = v end
+    })
+
+    SkySection:Slider({
+        Title = "Atmosphere Haze",
+        Value = { Min = 0, Max = 10, Default = atmo.Haze },
+        Step = 0.1,
+        Callback = function(v) atmo.Haze = v; savedAtmoHaze = v end
+    })
+
+    SkySection:Colorpicker({
+        Title = "Atmosphere Color",
+        Default = atmo.Color,
+        Callback = function(col)
+            atmo.Color = col; savedAtmoColor = col
+            forceAtmo = true
+        end
+    })
+
+    -- 8️⃣ Skybox Selector Section
+    local SkyboxSection = ShadersTab:Section({ Title = "Skybox Customization", Side = "Right", Collapsed = false })
+
+    local skyNames = { "Default", "Morning", "Midday", "Afternoon", "Evening", "Rain", "Cloudy" }
+    local skyData = {
+        Default = {},
+        Morning = { bk = "rbxassetid://9544505500", dn = "rbxassetid://9544547905", ft = "rbxassetid://9544504852", lf = "rbxassetid://9544547694", rt = "rbxassetid://9544547542", up = "rbxassetid://9544547398" },
+        Midday = { bk = "rbxassetid://9544505500", dn = "rbxassetid://9544547905", ft = "rbxassetid://9544504852", lf = "rbxassetid://9544547694", rt = "rbxassetid://9544547542", up = "rbxassetid://9544547398" },
+        Afternoon = { bk = "rbxassetid://9544505500", dn = "rbxassetid://9544547905", ft = "rbxassetid://9544504852", lf = "rbxassetid://9544547694", rt = "rbxassetid://9544547542", up = "rbxassetid://9544547398" },
+        Evening = { bk = "rbxassetid://9544505500", dn = "rbxassetid://9544547905", ft = "rbxassetid://9544504852", lf = "rbxassetid://9544547694", rt = "rbxassetid://9544547542", up = "rbxassetid://9544547398" },
+        Rain = { bk = "rbxassetid://9544505500", dn = "rbxassetid://9544547905", ft = "rbxassetid://9544504852", lf = "rbxassetid://9544547694", rt = "rbxassetid://9544547542", up = "rbxassetid://9544547398" },
+        Cloudy = { bk = "rbxassetid://9544505500", dn = "rbxassetid://9544547905", ft = "rbxassetid://9544504852", lf = "rbxassetid://9544547694", rt = "rbxassetid://9544547542", up = "rbxassetid://9544547398" }
+    }
+
+    SkyboxSection:Dropdown({
+        Title = "Preset Skybox",
+        Values = skyNames,
+        Default = "Default",
+        Callback = function(curSky)
+            if skyData[curSky] and skyData[curSky].bk then
+                sky.SkyboxBk, sky.SkyboxDn, sky.SkyboxFt = skyData[curSky].bk, skyData[curSky].dn, skyData[curSky].ft
+                sky.SkyboxLf, sky.SkyboxRt, sky.SkyboxUp = skyData[curSky].lf, skyData[curSky].rt, skyData[curSky].up
+                savedSky = { bk = skyData[curSky].bk, dn = skyData[curSky].dn, ft = skyData[curSky].ft, lf = skyData[curSky].lf, rt = skyData[curSky].rt, up = skyData[curSky].up }
+                forceSky = true
+            elseif curSky == "Default" then
+                sky.SkyboxBk, sky.SkyboxDn, sky.SkyboxFt = defaults.SkyBk, defaults.SkyDn, defaults.SkyFt
+                sky.SkyboxLf, sky.SkyboxRt, sky.SkyboxUp = defaults.SkyLf, defaults.SkyRt, defaults.SkyUp
+                forceSky = false
+            end
+        end
+    })
+
+    SkyboxSection:Input({
+        Title = "Custom Skybox ID",
+        Placeholder = "Enter Asset ID",
+        Callback = function(id)
+            if id and id ~= "" then
+                local asset = "rbxassetid://" .. id
+                sky.SkyboxBk, sky.SkyboxDn, sky.SkyboxFt = asset, asset, asset
+                sky.SkyboxLf, sky.SkyboxRt, sky.SkyboxUp = asset, asset, asset
+                savedSky = { bk = asset, dn = asset, ft = asset, lf = asset, rt = asset, up = asset }
+                forceSky = true
+                if WindUI and WindUI.Notify then
+                    WindUI:Notify({ Title = "Skybox", Content = "Loaded Custom Skybox ID: " .. id, Duration = 2 })
+                end
+            end
+        end
+    })
+
+    print("✅ Shaders Module (Full Conversion) Loaded Successfully!")
